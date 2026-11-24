@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudobjectivekothtimepanel.res"
+	#base	"../../myedit67/resource/ui/hudobjectivekothtimepanel.res"
+	#base	"../../extd/resource/ui/hudobjectivekothtimepanel.res"
+	#base	"../../myedit/resource/ui/hudobjectivekothtimepanel.res"
+	#base	"../../frag/resource/ui/hudobjectivekothtimepanel.res"
 	#base	"../../_jofrenew/resource/ui/hudobjectivekothtimepanel.res"
 	#base	"../../_jofrehud/resource/ui/hudobjectivekothtimepanel.res"
 	#base	"../../_tf2hud/resource/ui/hudobjectivekothtimepanel.res"

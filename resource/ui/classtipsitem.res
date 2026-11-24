@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/classtipsitem.res"
+	#base	"../../myedit67/resource/ui/classtipsitem.res"
+	#base	"../../extd/resource/ui/classtipsitem.res"
+	#base	"../../myedit/resource/ui/classtipsitem.res"
+	#base	"../../frag/resource/ui/classtipsitem.res"
 	#base	"../../_jofrenew/resource/ui/classtipsitem.res"
 	#base	"../../_jofrehud/resource/ui/classtipsitem.res"
 	#base	"../../_tf2hud/resource/ui/classtipsitem.res"

@@ -1,3 +1,6 @@
+#base "../extd/resource/loadingdialogerrorloggedinelsewhere.res"
+#base "../myedit/resource/loadingdialogerrorloggedinelsewhere.res"
+#base "../frag/resource/loadingdialogerrorloggedinelsewhere.res"
 #base "../_jofrenew/resource/loadingdialogerrorloggedinelsewhere.res"
 #base "../_jofrehud/resource/loadingdialogerrorloggedinelsewhere.res"
 #base "../_tf2hud/resource/resource/loadingdialogerrorloggedinelsewhere.res"

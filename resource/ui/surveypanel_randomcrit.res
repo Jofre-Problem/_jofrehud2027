@@ -1,3 +1,6 @@
+	#base	"../../myedit67/resource/ui/surveypanel_randomcrit.res"
+#base "SurveyPanel_Base.res"
+	#base	"../../myedit/resource/ui/surveypanel_randomcrit.res"
 #base "SurveyPanel_Base.res"
 	#base	"../../_jofrenew/resource/ui/surveypanel_randomcrit.res"
 	#base	"../../_jofrehud/resource/ui/surveypanel_randomcrit.res"

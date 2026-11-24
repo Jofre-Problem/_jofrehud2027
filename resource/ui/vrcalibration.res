@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/vrcalibration.res"
+	#base	"../../_stream6767/resource/ui/vrcalibration.res"
+	#base	"../../extd/resource/ui/vrcalibration.res"
+	#base	"../../_stream67/resource/ui/vrcalibration.res"
+	#base	"../../frag/resource/ui/vrcalibration.res"
 	#base	"../../_stream/resource/ui/vrcalibration.res"
 	#base	"../../_jofrehud/resource/ui/vrcalibration.res"
 	#base	"../../_tf2hud/resource/ui/vrcalibration.res"

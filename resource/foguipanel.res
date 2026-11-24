@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/foguipanel.res"
+#base "../_jofrehud67/resource/foguipanel.res"
+#base "../_tf2hud67/resource/resource/foguipanel.res"
 #base "../_jofrehud/resource/foguipanel.res"
 #base "../_tf2hud/resource/resource/foguipanel.res"

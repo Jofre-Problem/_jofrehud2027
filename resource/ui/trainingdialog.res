@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/trainingdialog.res"
+	#base	"../../myedit67/resource/ui/trainingdialog.res"
+	#base	"../../extd/resource/ui/trainingdialog.res"
+	#base	"../../myedit/resource/ui/trainingdialog.res"
+	#base	"../../frag/resource/ui/trainingdialog.res"
 	#base	"../../_jofrenew/resource/ui/trainingdialog.res"
 	#base	"../../_jofrehud/resource/ui/trainingdialog.res"
 	#base	"../../_tf2hud/resource/ui/trainingdialog.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/annotationspanelcallout.res"
+	#base	"../../myedit67/resource/ui/annotationspanelcallout.res"
+	#base	"../../extd/resource/ui/annotationspanelcallout.res"
+	#base	"../../myedit/resource/ui/annotationspanelcallout.res"
+	#base	"../../frag/resource/ui/annotationspanelcallout.res"
 	#base	"../../_jofrenew/resource/ui/annotationspanelcallout.res"
 	#base	"../../_jofrehud/resource/ui/annotationspanelcallout.res"
 	#base	"../../_tf2hud/resource/ui/annotationspanelcallout.res"

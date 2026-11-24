@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/importmaterialeditdialog.res"
+	#base	"../../myedit67/resource/ui/importmaterialeditdialog.res"
+	#base	"../../extd/resource/ui/importmaterialeditdialog.res"
+	#base	"../../myedit/resource/ui/importmaterialeditdialog.res"
+	#base	"../../frag/resource/ui/importmaterialeditdialog.res"
 	#base	"../../_jofrenew/resource/ui/importmaterialeditdialog.res"
 	#base	"../../_jofrehud/resource/ui/importmaterialeditdialog.res"
 	#base	"../../_tf2hud/resource/ui/importmaterialeditdialog.res"

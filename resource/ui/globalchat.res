@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/globalchat.res"
+	#base	"../../myedit67/resource/ui/globalchat.res"
+	#base	"../../extd/resource/ui/globalchat.res"
+	#base	"../../myedit/resource/ui/globalchat.res"
+	#base	"../../frag/resource/ui/globalchat.res"
 	#base	"../../_jofrenew/resource/ui/globalchat.res"
 	#base	"../../_jofrehud/resource/ui/globalchat.res"
 	#base	"../../_tf2hud/resource/ui/globalchat.res"

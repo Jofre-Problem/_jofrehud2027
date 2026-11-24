@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/spectatortournamentguihealth.res"
+	#base	"../../myedit67/resource/ui/spectatortournamentguihealth.res"
+	#base	"../../extd/resource/ui/spectatortournamentguihealth.res"
+	#base	"../../myedit/resource/ui/spectatortournamentguihealth.res"
+	#base	"../../frag/resource/ui/spectatortournamentguihealth.res"
 	#base	"../../_jofrenew/resource/ui/spectatortournamentguihealth.res"
 	#base	"../../_jofrehud/resource/ui/spectatortournamentguihealth.res"
 	#base	"../../_tf2hud/resource/ui/spectatortournamentguihealth.res"

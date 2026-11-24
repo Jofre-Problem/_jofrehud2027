@@ -1,3 +1,6 @@
+	#base	"../../extd/resource/ui/matchmakingdashboardplaylist.res"
+	#base	"../../myedit/resource/ui/matchmakingdashboardplaylist.res"
+	#base	"../../frag/resource/ui/matchmakingdashboardplaylist.res"
 	#base	"../../_jofrenew/resource/ui/matchmakingdashboardplaylist.res"
 	#base	"../../_jofrehud/resource/ui/matchmakingdashboardplaylist.res"
 	#base	"../../_tf2hud/resource/ui/matchmakingdashboardplaylist.res"

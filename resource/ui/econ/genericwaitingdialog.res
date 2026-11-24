@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/genericwaitingdialog.res"
+	#base	"../../../myedit67/resource/ui/econ/genericwaitingdialog.res"
+	#base	"../../../extd/resource/ui/econ/genericwaitingdialog.res"
+	#base	"../../../myedit/resource/ui/econ/genericwaitingdialog.res"
+	#base	"../../../frag/resource/ui/econ/genericwaitingdialog.res"
 	#base	"../../../_jofrenew/resource/ui/econ/genericwaitingdialog.res"
 	#base	"../../../_jofrehud/resource/ui/econ/genericwaitingdialog.res"
 	#base	"../../../_tf2hud/resource/ui/econ/genericwaitingdialog.res"

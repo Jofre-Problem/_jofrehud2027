@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudarenawinpanel.res"
+	#base	"../../myedit67/resource/ui/hudarenawinpanel.res"
+	#base	"../../extd/resource/ui/hudarenawinpanel.res"
+	#base	"../../myedit/resource/ui/hudarenawinpanel.res"
+	#base	"../../frag/resource/ui/hudarenawinpanel.res"
 	#base	"../../_jofrenew/resource/ui/hudarenawinpanel.res"
 	#base	"../../_jofrehud/resource/ui/hudarenawinpanel.res"
 	#base	"../../_tf2hud/resource/ui/hudarenawinpanel.res"

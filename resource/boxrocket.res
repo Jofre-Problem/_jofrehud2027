@@ -1,3 +1,6 @@
+#base "../extd/_tf2exp/boxrocket.res"
+#base "../_jofrehud67/resource/boxrocket.res"
+#base "../frag/_tf2exp/boxrocket.res"
 #base "../_jofrehud/resource/boxrocket.res"
 #base "../_jofrehud/_tf2exp/boxrocket.res"
 //#base "../_tf2hud/resource/resource/boxrocket.res"

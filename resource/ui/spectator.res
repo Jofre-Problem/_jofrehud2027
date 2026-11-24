@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/spectator.res"
+	#base	"../../myedit67/resource/ui/spectator.res"
+	#base	"../../extd/resource/ui/spectator.res"
+	#base	"../../myedit/resource/ui/spectator.res"
+	#base	"../../frag/resource/ui/spectator.res"
 	#base	"../../_jofrenew/resource/ui/spectator.res"
 	#base	"../../_jofrehud/resource/ui/spectator.res"
 	#base	"../../_tf2hud/resource/ui/spectator.res"

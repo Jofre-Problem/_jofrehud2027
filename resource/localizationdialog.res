@@ -1,3 +1,6 @@
+#base "../extd/_tf2fix/platform/resource/localizationdialog.res"
+#base "../_jofrehud67/resource/localizationdialog.res"
+#base "../frag/_tf2fix/platform/resource/localizationdialog.res"
 #base "../_jofrehud/resource/localizationdialog.res"
 #base "../_jofrehud/_tf2fix/platform/resource/localizationdialog.res"
 //#base "../_tf2hud/root/resource/localizationdialog.res"

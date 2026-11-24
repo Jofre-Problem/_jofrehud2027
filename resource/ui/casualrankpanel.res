@@ -1,2 +1,5 @@
+#base "../../_tf2hud6767/resource/ui/pvprankpanel.res"
+#base "../../_jofrehud67/resource/ui/res_base/pvprankpanel.res"
+#base "../../_tf2hud67/resource/ui/pvprankpanel.res"
 #base "../../_jofrehud/resource/ui/res_base/pvprankpanel.res"
 #base "../../_tf2hud/resource/ui/pvprankpanel.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudinspectpanel.res"
+	#base	"../../myedit67/resource/ui/hudinspectpanel.res"
+	#base	"../../extd/resource/ui/hudinspectpanel.res"
+	#base	"../../myedit/resource/ui/hudinspectpanel.res"
+	#base	"../../frag/resource/ui/hudinspectpanel.res"
 	#base	"../../_jofrenew/resource/ui/hudinspectpanel.res"
 	#base	"../../_jofrehud/resource/ui/hudinspectpanel.res"
 	#base	"../../_tf2hud/resource/ui/hudinspectpanel.res"

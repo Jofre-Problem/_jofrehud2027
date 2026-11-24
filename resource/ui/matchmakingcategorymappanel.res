@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/matchmakingcategorymappanel.res"
+	#base	"../../myedit67/resource/ui/matchmakingcategorymappanel.res"
+	#base	"../../extd/resource/ui/matchmakingcategorymappanel.res"
+	#base	"../../myedit/resource/ui/matchmakingcategorymappanel.res"
+	#base	"../../frag/resource/ui/matchmakingcategorymappanel.res"
 	#base	"../../_jofrenew/resource/ui/matchmakingcategorymappanel.res"
 	#base	"../../_jofrehud/resource/ui/matchmakingcategorymappanel.res"
 	#base	"../../_tf2hud/resource/ui/matchmakingcategorymappanel.res"

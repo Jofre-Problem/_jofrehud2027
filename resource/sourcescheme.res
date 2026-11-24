@@ -1,3 +1,6 @@
+#base "../extd/resource/sourcescheme.res"
+#base "../myedit/resource/sourcescheme.res"
+#base "../frag/resource/sourcescheme.res"
 #base "../_jofrenew/resource/sourcescheme.res"
 #base "../_jofrehud/resource/sourcescheme.res"
 #base "../_jofrehud/_tf2exp/sourcescheme.res"

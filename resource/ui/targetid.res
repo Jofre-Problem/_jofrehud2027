@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/targetid.res"
+	#base	"../../myedit67/resource/ui/targetid.res"
+	#base	"../../extd/resource/ui/targetid.res"
+	#base	"../../myedit/resource/ui/targetid.res"
+	#base	"../../frag/resource/ui/targetid.res"
 	#base	"../../_jofrenew/resource/ui/targetid.res"
 	#base	"../../_jofrehud/resource/ui/targetid.res"
 	#base	"../../_tf2hud/resource/ui/targetid.res"

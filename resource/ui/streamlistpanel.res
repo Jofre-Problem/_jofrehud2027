@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/streamlistpanel.res"
+	#base	"../../_stream6767/resource/ui/streamlistpanel.res"
+	#base	"../../extd/resource/ui/streamlistpanel.res"
+	#base	"../../_stream67/resource/ui/streamlistpanel.res"
+	#base	"../../frag/resource/ui/streamlistpanel.res"
 	#base	"../../_stream/resource/ui/streamlistpanel.res"
 	#base	"../../_jofrehud/resource/ui/streamlistpanel.res"
 	#base	"../../_tf2hud/resource/ui/streamlistpanel.res"

@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/multiplayercustomizedialog.res"
+#base "../_jofrehud67/resource/multiplayercustomizedialog.res"
+#base "../_tf2hud67/resource/resource/multiplayercustomizedialog.res"
 #base "../_jofrehud/resource/multiplayercustomizedialog.res"
 #base "../_tf2hud/resource/resource/multiplayercustomizedialog.res"

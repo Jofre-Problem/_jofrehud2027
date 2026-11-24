@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/objectivestatusmultipleescort.res"
+	#base	"../../myedit67/resource/ui/objectivestatusmultipleescort.res"
+	#base	"../../extd/resource/ui/objectivestatusmultipleescort.res"
+	#base	"../../myedit/resource/ui/objectivestatusmultipleescort.res"
+	#base	"../../frag/resource/ui/objectivestatusmultipleescort.res"
 	#base	"../../_jofrenew/resource/ui/objectivestatusmultipleescort.res"
 	#base	"../../_jofrehud/resource/ui/objectivestatusmultipleescort.res"
 	#base	"../../_tf2hud/resource/ui/objectivestatusmultipleescort.res"

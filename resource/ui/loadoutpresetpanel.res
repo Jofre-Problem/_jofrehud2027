@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/loadoutpresetpanel.res"
+	#base	"../../myedit67/resource/ui/loadoutpresetpanel.res"
+	#base	"../../extd/resource/ui/loadoutpresetpanel.res"
+	#base	"../../myedit/resource/ui/loadoutpresetpanel.res"
+	#base	"../../frag/resource/ui/loadoutpresetpanel.res"
 	#base	"../../_jofrenew/resource/ui/loadoutpresetpanel.res"
 	#base	"../../_jofrehud/resource/ui/loadoutpresetpanel.res"
 	#base	"../../_tf2hud/resource/ui/loadoutpresetpanel.res"

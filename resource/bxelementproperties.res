@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/bxelementproperties.res"
+#base "../_jofrehud67/resource/bxelementproperties.res"
+#base "../_tf2hud67/resource/resource/bxelementproperties.res"
 #base "../_jofrehud/resource/bxelementproperties.res"
 #base "../_tf2hud/resource/resource/bxelementproperties.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/charinfoloadoutsubpanel.res"
+	#base	"../../myedit67/resource/ui/charinfoloadoutsubpanel.res"
+	#base	"../../extd/resource/ui/charinfoloadoutsubpanel.res"
+	#base	"../../myedit/resource/ui/charinfoloadoutsubpanel.res"
+	#base	"../../frag/resource/ui/charinfoloadoutsubpanel.res"
 	#base	"../../_jofrenew/resource/ui/charinfoloadoutsubpanel.res"
 	#base	"../../_jofrehud/resource/ui/charinfoloadoutsubpanel.res"
 	#base	"../../_tf2hud/resource/ui/charinfoloadoutsubpanel.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/tfhudrobotdestruction_shieldedstate.res"
+	#base	"../../myedit67/resource/ui/tfhudrobotdestruction_shieldedstate.res"
+	#base	"../../extd/resource/ui/tfhudrobotdestruction_shieldedstate.res"
+	#base	"../../myedit/resource/ui/tfhudrobotdestruction_shieldedstate.res"
+	#base	"../../frag/resource/ui/tfhudrobotdestruction_shieldedstate.res"
 	#base	"../../_jofrenew/resource/ui/tfhudrobotdestruction_shieldedstate.res"
 	#base	"../../_jofrehud/resource/ui/tfhudrobotdestruction_shieldedstate.res"
 	#base	"../../_tf2hud/resource/ui/tfhudrobotdestruction_shieldedstate.res"

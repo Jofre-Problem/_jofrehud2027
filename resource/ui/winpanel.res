@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/winpanel.res"
+	#base	"../../myedit67/resource/ui/winpanel.res"
+	#base	"../../extd/resource/ui/winpanel.res"
+	#base	"../../myedit/resource/ui/winpanel.res"
+	#base	"../../frag/resource/ui/winpanel.res"
 	#base	"../../_jofrenew/resource/ui/winpanel.res"
 	#base	"../../_jofrehud/resource/ui/winpanel.res"
 	#base	"../../_tf2hud/resource/ui/winpanel.res"

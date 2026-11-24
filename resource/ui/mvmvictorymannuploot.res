@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/mvmvictorymannuploot.res"
+	#base	"../../myedit67/resource/ui/mvmvictorymannuploot.res"
+	#base	"../../extd/resource/ui/mvmvictorymannuploot.res"
+	#base	"../../myedit/resource/ui/mvmvictorymannuploot.res"
+	#base	"../../frag/resource/ui/mvmvictorymannuploot.res"
 	#base	"../../_jofrenew/resource/ui/mvmvictorymannuploot.res"
 	#base	"../../_jofrehud/resource/ui/mvmvictorymannuploot.res"
 	#base	"../../_tf2hud/resource/ui/mvmvictorymannuploot.res"

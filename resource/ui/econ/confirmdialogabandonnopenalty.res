@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/confirmdialogabandonnopenalty.res"
+	#base	"../../../myedit67/resource/ui/econ/confirmdialogabandonnopenalty.res"
+	#base	"../../../extd/resource/ui/econ/confirmdialogabandonnopenalty.res"
+	#base	"../../../myedit/resource/ui/econ/confirmdialogabandonnopenalty.res"
+	#base	"../../../frag/resource/ui/econ/confirmdialogabandonnopenalty.res"
 	#base	"../../../_jofrenew/resource/ui/econ/confirmdialogabandonnopenalty.res"
 	#base	"../../../_jofrehud/resource/ui/econ/confirmdialogabandonnopenalty.res"
 	#base	"../../../_tf2hud/resource/ui/econ/confirmdialogabandonnopenalty.res"

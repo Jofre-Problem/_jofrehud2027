@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/huditemeffectmeter_pomson.res"
+	#base	"../../myedit67/resource/ui/huditemeffectmeter_pomson.res"
+	#base	"../../extd/resource/ui/huditemeffectmeter_pomson.res"
+	#base	"../../myedit/resource/ui/huditemeffectmeter_pomson.res"
+	#base	"../../frag/resource/ui/huditemeffectmeter_pomson.res"
 	#base	"../../_jofrenew/resource/ui/huditemeffectmeter_pomson.res"
 	#base	"../../_jofrehud/resource/ui/huditemeffectmeter_pomson.res"
 	#base	"../../_tf2hud/resource/ui/huditemeffectmeter_pomson.res"

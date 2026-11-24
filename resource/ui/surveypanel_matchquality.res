@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/surveypanel_matchquality.res"
+	#base	"../../myedit67/resource/ui/surveypanel_matchquality.res"
+	#base	"../../extd/resource/ui/surveypanel_matchquality.res"
+	#base	"../../myedit/resource/ui/surveypanel_matchquality.res"
+	#base	"../../frag/resource/ui/surveypanel_matchquality.res"
 	#base	"../../_jofrenew/resource/ui/surveypanel_matchquality.res"
 	#base	"../../_jofrehud/resource/ui/surveypanel_matchquality.res"
 	#base	"../../_jofrehud/_tf2fix/resource/ui/surveypanel_matchquality.res"

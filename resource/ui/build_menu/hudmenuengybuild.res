@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/build_menu/hudmenuengybuild.res"
+	#base	"../../../myedit67/resource/ui/build_menu/hudmenuengybuild.res"
+	#base	"../../../extd/resource/ui/build_menu/hudmenuengybuild.res"
+	#base	"../../../myedit/resource/ui/build_menu/hudmenuengybuild.res"
+	#base	"../../../frag/resource/ui/build_menu/hudmenuengybuild.res"
 	#base	"../../../_jofrenew/resource/ui/build_menu/hudmenuengybuild.res"
 	#base	"../../../_jofrehud/resource/ui/build_menu/hudmenuengybuild.res"
 	#base	"../../../_tf2hud/resource/ui/build_menu/hudmenuengybuild.res"

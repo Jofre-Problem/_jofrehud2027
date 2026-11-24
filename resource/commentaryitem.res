@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/commentaryitem.res"
+#base "../_jofrehud67/resource/commentaryitem.res"
+#base "../_tf2hud67/resource/commentaryitem.res"
 #base "../_jofrehud/resource/commentaryitem.res"
 #base "../_tf2hud/resource/commentaryitem.res"

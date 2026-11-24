@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/createmultiplayergamegameplaypage.res"
+#base "../_jofrehud67/resource/createmultiplayergamegameplaypage.res"
+#base "../_tf2hud67/resource/resource/createmultiplayergamegameplaypage.res"
 #base "../_jofrehud/resource/createmultiplayergamegameplaypage.res"
 #base "../_tf2hud/resource/resource/createmultiplayergamegameplaypage.res"

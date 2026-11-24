@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/mvmbombcarrierprogresspanel.res"
+	#base	"../../myedit67/resource/ui/mvmbombcarrierprogresspanel.res"
+	#base	"../../extd/resource/ui/mvmbombcarrierprogresspanel.res"
+	#base	"../../myedit/resource/ui/mvmbombcarrierprogresspanel.res"
+	#base	"../../frag/resource/ui/mvmbombcarrierprogresspanel.res"
 	#base	"../../_jofrenew/resource/ui/mvmbombcarrierprogresspanel.res"
 	#base	"../../_jofrehud/resource/ui/mvmbombcarrierprogresspanel.res"
 	#base	"../../_tf2hud/resource/ui/mvmbombcarrierprogresspanel.res"

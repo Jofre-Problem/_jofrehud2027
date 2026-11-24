@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/viewrecipespanel.res"
+	#base	"../../myedit67/resource/ui/viewrecipespanel.res"
+	#base	"../../extd/resource/ui/viewrecipespanel.res"
+	#base	"../../myedit/resource/ui/viewrecipespanel.res"
+	#base	"../../frag/resource/ui/viewrecipespanel.res"
 	#base	"../../_jofrenew/resource/ui/viewrecipespanel.res"
 	#base	"../../_jofrehud/resource/ui/viewrecipespanel.res"
 	#base	"../../_tf2hud/resource/ui/viewrecipespanel.res"

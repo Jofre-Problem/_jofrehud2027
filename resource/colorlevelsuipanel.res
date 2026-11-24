@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/colorlevelsuipanel.res"
+#base "../_jofrehud67/resource/colorlevelsuipanel.res"
+#base "../_tf2hud67/resource/resource/colorlevelsuipanel.res"
 #base "../_jofrehud/resource/colorlevelsuipanel.res"
 #base "../_tf2hud/resource/resource/colorlevelsuipanel.res"

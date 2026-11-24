@@ -1,2 +1,5 @@
+	#base "../../../../_tf2hud6767/resource/ui/training/basictraining/classpanel.res"
+	#base "../../../../_jofrehud67/resource/ui/training/basictraining/classpanel.res"
+	#base "../../../../_tf2hud67/resource/ui/training/basictraining/classpanel.res"
 	#base "../../../../_jofrehud/resource/ui/training/basictraining/classpanel.res"
 	#base "../../../../_tf2hud/resource/ui/training/basictraining/classpanel.res"

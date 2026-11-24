@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/craftingpanel.res"
+	#base	"../../myedit67/resource/ui/craftingpanel.res"
+	#base	"../../extd/resource/ui/craftingpanel.res"
+	#base	"../../myedit/resource/ui/craftingpanel.res"
+	#base	"../../frag/resource/ui/craftingpanel.res"
 	#base	"../../_jofrenew/resource/ui/craftingpanel.res"
 	#base	"../../_jofrehud/resource/ui/craftingpanel.res"
 	#base	"../../_tf2hud/resource/ui/craftingpanel.res"

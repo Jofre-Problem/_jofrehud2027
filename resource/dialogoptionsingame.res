@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/dialogoptionsingame.res"
+#base "../_jofrehud67/resource/dialogoptionsingame.res"
+#base "../_tf2hud67/resource/resource/dialogoptionsingame.res"
 #base "../_jofrehud/resource/dialogoptionsingame.res"
 #base "../_tf2hud/resource/resource/dialogoptionsingame.res"

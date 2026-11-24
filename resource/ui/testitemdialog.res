@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/testitemdialog.res"
+	#base	"../../myedit67/resource/ui/testitemdialog.res"
+	#base	"../../extd/resource/ui/testitemdialog.res"
+	#base	"../../myedit/resource/ui/testitemdialog.res"
+	#base	"../../frag/resource/ui/testitemdialog.res"
 	#base	"../../_jofrenew/resource/ui/testitemdialog.res"
 	#base	"../../_jofrehud/resource/ui/testitemdialog.res"
 	#base	"../../_tf2hud/resource/ui/testitemdialog.res"

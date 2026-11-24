@@ -1,4 +1,7 @@
-	#base	"../../../../../_custom/resource/ui/econ/store/v1/storepage_previewable.res"
+	#base	"../../../../../myedit67/resource/ui/econ/store/v1/storepage_previewable.res"
+	#base	"../../../../../extd/resource/ui/econ/store/v1/storepage_previewable.res"
+	#base	"../../../../../myedit/resource/ui/econ/store/v1/storepage_previewable.res"
+	#base	"../../../../../frag/resource/ui/econ/store/v1/storepage_previewable.res"
 	#base	"../../../../../_jofrenew/resource/ui/econ/store/v1/storepage_previewable.res"
 	#base	"../../../../../_jofrehud/resource/ui/econ/store/v1/storepage_previewable.res"
 	#base	"../../../../../_tf2hud/resource/ui/econ/store/v1/storepage_previewable.res"

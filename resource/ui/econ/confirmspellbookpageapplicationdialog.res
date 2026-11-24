@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/confirmspellbookpageapplicationdialog.res"
+	#base	"../../../myedit67/resource/ui/econ/confirmspellbookpageapplicationdialog.res"
+	#base	"../../../extd/resource/ui/econ/confirmspellbookpageapplicationdialog.res"
+	#base	"../../../myedit/resource/ui/econ/confirmspellbookpageapplicationdialog.res"
+	#base	"../../../frag/resource/ui/econ/confirmspellbookpageapplicationdialog.res"
 	#base	"../../../_jofrenew/resource/ui/econ/confirmspellbookpageapplicationdialog.res"
 	#base	"../../../_jofrehud/resource/ui/econ/confirmspellbookpageapplicationdialog.res"
 	#base	"../../../_tf2hud/resource/ui/econ/confirmspellbookpageapplicationdialog.res"

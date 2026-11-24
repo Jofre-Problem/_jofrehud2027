@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/baseactionplaysoundstartdialog.res"
+#base "../_jofrehud67/resource/baseactionplaysoundstartdialog.res"
+#base "../_tf2hud67/resource/resource/baseactionplaysoundstartdialog.res"
 #base "../_jofrehud/resource/baseactionplaysoundstartdialog.res"
 #base "../_tf2hud/resource/resource/baseactionplaysoundstartdialog.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/saxxyawards_submitform.res"
+	#base	"../../myedit67/resource/ui/saxxyawards_submitform.res"
+	#base	"../../extd/resource/ui/saxxyawards_submitform.res"
+	#base	"../../myedit/resource/ui/saxxyawards_submitform.res"
+	#base	"../../frag/resource/ui/saxxyawards_submitform.res"
 	#base	"../../_jofrenew/resource/ui/saxxyawards_submitform.res"
 	#base	"../../_jofrehud/resource/ui/saxxyawards_submitform.res"
 	#base	"../../_tf2hud/resource/ui/saxxyawards_submitform.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudkillstreaknotice.res"
+	#base	"../../myedit67/resource/ui/hudkillstreaknotice.res"
+	#base	"../../extd/resource/ui/hudkillstreaknotice.res"
+	#base	"../../myedit/resource/ui/hudkillstreaknotice.res"
+	#base	"../../frag/resource/ui/hudkillstreaknotice.res"
 	#base	"../../_jofrenew/resource/ui/hudkillstreaknotice.res"
 	#base	"../../_jofrehud/resource/ui/hudkillstreaknotice.res"
 	#base	"../../_tf2hud/resource/ui/hudkillstreaknotice.res"

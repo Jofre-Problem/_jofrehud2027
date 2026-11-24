@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/optionssubvideogammadlg.res"
+#base "../_jofrehud67/resource/optionssubvideogammadlg.res"
+#base "../_tf2hud67/resource/resource/optionssubvideogammadlg.res"
 #base "../_jofrehud/resource/optionssubvideogammadlg.res"
 #base "../_tf2hud/resource/resource/optionssubvideogammadlg.res"

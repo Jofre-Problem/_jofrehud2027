@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/build_menu/base_cant_afford.res"
+	#base	"../../../myedit67/resource/ui/build_menu/base_cant_afford.res"
+	#base	"../../../extd/resource/ui/build_menu/base_cant_afford.res"
+	#base	"../../../myedit/resource/ui/build_menu/base_cant_afford.res"
+	#base	"../../../frag/resource/ui/build_menu/base_cant_afford.res"
 	#base	"../../../_jofrenew/resource/ui/build_menu/base_cant_afford.res"
 	#base	"../../../_jofrehud/resource/ui/build_menu/base_cant_afford.res"
 	#base	"../../../_tf2hud/resource/ui/build_menu/base_cant_afford.res"

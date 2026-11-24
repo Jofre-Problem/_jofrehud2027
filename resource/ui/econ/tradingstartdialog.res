@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/tradingstartdialog.res"
+	#base	"../../../myedit67/resource/ui/econ/tradingstartdialog.res"
+	#base	"../../../extd/resource/ui/econ/tradingstartdialog.res"
+	#base	"../../../myedit/resource/ui/econ/tradingstartdialog.res"
+	#base	"../../../frag/resource/ui/econ/tradingstartdialog.res"
 	#base	"../../../_jofrenew/resource/ui/econ/tradingstartdialog.res"
 	#base	"../../../_jofrehud/resource/ui/econ/tradingstartdialog.res"
 	#base	"../../../_tf2hud/resource/ui/econ/tradingstartdialog.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/chatpopup.res"
+	#base	"../../myedit67/resource/ui/chatpopup.res"
+	#base	"../../extd/resource/ui/chatpopup.res"
+	#base	"../../myedit/resource/ui/chatpopup.res"
+	#base	"../../frag/resource/ui/chatpopup.res"
 	#base	"../../_jofrenew/resource/ui/chatpopup.res"
 	#base	"../../_jofrehud/resource/ui/chatpopup.res"
 	#base	"../../_tf2hud/resource/ui/chatpopup.res"

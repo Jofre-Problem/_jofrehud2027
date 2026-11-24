@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/particlefunctionbrowser.res"
+#base "../_jofrehud67/resource/particlefunctionbrowser.res"
+#base "../_tf2hud67/resource/resource/particlefunctionbrowser.res"
 #base "../_jofrehud/resource/particlefunctionbrowser.res"
 #base "../_tf2hud/resource/resource/particlefunctionbrowser.res"

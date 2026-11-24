@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/wavecompletesummarypanel.res"
+	#base	"../../myedit67/resource/ui/wavecompletesummarypanel.res"
+	#base	"../../extd/resource/ui/wavecompletesummarypanel.res"
+	#base	"../../myedit/resource/ui/wavecompletesummarypanel.res"
+	#base	"../../frag/resource/ui/wavecompletesummarypanel.res"
 	#base	"../../_jofrenew/resource/ui/wavecompletesummarypanel.res"
 	#base	"../../_jofrehud/resource/ui/wavecompletesummarypanel.res"
 	#base	"../../_tf2hud/resource/ui/wavecompletesummarypanel.res"

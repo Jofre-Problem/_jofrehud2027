@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/classselection_sc.res"
+	#base	"../../myedit67/resource/ui/classselection_sc.res"
+	#base	"../../extd/resource/ui/classselection_sc.res"
+	#base	"../../myedit/resource/ui/classselection_sc.res"
+	#base	"../../frag/resource/ui/classselection_sc.res"
 	#base	"../../_jofrenew/resource/ui/classselection_sc.res"
 	#base	"../../_jofrehud/resource/ui/classselection_sc.res"
 	#base	"../../_tf2hud/resource/ui/classselection_sc.res"

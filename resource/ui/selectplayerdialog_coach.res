@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/selectplayerdialog_coach.res"
+	#base	"../../myedit67/resource/ui/selectplayerdialog_coach.res"
+	#base	"../../extd/resource/ui/selectplayerdialog_coach.res"
+	#base	"../../myedit/resource/ui/selectplayerdialog_coach.res"
+	#base	"../../frag/resource/ui/selectplayerdialog_coach.res"
 	#base	"../../_jofrenew/resource/ui/selectplayerdialog_coach.res"
 	#base	"../../_jofrehud/resource/ui/selectplayerdialog_coach.res"
 	#base	"../../_tf2hud/resource/ui/selectplayerdialog_coach.res"

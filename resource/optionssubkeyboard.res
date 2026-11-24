@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/optionssubkeyboard.res"
+#base "../_jofrehud67/resource/optionssubkeyboard.res"
+#base "../_tf2hud67/resource/resource/optionssubkeyboard.res"
 #base "../_jofrehud/resource/optionssubkeyboard.res"
 #base "../_tf2hud/resource/resource/optionssubkeyboard.res"

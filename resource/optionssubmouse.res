@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/optionssubmouse.res"
+#base "../_jofrehud67/resource/optionssubmouse.res"
+#base "../_tf2hud67/resource/resource/optionssubmouse.res"
 #base "../_jofrehud/resource/optionssubmouse.res"
 #base "../_tf2hud/resource/resource/optionssubmouse.res"

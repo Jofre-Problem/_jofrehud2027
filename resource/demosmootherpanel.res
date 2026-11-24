@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/demosmootherpanel.res"
+#base "../_jofrehud67/resource/demosmootherpanel.res"
+#base "../_tf2hud67/resource/resource/demosmootherpanel.res"
 #base "../_jofrehud/resource/demosmootherpanel.res"
 #base "../_tf2hud/resource/resource/demosmootherpanel.res"

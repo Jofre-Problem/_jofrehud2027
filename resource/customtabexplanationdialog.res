@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/customtabexplanationdialog.res"
+#base "../_jofrehud67/resource/customtabexplanationdialog.res"
+#base "../_tf2hud67/resource/resource/customtabexplanationdialog.res"
 #base "../_jofrehud/resource/customtabexplanationdialog.res"
 #base "../_tf2hud/resource/resource/customtabexplanationdialog.res"

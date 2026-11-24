@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/controlpointcountdown.res"
+	#base	"../../myedit67/resource/ui/controlpointcountdown.res"
+	#base	"../../extd/resource/ui/controlpointcountdown.res"
+	#base	"../../myedit/resource/ui/controlpointcountdown.res"
+	#base	"../../frag/resource/ui/controlpointcountdown.res"
 	#base	"../../_jofrenew/resource/ui/controlpointcountdown.res"
 	#base	"../../_jofrehud/resource/ui/controlpointcountdown.res"
 	#base	"../../_tf2hud/resource/ui/controlpointcountdown.res"

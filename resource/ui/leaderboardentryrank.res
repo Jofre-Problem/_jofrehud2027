@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/leaderboardentryrank.res"
+	#base	"../../myedit67/resource/ui/leaderboardentryrank.res"
+	#base	"../../extd/resource/ui/leaderboardentryrank.res"
+	#base	"../../myedit/resource/ui/leaderboardentryrank.res"
+	#base	"../../frag/resource/ui/leaderboardentryrank.res"
 	#base	"../../_jofrenew/resource/ui/leaderboardentryrank.res"
 	#base	"../../_jofrehud/resource/ui/leaderboardentryrank.res"
 	#base	"../../_tf2hud/resource/ui/leaderboardentryrank.res"

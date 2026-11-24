@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudwarcount.res"
+	#base	"../../myedit67/resource/ui/hudwarcount.res"
+	#base	"../../extd/resource/ui/hudwarcount.res"
+	#base	"../../myedit/resource/ui/hudwarcount.res"
+	#base	"../../frag/resource/ui/hudwarcount.res"
 	#base	"../../_jofrenew/resource/ui/hudwarcount.res"
 	#base	"../../_jofrehud/resource/ui/hudwarcount.res"
 	#base	"../../_tf2hud/resource/ui/hudwarcount.res"

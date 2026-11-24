@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/confirmapplystrangepartapplicationdialog.res"
+	#base	"../../../myedit67/resource/ui/econ/confirmapplystrangepartapplicationdialog.res"
+	#base	"../../../extd/resource/ui/econ/confirmapplystrangepartapplicationdialog.res"
+	#base	"../../../myedit/resource/ui/econ/confirmapplystrangepartapplicationdialog.res"
+	#base	"../../../frag/resource/ui/econ/confirmapplystrangepartapplicationdialog.res"
 	#base	"../../../_jofrenew/resource/ui/econ/confirmapplystrangepartapplicationdialog.res"
 	#base	"../../../_jofrehud/resource/ui/econ/confirmapplystrangepartapplicationdialog.res"
 	#base	"../../../_tf2hud/resource/ui/econ/confirmapplystrangepartapplicationdialog.res"

@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/newgamechapterpanel.res"
+#base "../_jofrehud67/resource/newgamechapterpanel.res"
+#base "../_tf2hud67/resource/newgamechapterpanel.res"
 #base "../_jofrehud/resource/newgamechapterpanel.res"
 #base "../_tf2hud/resource/newgamechapterpanel.res"

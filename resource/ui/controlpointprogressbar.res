@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/controlpointprogressbar.res"
+	#base	"../../myedit67/resource/ui/controlpointprogressbar.res"
+	#base	"../../extd/resource/ui/controlpointprogressbar.res"
+	#base	"../../myedit/resource/ui/controlpointprogressbar.res"
+	#base	"../../frag/resource/ui/controlpointprogressbar.res"
 	#base	"../../_jofrenew/resource/ui/controlpointprogressbar.res"
 	#base	"../../_jofrehud/resource/ui/controlpointprogressbar.res"
 	#base	"../../_tf2hud/resource/ui/controlpointprogressbar.res"

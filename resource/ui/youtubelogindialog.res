@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/youtubelogindialog.res"
+	#base	"../../myedit67/resource/ui/youtubelogindialog.res"
+	#base	"../../extd/resource/ui/youtubelogindialog.res"
+	#base	"../../myedit/resource/ui/youtubelogindialog.res"
+	#base	"../../frag/resource/ui/youtubelogindialog.res"
 	#base	"../../_jofrenew/resource/ui/youtubelogindialog.res"
 	#base	"../../_jofrehud/resource/ui/youtubelogindialog.res"
 	#base	"../../_tf2hud/resource/resource/ui/youtubelogindialog.res"

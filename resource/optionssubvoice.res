@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/optionssubvoice.res"
+#base "../_jofrehud67/resource/optionssubvoice.res"
+#base "../_tf2hud67/resource/resource/optionssubvoice.res"
 #base "../_jofrehud/resource/optionssubvoice.res"
 #base "../_tf2hud/resource/resource/optionssubvoice.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudcurrencyaccount.res"
+	#base	"../../myedit67/resource/ui/hudcurrencyaccount.res"
+	#base	"../../extd/resource/ui/hudcurrencyaccount.res"
+	#base	"../../myedit/resource/ui/hudcurrencyaccount.res"
+	#base	"../../frag/resource/ui/hudcurrencyaccount.res"
 	#base	"../../_jofrenew/resource/ui/hudcurrencyaccount.res"
 	#base	"../../_jofrehud/resource/ui/hudcurrencyaccount.res"
 	#base	"../../_tf2hud/resource/ui/hudcurrencyaccount.res"

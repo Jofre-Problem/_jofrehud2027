@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/inspectionpanel.res"
+	#base	"../../../myedit67/resource/ui/econ/inspectionpanel.res"
+	#base	"../../../extd/resource/ui/econ/inspectionpanel.res"
+	#base	"../../../myedit/resource/ui/econ/inspectionpanel.res"
+	#base	"../../../frag/resource/ui/econ/inspectionpanel.res"
 	#base	"../../../_jofrenew/resource/ui/econ/inspectionpanel.res"
 	#base	"../../../_jofrehud/resource/ui/econ/inspectionpanel.res"
 	#base	"../../../_tf2hud/resource/ui/econ/inspectionpanel.res"

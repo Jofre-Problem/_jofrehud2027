@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/bxclipplayer.res"
+#base "../_jofrehud67/resource/bxclipplayer.res"
+#base "../_tf2hud67/resource/resource/bxclipplayer.res"
 #base "../_jofrehud/resource/bxclipplayer.res"
 #base "../_tf2hud/resource/resource/bxclipplayer.res"

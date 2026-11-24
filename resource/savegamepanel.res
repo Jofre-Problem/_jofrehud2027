@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/savegamepanel.res"
+#base "../_jofrehud67/resource/savegamepanel.res"
+#base "../_tf2hud67/resource/resource/savegamepanel.res"
 #base "../_jofrehud/resource/savegamepanel.res"
 #base "../_tf2hud/resource/resource/savegamepanel.res"

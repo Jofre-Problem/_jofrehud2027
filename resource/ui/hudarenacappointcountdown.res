@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudarenacappointcountdown.res"
+	#base	"../../myedit67/resource/ui/hudarenacappointcountdown.res"
+	#base	"../../extd/resource/ui/hudarenacappointcountdown.res"
+	#base	"../../myedit/resource/ui/hudarenacappointcountdown.res"
+	#base	"../../frag/resource/ui/hudarenacappointcountdown.res"
 	#base	"../../_jofrenew/resource/ui/hudarenacappointcountdown.res"
 	#base	"../../_jofrehud/resource/ui/hudarenacappointcountdown.res"
 	#base	"../../_tf2hud/resource/ui/hudarenacappointcountdown.res"

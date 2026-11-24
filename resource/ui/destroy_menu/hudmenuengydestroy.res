@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/destroy_menu/hudmenuengydestroy.res"
+	#base	"../../../myedit67/resource/ui/destroy_menu/hudmenuengydestroy.res"
+	#base	"../../../extd/resource/ui/destroy_menu/hudmenuengydestroy.res"
+	#base	"../../../myedit/resource/ui/destroy_menu/hudmenuengydestroy.res"
+	#base	"../../../frag/resource/ui/destroy_menu/hudmenuengydestroy.res"
 	#base	"../../../_jofrenew/resource/ui/destroy_menu/hudmenuengydestroy.res"
 	#base	"../../../_jofrehud/resource/ui/destroy_menu/hudmenuengydestroy.res"
 	#base	"../../../_tf2hud/resource/ui/destroy_menu/hudmenuengydestroy.res"

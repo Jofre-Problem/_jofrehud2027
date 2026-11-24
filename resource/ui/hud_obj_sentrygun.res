@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hud_obj_sentrygun.res"
+	#base	"../../myedit67/resource/ui/hud_obj_sentrygun.res"
+	#base	"../../extd/resource/ui/hud_obj_sentrygun.res"
+	#base	"../../myedit/resource/ui/hud_obj_sentrygun.res"
+	#base	"../../frag/resource/ui/hud_obj_sentrygun.res"
 	#base	"../../_jofrenew/resource/ui/hud_obj_sentrygun.res"
 	#base	"../../_jofrehud/resource/ui/hud_obj_sentrygun.res"
 	#base	"../../_tf2hud/resource/ui/hud_obj_sentrygun.res"

@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/bxmovierecordprogress.res"
+#base "../_jofrehud67/resource/bxmovierecordprogress.res"
+#base "../_tf2hud67/resource/resource/bxmovierecordprogress.res"
 #base "../_jofrehud/resource/bxmovierecordprogress.res"
 #base "../_tf2hud/resource/resource/bxmovierecordprogress.res"

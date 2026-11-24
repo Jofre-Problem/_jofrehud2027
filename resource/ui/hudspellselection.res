@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudspellselection.res"
+	#base	"../../myedit67/resource/ui/hudspellselection.res"
+	#base	"../../extd/resource/ui/hudspellselection.res"
+	#base	"../../myedit/resource/ui/hudspellselection.res"
+	#base	"../../frag/resource/ui/hudspellselection.res"
 	#base	"../../_jofrenew/resource/ui/hudspellselection.res"
 	#base	"../../_jofrehud/resource/ui/hudspellselection.res"
 	#base	"../../_tf2hud/resource/ui/hudspellselection.res"

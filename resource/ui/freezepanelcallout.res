@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/freezepanelcallout.res"
+	#base	"../../myedit67/resource/ui/freezepanelcallout.res"
+	#base	"../../extd/resource/ui/freezepanelcallout.res"
+	#base	"../../myedit/resource/ui/freezepanelcallout.res"
+	#base	"../../frag/resource/ui/freezepanelcallout.res"
 	#base	"../../_jofrenew/resource/ui/freezepanelcallout.res"
 	#base	"../../_jofrehud/resource/ui/freezepanelcallout.res"
 	#base	"../../_tf2hud/resource/ui/freezepanelcallout.res"

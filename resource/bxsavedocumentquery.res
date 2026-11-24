@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/bxsavedocumentquery.res"
+#base "../_jofrehud67/resource/bxsavedocumentquery.res"
+#base "../_tf2hud67/resource/resource/bxsavedocumentquery.res"
 #base "../_jofrehud/resource/bxsavedocumentquery.res"
 #base "../_tf2hud/resource/resource/bxsavedocumentquery.res"

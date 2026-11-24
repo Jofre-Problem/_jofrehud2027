@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/bugreporteruploadfinished.res"
+#base "../_jofrehud67/resource/bugreporteruploadfinished.res"
+#base "../_tf2hud67/resource/resource/bugreporteruploadfinished.res"
 #base "../_jofrehud/resource/bugreporteruploadfinished.res"
 #base "../_tf2hud/resource/resource/bugreporteruploadfinished.res"

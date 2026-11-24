@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/notificationspresentpanel.res"
+	#base	"../../../myedit67/resource/ui/econ/notificationspresentpanel.res"
+	#base	"../../../extd/resource/ui/econ/notificationspresentpanel.res"
+	#base	"../../../myedit/resource/ui/econ/notificationspresentpanel.res"
+	#base	"../../../frag/resource/ui/econ/notificationspresentpanel.res"
 	#base	"../../../_jofrenew/resource/ui/econ/notificationspresentpanel.res"
 	#base	"../../../_jofrehud/resource/ui/econ/notificationspresentpanel.res"
 	#base	"../../../_tf2hud/resource/ui/econ/notificationspresentpanel.res"

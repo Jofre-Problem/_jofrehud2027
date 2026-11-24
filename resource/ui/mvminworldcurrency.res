@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/mvminworldcurrency.res"
+	#base	"../../myedit67/resource/ui/mvminworldcurrency.res"
+	#base	"../../extd/resource/ui/mvminworldcurrency.res"
+	#base	"../../myedit/resource/ui/mvminworldcurrency.res"
+	#base	"../../frag/resource/ui/mvminworldcurrency.res"
 	#base	"../../_jofrenew/resource/ui/mvminworldcurrency.res"
 	#base	"../../_jofrehud/resource/ui/mvminworldcurrency.res"
 	#base	"../../_tf2hud/resource/ui/mvminworldcurrency.res"

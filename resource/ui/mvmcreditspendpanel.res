@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/mvmcreditspendpanel.res"
+	#base	"../../myedit67/resource/ui/mvmcreditspendpanel.res"
+	#base	"../../extd/resource/ui/mvmcreditspendpanel.res"
+	#base	"../../myedit/resource/ui/mvmcreditspendpanel.res"
+	#base	"../../frag/resource/ui/mvmcreditspendpanel.res"
 	#base	"../../_jofrenew/resource/ui/mvmcreditspendpanel.res"
 	#base	"../../_jofrehud/resource/ui/mvmcreditspendpanel.res"
 	#base	"../../_tf2hud/resource/ui/mvmcreditspendpanel.res"

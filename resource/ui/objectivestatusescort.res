@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/objectivestatusescort.res"
+	#base	"../../myedit67/resource/ui/objectivestatusescort.res"
+	#base	"../../extd/resource/ui/objectivestatusescort.res"
+	#base	"../../myedit/resource/ui/objectivestatusescort.res"
+	#base	"../../frag/resource/ui/objectivestatusescort.res"
 	#base	"../../_jofrenew/resource/ui/objectivestatusescort.res"
 	#base	"../../_jofrehud/resource/ui/objectivestatusescort.res"
 	#base	"../../_tf2hud/resource/ui/objectivestatusescort.res"

@@ -1,2 +1,5 @@
+#base "../../../_tf2hud6767/resource/ui/econ/cyclingadcontainer.res"
+#base "../../../_jofrehud67/resource/ui/econ/cyclingadcontainer.res"
+#base "../../../_tf2hud67/resource/ui/econ/cyclingadcontainer.res"
 #base "../../../_jofrehud/resource/ui/econ/cyclingadcontainer.res"
 #base "../../../_tf2hud/resource/ui/econ/cyclingadcontainer.res"

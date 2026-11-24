@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/itemmodelpanelcollectioncosmeticitem.res"
+	#base	"../../../myedit67/resource/ui/econ/itemmodelpanelcollectioncosmeticitem.res"
+	#base	"../../../extd/resource/ui/econ/itemmodelpanelcollectioncosmeticitem.res"
+	#base	"../../../myedit/resource/ui/econ/itemmodelpanelcollectioncosmeticitem.res"
+	#base	"../../../frag/resource/ui/econ/itemmodelpanelcollectioncosmeticitem.res"
 	#base	"../../../_jofrenew/resource/ui/econ/itemmodelpanelcollectioncosmeticitem.res"
 	#base	"../../../_jofrehud/resource/ui/econ/itemmodelpanelcollectioncosmeticitem.res"
 	#base	"../../../_tf2hud/resource/ui/econ/itemmodelpanelcollectioncosmeticitem.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudarenaplayercount.res"
+	#base	"../../myedit67/resource/ui/hudarenaplayercount.res"
+	#base	"../../extd/resource/ui/hudarenaplayercount.res"
+	#base	"../../myedit/resource/ui/hudarenaplayercount.res"
+	#base	"../../frag/resource/ui/hudarenaplayercount.res"
 	#base	"../../_jofrenew/resource/ui/hudarenaplayercount.res"
 	#base	"../../_jofrehud/resource/ui/hudarenaplayercount.res"
 	#base	"../../_tf2hud/resource/ui/hudarenaplayercount.res"

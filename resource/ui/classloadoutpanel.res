@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/classloadoutpanel.res"
+	#base	"../../myedit67/resource/ui/classloadoutpanel.res"
+	#base	"../../extd/resource/ui/classloadoutpanel.res"
+	#base	"../../myedit/resource/ui/classloadoutpanel.res"
+	#base	"../../frag/resource/ui/classloadoutpanel.res"
 	#base	"../../_jofrenew/resource/ui/classloadoutpanel.res"
 	#base	"../../_jofrehud/resource/ui/classloadoutpanel.res"
 	#base	"../../_tf2hud/resource/ui/classloadoutpanel.res"

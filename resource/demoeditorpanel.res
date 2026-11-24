@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/demoeditorpanel.res"
+#base "../_jofrehud67/resource/demoeditorpanel.res"
+#base "../_tf2hud67/resource/resource/demoeditorpanel.res"
 #base "../_jofrehud/resource/demoeditorpanel.res"
 #base "../_tf2hud/resource/resource/demoeditorpanel.res"

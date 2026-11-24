@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/dynamicrecipepanel.res"
+	#base	"../../myedit67/resource/ui/dynamicrecipepanel.res"
+	#base	"../../extd/resource/ui/dynamicrecipepanel.res"
+	#base	"../../myedit/resource/ui/dynamicrecipepanel.res"
+	#base	"../../frag/resource/ui/dynamicrecipepanel.res"
 	#base	"../../_jofrenew/resource/ui/dynamicrecipepanel.res"
 	#base	"../../_jofrehud/resource/ui/dynamicrecipepanel.res"
 	#base	"../../_tf2hud/resource/ui/dynamicrecipepanel.res"

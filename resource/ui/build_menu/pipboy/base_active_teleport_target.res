@@ -1,2 +1,5 @@
+#base "../../../../_tf2hud6767/resource/ui/build_menu/pipboy/base_active_teleport_target.res"
+#base "../../../../_jofrehud67/resource/ui/build_menu/pipboy/base_active_teleport_target.res"
+#base "../../../../_tf2hud67/resource/ui/build_menu/pipboy/base_active_teleport_target.res"
 #base "../../../../_jofrehud/resource/ui/build_menu/pipboy/base_active_teleport_target.res"
 #base "../../../../_tf2hud/resource/ui/build_menu/pipboy/base_active_teleport_target.res"

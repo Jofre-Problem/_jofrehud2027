@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/replaymessage.res"
+	#base	"../../myedit67/resource/ui/replaymessage.res"
+	#base	"../../extd/resource/ui/replaymessage.res"
+	#base	"../../myedit/resource/ui/replaymessage.res"
+	#base	"../../frag/resource/ui/replaymessage.res"
 	#base	"../../_jofrenew/resource/ui/replaymessage.res"
 	#base	"../../_jofrehud/resource/ui/replaymessage.res"
 	#base	"../../_tf2hud/resource/resource/ui/replaymessage.res"

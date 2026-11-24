@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/tfadvancedoptionsdialog.res"
+	#base	"../../myedit67/resource/ui/tfadvancedoptionsdialog.res"
+	#base	"../../extd/resource/ui/tfadvancedoptionsdialog.res"
+	#base	"../../myedit/resource/ui/tfadvancedoptionsdialog.res"
+	#base	"../../frag/resource/ui/tfadvancedoptionsdialog.res"
 	#base	"../../_jofrenew/resource/ui/tfadvancedoptionsdialog.res"
 	#base	"../../_jofrehud/resource/ui/tfadvancedoptionsdialog.res"
 	#base	"../../_tf2hud/resource/ui/tfadvancedoptionsdialog.res"

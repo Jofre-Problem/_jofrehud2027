@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/giveawayitempanel.res"
+	#base	"../../myedit67/resource/ui/giveawayitempanel.res"
+	#base	"../../extd/resource/ui/giveawayitempanel.res"
+	#base	"../../myedit/resource/ui/giveawayitempanel.res"
+	#base	"../../frag/resource/ui/giveawayitempanel.res"
 	#base	"../../_jofrenew/resource/ui/giveawayitempanel.res"
 	#base	"../../_jofrehud/resource/ui/giveawayitempanel.res"
 	#base	"../../_tf2hud/resource/ui/giveawayitempanel.res"

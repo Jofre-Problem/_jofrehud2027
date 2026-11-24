@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/itemdiscardpanel.res"
+	#base	"../../../myedit67/resource/ui/econ/itemdiscardpanel.res"
+	#base	"../../../extd/resource/ui/econ/itemdiscardpanel.res"
+	#base	"../../../myedit/resource/ui/econ/itemdiscardpanel.res"
+	#base	"../../../frag/resource/ui/econ/itemdiscardpanel.res"
 	#base	"../../../_jofrenew/resource/ui/econ/itemdiscardpanel.res"
 	#base	"../../../_jofrehud/resource/ui/econ/itemdiscardpanel.res"
 	#base	"../../../_tf2hud/resource/ui/econ/itemdiscardpanel.res"

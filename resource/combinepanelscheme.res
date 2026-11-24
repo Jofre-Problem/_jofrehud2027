@@ -1,2 +1,5 @@
+#base "../extd/_tf2exp/combinepanelscheme.res"
+#base "../_jofrehud67/resource/combinepanelscheme.res"
+#base "../frag/_tf2exp/combinepanelscheme.res"
 #base "../_jofrehud/resource/combinepanelscheme.res"
 #base "../_jofrehud/_tf2exp/combinepanelscheme.res"

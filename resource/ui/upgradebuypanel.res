@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/upgradebuypanel.res"
+	#base	"../../myedit67/resource/ui/upgradebuypanel.res"
+	#base	"../../extd/resource/ui/upgradebuypanel.res"
+	#base	"../../myedit/resource/ui/upgradebuypanel.res"
+	#base	"../../frag/resource/ui/upgradebuypanel.res"
 	#base	"../../_jofrenew/resource/ui/upgradebuypanel.res"
 	#base	"../../_jofrehud/resource/ui/upgradebuypanel.res"
 	#base	"../../_tf2hud/resource/ui/upgradebuypanel.res"

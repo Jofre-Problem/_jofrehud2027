@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/huddemomancharge.res"
+	#base	"../../myedit67/resource/ui/huddemomancharge.res"
+	#base	"../../extd/resource/ui/huddemomancharge.res"
+	#base	"../../myedit/resource/ui/huddemomancharge.res"
+	#base	"../../frag/resource/ui/huddemomancharge.res"
 	#base	"../../_jofrenew/resource/ui/huddemomancharge.res"
 	#base	"../../_jofrehud/resource/ui/huddemomancharge.res"
 	#base	"../../_tf2hud/resource/ui/huddemomancharge.res"

@@ -1,3 +1,6 @@
+#base "../extd/resource/gamemenu.res"
+#base "../myedit/resource/gamemenu.res"
+#base "../frag/resource/gamemenu.res"
 #base "../_jofrenew/resource/gamemenu.res"
 #base "../_jofrehud/resource/gamemenu.res"
 #base "../_tf2hud/resource/gamemenu.res"

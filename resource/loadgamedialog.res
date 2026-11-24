@@ -1,3 +1,6 @@
+#base "../extd/resource/loadgamedialog.res"
+#base "../myedit/resource/loadgamedialog.res"
+#base "../frag/resource/loadgamedialog.res"
 #base "../_jofrenew/resource/loadgamedialog.res"
 #base "../_jofrehud/resource/loadgamedialog.res"
 #base "../_tf2hud/resource/resource/loadgamedialog.res"

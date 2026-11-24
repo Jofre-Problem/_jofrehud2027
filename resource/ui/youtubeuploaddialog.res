@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/youtubeuploaddialog.res"
+	#base	"../../myedit67/resource/ui/youtubeuploaddialog.res"
+	#base	"../../extd/resource/ui/youtubeuploaddialog.res"
+	#base	"../../myedit/resource/ui/youtubeuploaddialog.res"
+	#base	"../../frag/resource/ui/youtubeuploaddialog.res"
 	#base	"../../_jofrenew/resource/ui/youtubeuploaddialog.res"
 	#base	"../../_jofrehud/resource/ui/youtubeuploaddialog.res"
 	#base	"../../_tf2hud/resource/resource/ui/youtubeuploaddialog.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/achievementitem.res"
+	#base	"../../myedit67/resource/ui/achievementitem.res"
+	#base	"../../extd/resource/ui/achievementitem.res"
+	#base	"../../myedit/resource/ui/achievementitem.res"
+	#base	"../../frag/resource/ui/achievementitem.res"
 	#base	"../../_jofrenew/resource/ui/achievementitem.res"
 	#base	"../../_jofrehud/resource/ui/achievementitem.res"
 	#base	"../../_tf2hud/resource/resource/ui/achievementitem.res"

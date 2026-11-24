@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/mvmvictorysplash.res"
+	#base	"../../myedit67/resource/ui/mvmvictorysplash.res"
+	#base	"../../extd/resource/ui/mvmvictorysplash.res"
+	#base	"../../myedit/resource/ui/mvmvictorysplash.res"
+	#base	"../../frag/resource/ui/mvmvictorysplash.res"
 	#base	"../../_jofrenew/resource/ui/mvmvictorysplash.res"
 	#base	"../../_jofrehud/resource/ui/mvmvictorysplash.res"
 	#base	"../../_tf2hud/resource/ui/mvmvictorysplash.res"

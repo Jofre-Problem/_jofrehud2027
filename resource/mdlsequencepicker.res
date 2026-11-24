@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/root/resource/mdlsequencepicker.res"
+#base "../_jofrehud67/resource/mdlsequencepicker.res"
+#base "../_tf2hud67/root/resource/mdlsequencepicker.res"
 #base "../_jofrehud/resource/mdlsequencepicker.res"
 #base "../_tf2hud/root/resource/mdlsequencepicker.res"

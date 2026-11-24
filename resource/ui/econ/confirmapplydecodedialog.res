@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/confirmapplydecodedialog.res"
+	#base	"../../../myedit67/resource/ui/econ/confirmapplydecodedialog.res"
+	#base	"../../../extd/resource/ui/econ/confirmapplydecodedialog.res"
+	#base	"../../../myedit/resource/ui/econ/confirmapplydecodedialog.res"
+	#base	"../../../frag/resource/ui/econ/confirmapplydecodedialog.res"
 	#base	"../../../_jofrenew/resource/ui/econ/confirmapplydecodedialog.res"
 	#base	"../../../_jofrehud/resource/ui/econ/confirmapplydecodedialog.res"
 	#base	"../../../_tf2hud/resource/ui/econ/confirmapplydecodedialog.res"

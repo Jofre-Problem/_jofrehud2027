@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/mainmenuplaylistentry.res"
+	#base	"../../myedit67/resource/ui/mainmenuplaylistentry.res"
+	#base	"../../extd/resource/ui/mainmenuplaylistentry.res"
+	#base	"../../myedit/resource/ui/mainmenuplaylistentry.res"
+	#base	"../../frag/resource/ui/mainmenuplaylistentry.res"
 	#base	"../../_jofrenew/resource/ui/mainmenuplaylistentry.res"
 	#base	"../../_jofrehud/resource/ui/mainmenuplaylistentry.res"
 	#base	"../../_tf2hud/resource/ui/mainmenuplaylistentry.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/huddamageaccount.res"
+	#base	"../../myedit67/resource/ui/huddamageaccount.res"
+	#base	"../../extd/resource/ui/huddamageaccount.res"
+	#base	"../../myedit/resource/ui/huddamageaccount.res"
+	#base	"../../frag/resource/ui/huddamageaccount.res"
 	#base	"../../_jofrenew/resource/ui/huddamageaccount.res"
 	#base	"../../_jofrehud/resource/ui/huddamageaccount.res"
 	#base	"../../_tf2hud/resource/ui/huddamageaccount.res"

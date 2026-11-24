@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/steamworkshopitem.res"
+	#base	"../../myedit67/resource/ui/steamworkshopitem.res"
+	#base	"../../extd/resource/ui/steamworkshopitem.res"
+	#base	"../../myedit/resource/ui/steamworkshopitem.res"
+	#base	"../../frag/resource/ui/steamworkshopitem.res"
 	#base	"../../_jofrenew/resource/ui/steamworkshopitem.res"
 	#base	"../../_jofrehud/resource/ui/steamworkshopitem.res"
 	#base	"../../_tf2hud/resource/ui/steamworkshopitem.res"

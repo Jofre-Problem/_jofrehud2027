@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/bxfilterlog.res"
+#base "../_jofrehud67/resource/bxfilterlog.res"
+#base "../_tf2hud67/resource/resource/bxfilterlog.res"
 #base "../_jofrehud/resource/bxfilterlog.res"
 #base "../_tf2hud/resource/resource/bxfilterlog.res"

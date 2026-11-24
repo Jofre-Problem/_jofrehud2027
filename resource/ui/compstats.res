@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/compstats.res"
+	#base	"../../myedit67/resource/ui/compstats.res"
+	#base	"../../extd/resource/ui/compstats.res"
+	#base	"../../myedit/resource/ui/compstats.res"
+	#base	"../../frag/resource/ui/compstats.res"
 	#base	"../../_jofrenew/resource/ui/compstats.res"
 	#base	"../../_jofrehud/resource/ui/compstats.res"
 	#base	"../../_tf2hud/resource/ui/compstats.res"

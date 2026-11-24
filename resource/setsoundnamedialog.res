@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/setsoundnamedialog.res"
+#base "../_jofrehud67/resource/setsoundnamedialog.res"
+#base "../_tf2hud67/resource/resource/setsoundnamedialog.res"
 #base "../_jofrehud/resource/setsoundnamedialog.res"
 #base "../_tf2hud/resource/resource/setsoundnamedialog.res"

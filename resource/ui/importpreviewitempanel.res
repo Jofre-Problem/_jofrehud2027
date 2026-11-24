@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/importpreviewitempanel.res"
+	#base	"../../myedit67/resource/ui/importpreviewitempanel.res"
+	#base	"../../extd/resource/ui/importpreviewitempanel.res"
+	#base	"../../myedit/resource/ui/importpreviewitempanel.res"
+	#base	"../../frag/resource/ui/importpreviewitempanel.res"
 	#base	"../../_jofrenew/resource/ui/importpreviewitempanel.res"
 	#base	"../../_jofrehud/resource/ui/importpreviewitempanel.res"
 	#base	"../../_tf2hud/resource/ui/importpreviewitempanel.res"

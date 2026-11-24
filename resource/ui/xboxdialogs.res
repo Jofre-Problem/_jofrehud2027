@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/xboxdialogs.res"
+	#base	"../../_stream6767/resource/ui/xboxdialogs.res"
+	#base	"../../extd/resource/ui/xboxdialogs.res"
+	#base	"../../_stream67/resource/ui/xboxdialogs.res"
+	#base	"../../frag/resource/ui/xboxdialogs.res"
 	#base	"../../_stream/resource/ui/xboxdialogs.res"
 	#base	"../../_jofrehud/resource/ui/xboxdialogs.res"
 	#base	"../../_tf2hud/resource/ui/xboxdialogs.res"

@@ -1,3 +1,6 @@
+#base "../extd/_tf2exp/slideshowdisplayscreen.res"
+#base "../_jofrehud67/resource/slideshowdisplayscreen.res"
+#base "../frag/_tf2exp/slideshowdisplayscreen.res"
 #base "../_jofrehud/resource/slideshowdisplayscreen.res"
 #base "../_jofrehud/_tf2exp/slideshowdisplayscreen.res"
 //#base "../_tf2hud/resource/resource/slideshowdisplayscreen.res"

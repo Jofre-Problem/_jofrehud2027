@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudachievementfloatingnumber.res"
+	#base	"../../myedit67/resource/ui/hudachievementfloatingnumber.res"
+	#base	"../../extd/resource/ui/hudachievementfloatingnumber.res"
+	#base	"../../myedit/resource/ui/hudachievementfloatingnumber.res"
+	#base	"../../frag/resource/ui/hudachievementfloatingnumber.res"
 	#base	"../../_jofrenew/resource/ui/hudachievementfloatingnumber.res"
 	#base	"../../_jofrehud/resource/ui/hudachievementfloatingnumber.res"
 	#base	"../../_tf2hud/resource/ui/hudachievementfloatingnumber.res"

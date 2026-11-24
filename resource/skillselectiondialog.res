@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/skillselectiondialog.res"
+#base "../_jofrehud67/resource/skillselectiondialog.res"
+#base "../_tf2hud67/resource/resource/skillselectiondialog.res"
 #base "../_jofrehud/resource/skillselectiondialog.res"
 #base "../_tf2hud/resource/resource/skillselectiondialog.res"

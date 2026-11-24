@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/itempickuppanel.res"
+	#base	"../../../myedit67/resource/ui/econ/itempickuppanel.res"
+	#base	"../../../extd/resource/ui/econ/itempickuppanel.res"
+	#base	"../../../myedit/resource/ui/econ/itempickuppanel.res"
+	#base	"../../../frag/resource/ui/econ/itempickuppanel.res"
 	#base	"../../../_jofrenew/resource/ui/econ/itempickuppanel.res"
 	#base	"../../../_jofrehud/resource/ui/econ/itempickuppanel.res"
 	#base	"../../../_tf2hud/resource/ui/econ/itempickuppanel.res"

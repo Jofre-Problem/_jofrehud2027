@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/root/resource/assetpicker.res"
+#base "../_jofrehud67/resource/assetpicker.res"
+#base "../_tf2hud67/root/resource/assetpicker.res"
 #base "../_jofrehud/resource/assetpicker.res"
 #base "../_tf2hud/root/resource/assetpicker.res"

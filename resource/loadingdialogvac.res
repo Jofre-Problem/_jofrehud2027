@@ -1,3 +1,6 @@
+#base "../extd/resource/loadingdialogvac.res"
+#base "../myedit/resource/loadingdialogvac.res"
+#base "../frag/resource/loadingdialogvac.res"
 #base "../_jofrenew/resource/loadingdialogvac.res"
 #base "../_jofrehud/resource/loadingdialogvac.res"
 #base "../_tf2hud/resource/resource/loadingdialogvac.res"

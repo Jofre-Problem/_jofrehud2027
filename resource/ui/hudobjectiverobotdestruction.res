@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudobjectiverobotdestruction.res"
+	#base	"../../myedit67/resource/ui/hudobjectiverobotdestruction.res"
+	#base	"../../extd/resource/ui/hudobjectiverobotdestruction.res"
+	#base	"../../myedit/resource/ui/hudobjectiverobotdestruction.res"
+	#base	"../../frag/resource/ui/hudobjectiverobotdestruction.res"
 	#base	"../../_jofrenew/resource/ui/hudobjectiverobotdestruction.res"
 	#base	"../../_jofrehud/resource/ui/hudobjectiverobotdestruction.res"
 	#base	"../../_tf2hud/resource/ui/hudobjectiverobotdestruction.res"

@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/destroy_menu/tele_exit_active.res"
+	#base	"../../../myedit67/resource/ui/destroy_menu/tele_exit_active.res"
+	#base	"../../../extd/resource/ui/destroy_menu/tele_exit_active.res"
+	#base	"../../../myedit/resource/ui/destroy_menu/tele_exit_active.res"
+	#base	"../../../frag/resource/ui/destroy_menu/tele_exit_active.res"
 	#base	"../../../_jofrenew/resource/ui/destroy_menu/tele_exit_active.res"
 	#base	"../../../_jofrehud/resource/ui/destroy_menu/tele_exit_active.res"
 	#base	"../../../_tf2hud/resource/ui/destroy_menu/tele_exit_active.res"

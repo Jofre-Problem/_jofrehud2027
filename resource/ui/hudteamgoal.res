@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudteamgoal.res"
+	#base	"../../myedit67/resource/ui/hudteamgoal.res"
+	#base	"../../extd/resource/ui/hudteamgoal.res"
+	#base	"../../myedit/resource/ui/hudteamgoal.res"
+	#base	"../../frag/resource/ui/hudteamgoal.res"
 	#base	"../../_jofrenew/resource/ui/hudteamgoal.res"
 	#base	"../../_jofrehud/resource/ui/hudteamgoal.res"
 	#base	"../../_tf2hud/resource/ui/hudteamgoal.res"

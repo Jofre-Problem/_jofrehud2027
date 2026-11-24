@@ -1,3 +1,6 @@
+	#base	"../../extd/resource/ui/hudbosshealth.res"
+	#base	"../../myedit/resource/ui/hudbosshealth.res"
+	#base	"../../frag/resource/ui/hudbosshealth.res"
 	#base	"../../_jofrenew/resource/ui/hudbosshealth.res"
 	#base	"../../_jofrehud/resource/ui/hudbosshealth.res"
 	#base	"../../_tf2hud/resource/ui/hudbosshealth.res"

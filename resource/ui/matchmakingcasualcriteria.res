@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/matchmakingcasualcriteria.res"
+	#base	"../../myedit67/resource/ui/matchmakingcasualcriteria.res"
+	#base	"../../extd/resource/ui/matchmakingcasualcriteria.res"
+	#base	"../../myedit/resource/ui/matchmakingcasualcriteria.res"
+	#base	"../../frag/resource/ui/matchmakingcasualcriteria.res"
 	#base	"../../_jofrenew/resource/ui/matchmakingcasualcriteria.res"
 	#base	"../../_jofrehud/resource/ui/matchmakingcasualcriteria.res"
 	#base	"../../_tf2hud/resource/ui/matchmakingcasualcriteria.res"

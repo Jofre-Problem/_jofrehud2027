@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/bxviewport.res"
+#base "../_jofrehud67/resource/bxviewport.res"
+#base "../_tf2hud67/resource/resource/bxviewport.res"
 #base "../_jofrehud/resource/bxviewport.res"
 #base "../_tf2hud/resource/resource/bxviewport.res"

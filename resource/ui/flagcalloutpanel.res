@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/flagcalloutpanel.res"
+	#base	"../../myedit67/resource/ui/flagcalloutpanel.res"
+	#base	"../../extd/resource/ui/flagcalloutpanel.res"
+	#base	"../../myedit/resource/ui/flagcalloutpanel.res"
+	#base	"../../frag/resource/ui/flagcalloutpanel.res"
 	#base	"../../_jofrenew/resource/ui/flagcalloutpanel.res"
 	#base	"../../_jofrehud/resource/ui/flagcalloutpanel.res"
 	#base	"../../_tf2hud/resource/ui/flagcalloutpanel.res"

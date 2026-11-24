@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/confirmapplystrangifierdialog.res"
+	#base	"../../../myedit67/resource/ui/econ/confirmapplystrangifierdialog.res"
+	#base	"../../../extd/resource/ui/econ/confirmapplystrangifierdialog.res"
+	#base	"../../../myedit/resource/ui/econ/confirmapplystrangifierdialog.res"
+	#base	"../../../frag/resource/ui/econ/confirmapplystrangifierdialog.res"
 	#base	"../../../_jofrenew/resource/ui/econ/confirmapplystrangifierdialog.res"
 	#base	"../../../_jofrehud/resource/ui/econ/confirmapplystrangifierdialog.res"
 	#base	"../../../_tf2hud/resource/ui/econ/confirmapplystrangifierdialog.res"

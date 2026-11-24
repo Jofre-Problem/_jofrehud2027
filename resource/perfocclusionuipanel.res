@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/perfocclusionuipanel.res"
+#base "../_jofrehud67/resource/perfocclusionuipanel.res"
+#base "../_tf2hud67/resource/resource/perfocclusionuipanel.res"
 #base "../_jofrehud/resource/perfocclusionuipanel.res"
 #base "../_tf2hud/resource/resource/perfocclusionuipanel.res"

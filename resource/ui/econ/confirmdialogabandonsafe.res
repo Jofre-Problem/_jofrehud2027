@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/confirmdialogabandonsafe.res"
+	#base	"../../../myedit67/resource/ui/econ/confirmdialogabandonsafe.res"
+	#base	"../../../extd/resource/ui/econ/confirmdialogabandonsafe.res"
+	#base	"../../../myedit/resource/ui/econ/confirmdialogabandonsafe.res"
+	#base	"../../../frag/resource/ui/econ/confirmdialogabandonsafe.res"
 	#base	"../../../_jofrenew/resource/ui/econ/confirmdialogabandonsafe.res"
 	#base	"../../../_jofrehud/resource/ui/econ/confirmdialogabandonsafe.res"
 	#base	"../../../_tf2hud/resource/ui/econ/confirmdialogabandonsafe.res"

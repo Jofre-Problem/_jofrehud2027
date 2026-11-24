@@ -1,3 +1,4 @@
+#base "../../myedit/resource/ui/huditemeffectmeter_pyro.res"
 // same as huditemeffectmeter.res"
 #base "../../_jofrenew/resource/ui/huditemeffectmeter_pyro.res"
 #base "../../_jofrehud/resource/ui/huditemeffectmeter_pyro.res"

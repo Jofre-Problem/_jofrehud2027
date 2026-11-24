@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/notificationtoastcontainer.res"
+	#base	"../../../myedit67/resource/ui/econ/notificationtoastcontainer.res"
+	#base	"../../../extd/resource/ui/econ/notificationtoastcontainer.res"
+	#base	"../../../myedit/resource/ui/econ/notificationtoastcontainer.res"
+	#base	"../../../frag/resource/ui/econ/notificationtoastcontainer.res"
 	#base	"../../../_jofrenew/resource/ui/econ/notificationtoastcontainer.res"
 	#base	"../../../_jofrehud/resource/ui/econ/notificationtoastcontainer.res"
 	#base	"../../../_tf2hud/resource/ui/econ/notificationtoastcontainer.res"

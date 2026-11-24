@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/newoperationdialog.res"
+#base "../_jofrehud67/resource/newoperationdialog.res"
+#base "../_tf2hud67/resource/resource/newoperationdialog.res"
 #base "../_jofrehud/resource/newoperationdialog.res"
 #base "../_tf2hud/resource/resource/newoperationdialog.res"

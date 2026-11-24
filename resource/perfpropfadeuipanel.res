@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/perfpropfadeuipanel.res"
+#base "../_jofrehud67/resource/perfpropfadeuipanel.res"
+#base "../_tf2hud67/resource/resource/perfpropfadeuipanel.res"
 #base "../_jofrehud/resource/perfpropfadeuipanel.res"
 #base "../_tf2hud/resource/resource/perfpropfadeuipanel.res"

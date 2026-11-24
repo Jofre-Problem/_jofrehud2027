@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/itemselectionpanel.res"
+	#base	"../../myedit67/resource/ui/itemselectionpanel.res"
+	#base	"../../extd/resource/ui/itemselectionpanel.res"
+	#base	"../../myedit/resource/ui/itemselectionpanel.res"
+	#base	"../../frag/resource/ui/itemselectionpanel.res"
 	#base	"../../_jofrenew/resource/ui/itemselectionpanel.res"
 	#base	"../../_jofrehud/resource/ui/itemselectionpanel.res"
 	#base	"../../_tf2hud/resource/ui/itemselectionpanel.res"

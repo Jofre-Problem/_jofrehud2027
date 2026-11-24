@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/trainingcomplete.res"
+	#base	"../../myedit67/resource/ui/trainingcomplete.res"
+	#base	"../../extd/resource/ui/trainingcomplete.res"
+	#base	"../../myedit/resource/ui/trainingcomplete.res"
+	#base	"../../frag/resource/ui/trainingcomplete.res"
 	#base	"../../_jofrenew/resource/ui/trainingcomplete.res"
 	#base	"../../_jofrehud/resource/ui/trainingcomplete.res"
 	#base	"../../_tf2hud/resource/ui/trainingcomplete.res"

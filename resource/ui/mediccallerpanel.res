@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/mediccallerpanel.res"
+	#base	"../../myedit67/resource/ui/mediccallerpanel.res"
+	#base	"../../extd/resource/ui/mediccallerpanel.res"
+	#base	"../../myedit/resource/ui/mediccallerpanel.res"
+	#base	"../../frag/resource/ui/mediccallerpanel.res"
 	#base	"../../_jofrenew/resource/ui/mediccallerpanel.res"
 	#base	"../../_jofrehud/resource/ui/mediccallerpanel.res"
 	#base	"../../_tf2hud/resource/ui/mediccallerpanel.res"

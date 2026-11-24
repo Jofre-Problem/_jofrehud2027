@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/stampdonationadd.res"
+	#base	"../../myedit67/resource/ui/stampdonationadd.res"
+	#base	"../../extd/resource/ui/stampdonationadd.res"
+	#base	"../../myedit/resource/ui/stampdonationadd.res"
+	#base	"../../frag/resource/ui/stampdonationadd.res"
 	#base	"../../_jofrenew/resource/ui/stampdonationadd.res"
 	#base	"../../_jofrehud/resource/ui/stampdonationadd.res"
 	#base	"../../_tf2hud/resource/ui/stampdonationadd.res"

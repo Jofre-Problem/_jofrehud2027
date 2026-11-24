@@ -1,3 +1,6 @@
+#base "../extd/resource/buguipanel.res"
+#base "../myedit/resource/buguipanel.res"
+#base "../frag/resource/buguipanel.res"
 #base "../_jofrenew/resource/buguipanel.res"
 #base "../_jofrehud/resource/buguipanel.res"
 #base "../_tf2hud/resource/resource/buguipanel.res"

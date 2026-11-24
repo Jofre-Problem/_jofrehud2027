@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/confirmitempreviewdialog.res"
+	#base	"../../../myedit67/resource/ui/econ/confirmitempreviewdialog.res"
+	#base	"../../../extd/resource/ui/econ/confirmitempreviewdialog.res"
+	#base	"../../../myedit/resource/ui/econ/confirmitempreviewdialog.res"
+	#base	"../../../frag/resource/ui/econ/confirmitempreviewdialog.res"
 	#base	"../../../_jofrenew/resource/ui/econ/confirmitempreviewdialog.res"
 	#base	"../../../_jofrehud/resource/ui/econ/confirmitempreviewdialog.res"
 	#base	"../../../_tf2hud/resource/ui/econ/confirmitempreviewdialog.res"

@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/sfm_animationsetpickerframe.res"
+#base "../_jofrehud67/resource/sfm_animationsetpickerframe.res"
+#base "../_tf2hud67/resource/resource/sfm_animationsetpickerframe.res"
 #base "../_jofrehud/resource/sfm_animationsetpickerframe.res"
 #base "../_tf2hud/resource/resource/sfm_animationsetpickerframe.res"

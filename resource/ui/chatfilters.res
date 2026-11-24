@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/chatfilters.res"
+	#base	"../../myedit67/resource/ui/chatfilters.res"
+	#base	"../../extd/resource/ui/chatfilters.res"
+	#base	"../../myedit/resource/ui/chatfilters.res"
+	#base	"../../frag/resource/ui/chatfilters.res"
 	#base	"../../_jofrenew/resource/ui/chatfilters.res"
 	#base	"../../_jofrehud/resource/ui/chatfilters.res"
 	#base	"../../_tf2hud/resource/resource/ui/chatfilters.res"

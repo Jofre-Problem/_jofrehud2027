@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/achievementgroup.res"
+	#base	"../../myedit67/resource/ui/achievementgroup.res"
+	#base	"../../extd/resource/ui/achievementgroup.res"
+	#base	"../../myedit/resource/ui/achievementgroup.res"
+	#base	"../../frag/resource/ui/achievementgroup.res"
 	#base	"../../_jofrenew/resource/ui/achievementgroup.res"
 	#base	"../../_jofrehud/resource/ui/achievementgroup.res"
 	#base	"../../_tf2hud/resource/resource/ui/achievementgroup.res"

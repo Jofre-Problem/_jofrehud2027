@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/statpanel_base.res"
+	#base	"../../myedit67/resource/ui/statpanel_base.res"
+	#base	"../../extd/resource/ui/statpanel_base.res"
+	#base	"../../myedit/resource/ui/statpanel_base.res"
+	#base	"../../frag/resource/ui/statpanel_base.res"
 	#base	"../../_jofrenew/resource/ui/statpanel_base.res"
 	#base	"../../_jofrehud/resource/ui/statpanel_base.res"
 	#base	"../../_tf2hud/resource/ui/statpanel_base.res"

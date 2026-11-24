@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/craftingstatusdialog.res"
+	#base	"../../myedit67/resource/ui/craftingstatusdialog.res"
+	#base	"../../extd/resource/ui/craftingstatusdialog.res"
+	#base	"../../myedit/resource/ui/craftingstatusdialog.res"
+	#base	"../../frag/resource/ui/craftingstatusdialog.res"
 	#base	"../../_jofrenew/resource/ui/craftingstatusdialog.res"
 	#base	"../../_jofrehud/resource/ui/craftingstatusdialog.res"
 	#base	"../../_tf2hud/resource/ui/craftingstatusdialog.res"

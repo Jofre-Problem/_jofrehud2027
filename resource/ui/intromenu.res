@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/intromenu.res"
+	#base	"../../myedit67/resource/ui/intromenu.res"
+	#base	"../../extd/resource/ui/intromenu.res"
+	#base	"../../myedit/resource/ui/intromenu.res"
+	#base	"../../frag/resource/ui/intromenu.res"
 	#base	"../../_jofrenew/resource/ui/intromenu.res"
 	#base	"../../_jofrehud/resource/ui/intromenu.res"
 	#base	"../../_tf2hud/resource/ui/intromenu.res"

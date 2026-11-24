@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/invitenotification.res"
+	#base	"../../myedit67/resource/ui/invitenotification.res"
+	#base	"../../extd/resource/ui/invitenotification.res"
+	#base	"../../myedit/resource/ui/invitenotification.res"
+	#base	"../../frag/resource/ui/invitenotification.res"
 	#base	"../../_jofrenew/resource/ui/invitenotification.res"
 	#base	"../../_jofrehud/resource/ui/invitenotification.res"
 	#base	"../../_tf2hud/resource/ui/invitenotification.res"

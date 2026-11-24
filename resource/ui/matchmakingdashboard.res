@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/matchmakingdashboard.res"
+	#base	"../../myedit67/resource/ui/matchmakingdashboard.res"
+	#base	"../../extd/resource/ui/matchmakingdashboard.res"
+	#base	"../../myedit/resource/ui/matchmakingdashboard.res"
+	#base	"../../frag/resource/ui/matchmakingdashboard.res"
 	#base	"../../_jofrenew/resource/ui/matchmakingdashboard.res"
 	#base	"../../_jofrehud/resource/ui/matchmakingdashboard.res"
 	#base	"../../_tf2hud/resource/ui/matchmakingdashboard.res"

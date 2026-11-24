@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/mainmenuoverride.res"
+	#base	"../../myedit67/resource/ui/mainmenuoverride.res"
+	#base	"../../extd/resource/ui/mainmenuoverride.res"
+	#base	"../../myedit/resource/ui/mainmenuoverride.res"
+	#base	"../../frag/resource/ui/mainmenuoverride.res"
 	#base	"../../_jofrenew/resource/ui/mainmenuoverride.res"
 	#base	"../../_jofrehud/resource/ui/mainmenuoverride.res"
 	#base	"../../_tf2hud/resource/ui/mainmenuoverride.res"

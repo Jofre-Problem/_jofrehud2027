@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudobjectiveplayerdestruction.res"
+	#base	"../../myedit67/resource/ui/hudobjectiveplayerdestruction.res"
+	#base	"../../extd/resource/ui/hudobjectiveplayerdestruction.res"
+	#base	"../../myedit/resource/ui/hudobjectiveplayerdestruction.res"
+	#base	"../../frag/resource/ui/hudobjectiveplayerdestruction.res"
 	#base	"../../_jofrenew/resource/ui/hudobjectiveplayerdestruction.res"
 	#base	"../../_jofrehud/resource/ui/hudobjectiveplayerdestruction.res"
 	#base	"../../_tf2hud/resource/ui/hudobjectiveplayerdestruction.res"

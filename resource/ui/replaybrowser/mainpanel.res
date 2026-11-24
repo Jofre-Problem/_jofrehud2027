@@ -1,2 +1,5 @@
+	#base "../../../_tf2hud6767/resource/resource/ui/replaybrowser/mainpanel.res"	
+	#base "../../../_jofrehud67/resource/ui/replaybrowser/mainpanel.res"	
+	#base "../../../_tf2hud67/resource/resource/ui/replaybrowser/mainpanel.res"	
 	#base "../../../_jofrehud/resource/ui/replaybrowser/mainpanel.res"	
 	#base "../../../_tf2hud/resource/resource/ui/replaybrowser/mainpanel.res"	

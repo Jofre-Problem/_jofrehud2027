@@ -1,2 +1,5 @@
+#base "../../../_tf2hud6767/resource/ui/notifications/base_notification.res"	
+#base "../../../_jofrehud67/resource/ui/notifications/base_notification.res"	
+#base "../../../_tf2hud67/resource/ui/notifications/base_notification.res"	
 #base "../../../_jofrehud/resource/ui/notifications/base_notification.res"	
 #base "../../../_tf2hud/resource/ui/notifications/base_notification.res"	

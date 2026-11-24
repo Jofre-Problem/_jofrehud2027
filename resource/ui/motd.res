@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/motd.res"
+	#base	"../../myedit67/resource/ui/motd.res"
+	#base	"../../extd/resource/ui/motd.res"
+	#base	"../../myedit/resource/ui/motd.res"
+	#base	"../../frag/resource/ui/motd.res"
 	#base	"../../_jofrenew/resource/ui/motd.res"
 	#base	"../../_jofrehud/resource/ui/motd.res"
 	#base	"../../_tf2hud/resource/ui/motd.res"

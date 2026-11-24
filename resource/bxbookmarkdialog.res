@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/bxbookmarkdialog.res"
+#base "../_jofrehud67/resource/bxbookmarkdialog.res"
+#base "../_tf2hud67/resource/resource/bxbookmarkdialog.res"
 #base "../_jofrehud/resource/bxbookmarkdialog.res"
 #base "../_tf2hud/resource/resource/bxbookmarkdialog.res"

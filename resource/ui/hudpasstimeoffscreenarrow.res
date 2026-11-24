@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudpasstimeoffscreenarrow.res"
+	#base	"../../myedit67/resource/ui/hudpasstimeoffscreenarrow.res"
+	#base	"../../extd/resource/ui/hudpasstimeoffscreenarrow.res"
+	#base	"../../myedit/resource/ui/hudpasstimeoffscreenarrow.res"
+	#base	"../../frag/resource/ui/hudpasstimeoffscreenarrow.res"
 	#base	"../../_jofrenew/resource/ui/hudpasstimeoffscreenarrow.res"
 	#base	"../../_jofrehud/resource/ui/hudpasstimeoffscreenarrow.res"
 	#base	"../../_tf2hud/resource/ui/hudpasstimeoffscreenarrow.res"

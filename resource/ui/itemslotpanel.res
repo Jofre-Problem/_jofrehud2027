@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/itemslotpanel.res"
+	#base	"../../myedit67/resource/ui/itemslotpanel.res"
+	#base	"../../extd/resource/ui/itemslotpanel.res"
+	#base	"../../myedit/resource/ui/itemslotpanel.res"
+	#base	"../../frag/resource/ui/itemslotpanel.res"
 	#base	"../../_jofrenew/resource/ui/itemslotpanel.res"
 	#base	"../../_jofrehud/resource/ui/itemslotpanel.res"
 	#base	"../../_tf2hud/resource/ui/itemslotpanel.res"

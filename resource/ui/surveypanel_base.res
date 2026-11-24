@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/surveypanel_base.res"
+	#base	"../../myedit67/resource/ui/surveypanel_base.res"
+	#base	"../../extd/resource/ui/surveypanel_base.res"
+	#base	"../../myedit/resource/ui/surveypanel_base.res"
+	#base	"../../frag/resource/ui/surveypanel_base.res"
 	#base	"../../_jofrenew/resource/ui/surveypanel_base.res"
 	#base	"../../_jofrehud/resource/ui/surveypanel_base.res"
 	#base	"../../_tf2hud/resource/ui/surveypanel_base.res"

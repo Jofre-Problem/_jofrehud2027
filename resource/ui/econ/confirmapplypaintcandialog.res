@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/confirmapplypaintcandialog.res"
+	#base	"../../../myedit67/resource/ui/econ/confirmapplypaintcandialog.res"
+	#base	"../../../extd/resource/ui/econ/confirmapplypaintcandialog.res"
+	#base	"../../../myedit/resource/ui/econ/confirmapplypaintcandialog.res"
+	#base	"../../../frag/resource/ui/econ/confirmapplypaintcandialog.res"
 	#base	"../../../_jofrenew/resource/ui/econ/confirmapplypaintcandialog.res"
 	#base	"../../../_jofrehud/resource/ui/econ/confirmapplypaintcandialog.res"
 	#base	"../../../_tf2hud/resource/ui/econ/confirmapplypaintcandialog.res"

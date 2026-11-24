@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/plugin.res"
+	#base	"../../_stream6767/resource/ui/plugin.res"
+	#base	"../../extd/resource/ui/plugin.res"
+	#base	"../../_stream67/resource/ui/plugin.res"
+	#base	"../../frag/resource/ui/plugin.res"
 	#base	"../../_stream/resource/ui/plugin.res"
 	#base	"../../_jofrehud/resource/ui/plugin.res"
 	#base	"../../_tf2hud/resource/resource/ui/plugin.res"

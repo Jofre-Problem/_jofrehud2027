@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/root/resource/vp4dialog.res"
+#base "../_jofrehud67/resource/vp4dialog.res"
+#base "../_tf2hud67/root/resource/vp4dialog.res"
 #base "../_jofrehud/resource/vp4dialog.res"
 #base "../_tf2hud/root/resource/vp4dialog.res"

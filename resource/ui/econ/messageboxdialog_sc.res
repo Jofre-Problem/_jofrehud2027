@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/messageboxdialog_sc.res"
+	#base	"../../../_stream6767/resource/ui/econ/messageboxdialog_sc.res"
+	#base	"../../../extd/resource/ui/econ/messageboxdialog_sc.res"
+	#base	"../../../_stream67/resource/ui/econ/messageboxdialog_sc.res"
+	#base	"../../../frag/resource/ui/econ/messageboxdialog_sc.res"
 	#base	"../../../_stream/resource/ui/econ/messageboxdialog_sc.res"
 	#base	"../../../_jofrehud/resource/ui/econ/messageboxdialog_sc.res"
 	#base	"../../../_tf2hud/resource/resource/ui/econ/messageboxdialog_sc.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/mvmstatentry.res"
+	#base	"../../myedit67/resource/ui/mvmstatentry.res"
+	#base	"../../extd/resource/ui/mvmstatentry.res"
+	#base	"../../myedit/resource/ui/mvmstatentry.res"
+	#base	"../../frag/resource/ui/mvmstatentry.res"
 	#base	"../../_jofrenew/resource/ui/mvmstatentry.res"
 	#base	"../../_jofrehud/resource/ui/mvmstatentry.res"
 	#base	"../../_tf2hud/resource/ui/mvmstatentry.res"

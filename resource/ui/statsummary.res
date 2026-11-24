@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/statsummary.res"
+	#base	"../../myedit67/resource/ui/statsummary.res"
+	#base	"../../extd/resource/ui/statsummary.res"
+	#base	"../../myedit/resource/ui/statsummary.res"
+	#base	"../../frag/resource/ui/statsummary.res"
 	#base	"../../_jofrenew/resource/ui/statsummary.res"
 	#base	"../../_jofrehud/resource/ui/statsummary.res"
 	#base	"../../_tf2hud/resource/ui/statsummary.res"

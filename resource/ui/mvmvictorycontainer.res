@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/mvmvictorycontainer.res"
+	#base	"../../myedit67/resource/ui/mvmvictorycontainer.res"
+	#base	"../../extd/resource/ui/mvmvictorycontainer.res"
+	#base	"../../myedit/resource/ui/mvmvictorycontainer.res"
+	#base	"../../frag/resource/ui/mvmvictorycontainer.res"
 	#base	"../../_jofrenew/resource/ui/mvmvictorycontainer.res"
 	#base	"../../_jofrehud/resource/ui/mvmvictorycontainer.res"
 	#base	"../../_tf2hud/resource/ui/mvmvictorycontainer.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudtrainingmsg.res"
+	#base	"../../myedit67/resource/ui/hudtrainingmsg.res"
+	#base	"../../extd/resource/ui/hudtrainingmsg.res"
+	#base	"../../myedit/resource/ui/hudtrainingmsg.res"
+	#base	"../../frag/resource/ui/hudtrainingmsg.res"
 	#base	"../../_jofrenew/resource/ui/hudtrainingmsg.res"
 	#base	"../../_jofrehud/resource/ui/hudtrainingmsg.res"
 	#base	"../../_tf2hud/resource/ui/hudtrainingmsg.res"

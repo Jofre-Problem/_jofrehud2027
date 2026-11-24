@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/root/resource/perforcefilelist.res"
+#base "../_jofrehud67/resource/perforcefilelist.res"
+#base "../_tf2hud67/root/resource/perforcefilelist.res"
 #base "../_jofrehud/resource/perforcefilelist.res"
 #base "../_tf2hud/root/resource/perforcefilelist.res"

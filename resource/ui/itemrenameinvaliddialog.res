@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/itemrenameinvaliddialog.res"
+	#base	"../../myedit67/resource/ui/itemrenameinvaliddialog.res"
+	#base	"../../extd/resource/ui/itemrenameinvaliddialog.res"
+	#base	"../../myedit/resource/ui/itemrenameinvaliddialog.res"
+	#base	"../../frag/resource/ui/itemrenameinvaliddialog.res"
 	#base	"../../_jofrenew/resource/ui/itemrenameinvaliddialog.res"
 	#base	"../../_jofrehud/resource/ui/itemrenameinvaliddialog.res"
 	#base	"../../_tf2hud/resource/ui/itemrenameinvaliddialog.res"

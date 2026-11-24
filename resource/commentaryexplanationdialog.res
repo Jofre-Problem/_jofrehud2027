@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/commentaryexplanationdialog.res"
+#base "../_jofrehud67/resource/commentaryexplanationdialog.res"
+#base "../_tf2hud67/resource/commentaryexplanationdialog.res"
 #base "../_jofrehud/resource/commentaryexplanationdialog.res"
 #base "../_tf2hud/resource/commentaryexplanationdialog.res"

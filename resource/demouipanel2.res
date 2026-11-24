@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/demouipanel2.res"
+#base "../_jofrehud67/resource/demouipanel2.res"
+#base "../_tf2hud67/resource/resource/demouipanel2.res"
 #base "../_jofrehud/resource/demouipanel2.res"
 #base "../_tf2hud/resource/resource/demouipanel2.res"

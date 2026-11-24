@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/classmenu.res"
+	#base	"../../myedit67/resource/ui/classmenu.res"
+	#base	"../../extd/resource/ui/classmenu.res"
+	#base	"../../myedit/resource/ui/classmenu.res"
+	#base	"../../frag/resource/ui/classmenu.res"
 	#base	"../../_jofrenew/resource/ui/classmenu.res"
 	#base	"../../_jofrehud/resource/ui/classmenu.res"
 	#base	"../../_tf2hud/resource/ui/classmenu.res"

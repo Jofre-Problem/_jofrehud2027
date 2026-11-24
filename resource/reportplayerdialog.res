@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/reportplayerdialog.res"
+#base "../_jofrehud67/resource/reportplayerdialog.res"
+#base "../_tf2hud67/resource/reportplayerdialog.res"
 #base "../_jofrehud/resource/reportplayerdialog.res"
 #base "../_tf2hud/resource/reportplayerdialog.res"

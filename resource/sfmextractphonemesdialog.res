@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/sfmextractphonemesdialog.res"
+#base "../_jofrehud67/resource/sfmextractphonemesdialog.res"
+#base "../_tf2hud67/resource/resource/sfmextractphonemesdialog.res"
 #base "../_jofrehud/resource/sfmextractphonemesdialog.res"
 #base "../_tf2hud/resource/resource/sfmextractphonemesdialog.res"

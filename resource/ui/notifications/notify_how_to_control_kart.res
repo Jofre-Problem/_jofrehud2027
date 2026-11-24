@@ -1,2 +1,5 @@
+#base "../../../_tf2hud6767/resource/ui/notifications/notify_how_to_control_kart.res"	
+#base "../../../_jofrehud67/resource/ui/notifications/notify_how_to_control_kart.res"	
+#base "../../../_tf2hud67/resource/ui/notifications/notify_how_to_control_kart.res"	
 #base "../../../_jofrehud/resource/ui/notifications/notify_how_to_control_kart.res"	
 #base "../../../_tf2hud/resource/ui/notifications/notify_how_to_control_kart.res"	

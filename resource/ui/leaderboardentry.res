@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/leaderboardentry.res"
+	#base	"../../myedit67/resource/ui/leaderboardentry.res"
+	#base	"../../extd/resource/ui/leaderboardentry.res"
+	#base	"../../myedit/resource/ui/leaderboardentry.res"
+	#base	"../../frag/resource/ui/leaderboardentry.res"
 	#base	"../../_jofrenew/resource/ui/leaderboardentry.res"
 	#base	"../../_jofrehud/resource/ui/leaderboardentry.res"
 	#base	"../../_tf2hud/resource/ui/leaderboardentry.res"

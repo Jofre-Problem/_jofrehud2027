@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/replayinputpanel.res"
+	#base	"../../myedit67/resource/ui/replayinputpanel.res"
+	#base	"../../extd/resource/ui/replayinputpanel.res"
+	#base	"../../myedit/resource/ui/replayinputpanel.res"
+	#base	"../../frag/resource/ui/replayinputpanel.res"
 	#base	"../../_jofrenew/resource/ui/replayinputpanel.res"
 	#base	"../../_jofrehud/resource/ui/replayinputpanel.res"
 	#base	"../../_tf2hud/resource/resource/ui/replayinputpanel.res"

@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/vprofpanel.res"
+#base "../_jofrehud67/resource/vprofpanel.res"
+#base "../_tf2hud67/resource/resource/vprofpanel.res"
 #base "../_jofrehud/resource/vprofpanel.res"
 #base "../_tf2hud/resource/resource/vprofpanel.res"

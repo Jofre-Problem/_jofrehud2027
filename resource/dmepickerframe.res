@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/root/resource/dmepickerframe.res"
+#base "../_jofrehud67/resource/dmepickerframe.res"
+#base "../_tf2hud67/root/resource/dmepickerframe.res"
 #base "../_jofrehud/resource/dmepickerframe.res"
 #base "../_tf2hud/root/resource/dmepickerframe.res"

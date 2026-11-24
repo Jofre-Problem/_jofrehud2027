@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/globalexplanations.res"
+	#base	"../../myedit67/resource/ui/globalexplanations.res"
+	#base	"../../extd/resource/ui/globalexplanations.res"
+	#base	"../../myedit/resource/ui/globalexplanations.res"
+	#base	"../../frag/resource/ui/globalexplanations.res"
 	#base	"../../_jofrenew/resource/ui/globalexplanations.res"
 	#base	"../../_jofrehud/resource/ui/globalexplanations.res"
 	#base	"../../_tf2hud/resource/ui/globalexplanations.res"

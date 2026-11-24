@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/upgradeboxdialog.res"
+	#base	"../../myedit67/resource/ui/upgradeboxdialog.res"
+	#base	"../../extd/resource/ui/upgradeboxdialog.res"
+	#base	"../../myedit/resource/ui/upgradeboxdialog.res"
+	#base	"../../frag/resource/ui/upgradeboxdialog.res"
 	#base	"../../_jofrenew/resource/ui/upgradeboxdialog.res"
 	#base	"../../_jofrehud/resource/ui/upgradeboxdialog.res"
 	#base	"../../_tf2hud/resource/ui/upgradeboxdialog.res"

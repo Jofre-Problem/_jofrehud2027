@@ -1,3 +1,6 @@
+	#base	"../../../_stream6767/resource/ui/disguise_menu_360/heavy_red.res"
+	#base	"../../../#users67/custom/resource/ui/disguise_menu_360/heavy_red.res"
+	#base	"../../../_stream67/resource/ui/disguise_menu_360/heavy_red.res"
 	#base	"../../../#users/custom/resource/ui/disguise_menu_360/heavy_red.res"
 	#base	"../../../_stream/resource/ui/disguise_menu_360/heavy_red.res"
 	#base	"../../../_jofrehud/resource/ui/disguise_menu_360/heavy_red.res"

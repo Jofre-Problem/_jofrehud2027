@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/disguise_menu/demoman_blue.res"
+	#base	"../../../myedit67/resource/ui/disguise_menu/demoman_blue.res"
+	#base	"../../../extd/resource/ui/disguise_menu/demoman_blue.res"
+	#base	"../../../myedit/resource/ui/disguise_menu/demoman_blue.res"
+	#base	"../../../frag/resource/ui/disguise_menu/demoman_blue.res"
 	#base	"../../../_jofrenew/resource/ui/disguise_menu/demoman_blue.res"
 	#base	"../../../_jofrehud/resource/ui/disguise_menu/demoman_blue.res"
 	#base	"../../../_tf2hud/resource/ui/disguise_menu/demoman_blue.res"

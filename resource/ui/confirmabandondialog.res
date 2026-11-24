@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/confirmabandondialog.res"
+	#base	"../../myedit67/resource/ui/confirmabandondialog.res"
+	#base	"../../extd/resource/ui/confirmabandondialog.res"
+	#base	"../../myedit/resource/ui/confirmabandondialog.res"
+	#base	"../../frag/resource/ui/confirmabandondialog.res"
 	#base	"../../_jofrenew/resource/ui/confirmabandondialog.res"
 	#base	"../../_jofrehud/resource/ui/confirmabandondialog.res"
 	#base	"../../_tf2hud/resource/ui/confirmabandondialog.res"

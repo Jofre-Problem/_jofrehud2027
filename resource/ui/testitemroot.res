@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/testitemroot.res"
+	#base	"../../myedit67/resource/ui/testitemroot.res"
+	#base	"../../extd/resource/ui/testitemroot.res"
+	#base	"../../myedit/resource/ui/testitemroot.res"
+	#base	"../../frag/resource/ui/testitemroot.res"
 	#base	"../../_jofrenew/resource/ui/testitemroot.res"
 	#base	"../../_jofrehud/resource/ui/testitemroot.res"
 	#base	"../../_tf2hud/resource/ui/testitemroot.res"

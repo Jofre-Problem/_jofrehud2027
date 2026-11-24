@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudstalemate.res"
+	#base	"../../myedit67/resource/ui/hudstalemate.res"
+	#base	"../../extd/resource/ui/hudstalemate.res"
+	#base	"../../myedit/resource/ui/hudstalemate.res"
+	#base	"../../frag/resource/ui/hudstalemate.res"
 	#base	"../../_jofrenew/resource/ui/hudstalemate.res"
 	#base	"../../_jofrehud/resource/ui/hudstalemate.res"
 	#base	"../../_tf2hud/resource/ui/hudstalemate.res"

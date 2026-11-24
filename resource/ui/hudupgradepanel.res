@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudupgradepanel.res"
+	#base	"../../myedit67/resource/ui/hudupgradepanel.res"
+	#base	"../../extd/resource/ui/hudupgradepanel.res"
+	#base	"../../myedit/resource/ui/hudupgradepanel.res"
+	#base	"../../frag/resource/ui/hudupgradepanel.res"
 	#base	"../../_jofrenew/resource/ui/hudupgradepanel.res"
 	#base	"../../_jofrehud/resource/ui/hudupgradepanel.res"
 	#base	"../../_tf2hud/resource/ui/hudupgradepanel.res"

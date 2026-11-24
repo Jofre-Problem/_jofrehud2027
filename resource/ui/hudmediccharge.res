@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudmediccharge.res"
+	#base	"../../myedit67/resource/ui/hudmediccharge.res"
+	#base	"../../extd/resource/ui/hudmediccharge.res"
+	#base	"../../myedit/resource/ui/hudmediccharge.res"
+	#base	"../../frag/resource/ui/hudmediccharge.res"
 	#base	"../../_jofrenew/resource/ui/hudmediccharge.res"
 	#base	"../../_jofrehud/resource/ui/hudmediccharge.res"
 	#base	"../../_tf2hud/resource/ui/hudmediccharge.res"

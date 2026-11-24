@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/confirmtransmogrifyapplicationdialog.res"
+	#base	"../../../myedit67/resource/ui/econ/confirmtransmogrifyapplicationdialog.res"
+	#base	"../../../extd/resource/ui/econ/confirmtransmogrifyapplicationdialog.res"
+	#base	"../../../myedit/resource/ui/econ/confirmtransmogrifyapplicationdialog.res"
+	#base	"../../../frag/resource/ui/econ/confirmtransmogrifyapplicationdialog.res"
 	#base	"../../../_jofrenew/resource/ui/econ/confirmtransmogrifyapplicationdialog.res"
 	#base	"../../../_jofrehud/resource/ui/econ/confirmtransmogrifyapplicationdialog.res"
 	#base	"../../../_tf2hud/resource/ui/econ/confirmtransmogrifyapplicationdialog.res"

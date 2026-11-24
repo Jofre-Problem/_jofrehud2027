@@ -1,2 +1,5 @@
+	#base "../../../../_tf2hud6767/resource/ui/training/offlinepractice/mapselection.res"
+	#base "../../../../_jofrehud67/resource/ui/training/offlinepractice/mapselection.res"
+	#base "../../../../_tf2hud67/resource/ui/training/offlinepractice/mapselection.res"
 	#base "../../../../_jofrehud/resource/ui/training/offlinepractice/mapselection.res"
 	#base "../../../../_tf2hud/resource/ui/training/offlinepractice/mapselection.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudarenaclasslayout.res"
+	#base	"../../myedit67/resource/ui/hudarenaclasslayout.res"
+	#base	"../../extd/resource/ui/hudarenaclasslayout.res"
+	#base	"../../myedit/resource/ui/hudarenaclasslayout.res"
+	#base	"../../frag/resource/ui/hudarenaclasslayout.res"
 	#base	"../../_jofrenew/resource/ui/hudarenaclasslayout.res"
 	#base	"../../_jofrehud/resource/ui/hudarenaclasslayout.res"
 	#base	"../../_tf2hud/resource/ui/hudarenaclasslayout.res"

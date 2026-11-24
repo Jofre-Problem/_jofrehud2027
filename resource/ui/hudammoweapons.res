@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudammoweapons.res"
+	#base	"../../myedit67/resource/ui/hudammoweapons.res"
+	#base	"../../extd/resource/ui/hudammoweapons.res"
+	#base	"../../myedit/resource/ui/hudammoweapons.res"
+	#base	"../../frag/resource/ui/hudammoweapons.res"
 	#base	"../../_jofrenew/resource/ui/hudammoweapons.res"
 	#base	"../../_jofrenew/resource/ui/hudammoweapons.res"
 	#base	"../../_tf2hud/resource/ui/hudammoweapons.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/matchmakingdashboardmvmmodeselect.res"
+	#base	"../../myedit67/resource/ui/matchmakingdashboardmvmmodeselect.res"
+	#base	"../../extd/resource/ui/matchmakingdashboardmvmmodeselect.res"
+	#base	"../../myedit/resource/ui/matchmakingdashboardmvmmodeselect.res"
+	#base	"../../frag/resource/ui/matchmakingdashboardmvmmodeselect.res"
 	#base	"../../_jofrenew/resource/ui/matchmakingdashboardmvmmodeselect.res"
 	#base	"../../_jofrehud/resource/ui/matchmakingdashboardmvmmodeselect.res"
 	#base	"../../_tf2hud/resource/ui/matchmakingdashboardmvmmodeselect.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/statgroup.res"
+	#base	"../../myedit67/resource/ui/statgroup.res"
+	#base	"../../extd/resource/ui/statgroup.res"
+	#base	"../../myedit/resource/ui/statgroup.res"
+	#base	"../../frag/resource/ui/statgroup.res"
 	#base	"../../_jofrenew/resource/ui/statgroup.res"
 	#base	"../../_jofrehud/resource/ui/statgroup.res"
 	#base	"../../_tf2hud/resource/resource/ui/statgroup.res"

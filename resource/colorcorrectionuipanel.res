@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/colorcorrectionuipanel.res"
+#base "../_jofrehud67/resource/colorcorrectionuipanel.res"
+#base "../_tf2hud67/resource/resource/colorcorrectionuipanel.res"
 #base "../_jofrehud/resource/colorcorrectionuipanel.res"
 #base "../_tf2hud/resource/resource/colorcorrectionuipanel.res"

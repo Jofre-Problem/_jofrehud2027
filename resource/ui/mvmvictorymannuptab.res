@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/mvmvictorymannuptab.res"
+	#base	"../../myedit67/resource/ui/mvmvictorymannuptab.res"
+	#base	"../../extd/resource/ui/mvmvictorymannuptab.res"
+	#base	"../../myedit/resource/ui/mvmvictorymannuptab.res"
+	#base	"../../frag/resource/ui/mvmvictorymannuptab.res"
 	#base	"../../_jofrenew/resource/ui/mvmvictorymannuptab.res"
 	#base	"../../_jofrehud/resource/ui/mvmvictorymannuptab.res"
 	#base	"../../_tf2hud/resource/ui/mvmvictorymannuptab.res"

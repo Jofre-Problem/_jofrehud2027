@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/replayrenderoverlay.res"
+	#base	"../../myedit67/resource/ui/replayrenderoverlay.res"
+	#base	"../../extd/resource/ui/replayrenderoverlay.res"
+	#base	"../../myedit/resource/ui/replayrenderoverlay.res"
+	#base	"../../frag/resource/ui/replayrenderoverlay.res"
 	#base	"../../_jofrenew/resource/ui/replayrenderoverlay.res"
 	#base	"../../_jofrehud/resource/ui/replayrenderoverlay.res"
 	#base	"../../_tf2hud/resource/resource/ui/replayrenderoverlay.res"

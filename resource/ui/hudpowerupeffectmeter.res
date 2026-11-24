@@ -1,2 +1,5 @@
+	#base	"../../_tf2hud6767/resource/ui/hudpowerupeffectmeter.res"
+	#base "../../_jofrehud67/resource/ui/hudpowerupeffectmeter.res"
+	#base	"../../_tf2hud67/resource/ui/hudpowerupeffectmeter.res"
 	#base "../../_jofrehud/resource/ui/hudpowerupeffectmeter.res"
 	#base	"../../_tf2hud/resource/ui/hudpowerupeffectmeter.res"

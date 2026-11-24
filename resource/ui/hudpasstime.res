@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudpasstime.res"
+	#base	"../../myedit67/resource/ui/hudpasstime.res"
+	#base	"../../extd/resource/ui/hudpasstime.res"
+	#base	"../../myedit/resource/ui/hudpasstime.res"
+	#base	"../../frag/resource/ui/hudpasstime.res"
 	#base	"../../_jofrenew/resource/ui/hudpasstime.res"
 	#base	"../../_jofrehud/resource/ui/hudpasstime.res"
 	#base	"../../_tf2hud/resource/ui/hudpasstime.res"

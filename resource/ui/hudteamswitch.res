@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudteamswitch.res"
+	#base	"../../myedit67/resource/ui/hudteamswitch.res"
+	#base	"../../extd/resource/ui/hudteamswitch.res"
+	#base	"../../myedit/resource/ui/hudteamswitch.res"
+	#base	"../../frag/resource/ui/hudteamswitch.res"
 	#base	"../../_jofrenew/resource/ui/hudteamswitch.res"
 	#base	"../../_jofrehud/resource/ui/hudteamswitch.res"
 	#base	"../../_tf2hud/resource/ui/hudteamswitch.res"

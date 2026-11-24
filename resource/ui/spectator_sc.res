@@ -1,3 +1,6 @@
+	#base 	"../../extd/resource/#beta/spec.res"		
+	#base	"../../#users67/custom/resource/ui/spectator.res"
+	#base 	"../../frag/resource/#beta/spec.res"		
 	#base	"../../#users/custom/resource/ui/spectator.res"
 	#base 	"../../_jofrehud/resource/#beta/spec.res"		
 	#base 	"../../_stream/resource/ui/spectator_sc.res"

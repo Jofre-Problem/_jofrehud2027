@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudpasstimeballstatus.res"
+	#base	"../../myedit67/resource/ui/hudpasstimeballstatus.res"
+	#base	"../../extd/resource/ui/hudpasstimeballstatus.res"
+	#base	"../../myedit/resource/ui/hudpasstimeballstatus.res"
+	#base	"../../frag/resource/ui/hudpasstimeballstatus.res"
 	#base	"../../_jofrenew/resource/ui/hudpasstimeballstatus.res"
 	#base	"../../_jofrehud/resource/ui/hudpasstimeballstatus.res"
 	#base	"../../_tf2hud/resource/ui/hudpasstimeballstatus.res"

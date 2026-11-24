@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/navigationpaneltest.res"
+	#base	"../../myedit67/resource/ui/navigationpaneltest.res"
+	#base	"../../extd/resource/ui/navigationpaneltest.res"
+	#base	"../../myedit/resource/ui/navigationpaneltest.res"
+	#base	"../../frag/resource/ui/navigationpaneltest.res"
 	#base	"../../_jofrenew/resource/ui/navigationpaneltest.res"
 	#base	"../../_jofrehud/resource/ui/navigationpaneltest.res"
 	#base	"../../_tf2hud/resource/ui/navigationpaneltest.res"

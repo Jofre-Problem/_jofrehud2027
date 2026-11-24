@@ -1,3 +1,6 @@
+	#base "../../extd/resource/ui/spectatorcoach.res"
+	#base "../../myedit/resource/ui/spectatorcoach.res"
+	#base "../../frag/resource/ui/spectatorcoach.res"
 	#base "../../_jofrenew/resource/ui/spectatorcoach.res"
 	#base "../../_jofrehud/resource/ui/spectatorcoach.res"
 	#base	"../../_tf2hud/resource/ui/spectatorcoach.res"

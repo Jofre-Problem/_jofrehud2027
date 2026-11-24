@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/root/resource/particlesystempreviewpanel_renderpage.res"
+#base "../_jofrehud67/resource/particlesystempreviewpanel_renderpage.res"
+#base "../_tf2hud67/root/resource/particlesystempreviewpanel_renderpage.res"
 #base "../_jofrehud/resource/particlesystempreviewpanel_renderpage.res"
 #base "../_tf2hud/root/resource/particlesystempreviewpanel_renderpage.res"

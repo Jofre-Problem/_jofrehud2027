@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/bonusmapsdialog.res"
+#base "../_jofrehud67/resource/bonusmapsdialog.res"
+#base "../_tf2hud67/resource/resource/bonusmapsdialog.res"
 #base "../_jofrehud/resource/bonusmapsdialog.res"
 #base "../_tf2hud/resource/resource/bonusmapsdialog.res"

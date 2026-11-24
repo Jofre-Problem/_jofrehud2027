@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudalert.res"
+	#base	"../../myedit67/resource/ui/hudalert.res"
+	#base	"../../extd/resource/ui/hudalert.res"
+	#base	"../../myedit/resource/ui/hudalert.res"
+	#base	"../../frag/resource/ui/hudalert.res"
 	#base	"../../_jofrenew/resource/ui/hudalert.res"
 	#base	"../../_jofrehud/resource/ui/hudalert.res"
 	#base	"../../_tf2hud/resource/ui/hudalert.res"

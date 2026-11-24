@@ -1,3 +1,6 @@
+#base "../extd/resource/newgamedialog.res"
+#base "../myedit/resource/newgamedialog.res"
+#base "../frag/resource/newgamedialog.res"
 #base "../_jofrenew/resource/newgamedialog.res"
 #base "../_jofrehud/resource/newgamedialog.res"
 #base "../_tf2hud/resource/resource/newgamedialog.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/mvmeconrequirementdialog.res"
+	#base	"../../myedit67/resource/ui/mvmeconrequirementdialog.res"
+	#base	"../../extd/resource/ui/mvmeconrequirementdialog.res"
+	#base	"../../myedit/resource/ui/mvmeconrequirementdialog.res"
+	#base	"../../frag/resource/ui/mvmeconrequirementdialog.res"
 	#base	"../../_jofrenew/resource/ui/mvmeconrequirementdialog.res"
 	#base	"../../_jofrehud/resource/ui/mvmeconrequirementdialog.res"
 	#base	"../../_tf2hud/resource/ui/mvmeconrequirementdialog.res"

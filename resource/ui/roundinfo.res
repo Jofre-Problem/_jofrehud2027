@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/roundinfo.res"
+	#base	"../../myedit67/resource/ui/roundinfo.res"
+	#base	"../../extd/resource/ui/roundinfo.res"
+	#base	"../../myedit/resource/ui/roundinfo.res"
+	#base	"../../frag/resource/ui/roundinfo.res"
 	#base	"../../_jofrenew/resource/ui/roundinfo.res"
 	#base	"../../_jofrehud/resource/ui/roundinfo.res"
 	#base	"../../_tf2hud/resource/ui/roundinfo.res"

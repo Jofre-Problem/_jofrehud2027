@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/build_menu/base_active.res"
+	#base	"../../../myedit67/resource/ui/build_menu/base_active.res"
+	#base	"../../../extd/resource/ui/build_menu/base_active.res"
+	#base	"../../../myedit/resource/ui/build_menu/base_active.res"
+	#base	"../../../frag/resource/ui/build_menu/base_active.res"
 	#base	"../../../_jofrenew/resource/ui/build_menu/base_active.res"
 	#base	"../../../_jofrehud/resource/ui/build_menu/base_active.res"
 	#base	"../../../_tf2hud/resource/ui/build_menu/base_active.res"

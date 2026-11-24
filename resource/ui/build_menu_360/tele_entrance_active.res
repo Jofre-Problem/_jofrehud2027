@@ -1,3 +1,6 @@
+	#base	"..\..\..\_stream\resource\ui\build_menu_360\tele_entrance_active.res"
+	#base	"..\..\..\#users\custom\resource\ui\build_menu_360\tele_entrance_active.res"
+	#base	"..\..\..\_stream\resource\ui\build_menu_360\tele_entrance_active.res"
 	#base	"..\..\..\#users\custom\resource\ui\build_menu_360\tele_entrance_active.res"
 	#base	"..\..\..\_stream\resource\ui\build_menu_360\tele_entrance_active.res"
 	#base	"..\..\..\_jofrehud\resource\ui\build_menu_360\tele_entrance_active.res"

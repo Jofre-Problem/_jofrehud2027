@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/mapinfomenu_sc.res"
+	#base	"../../myedit67/resource/ui/mapinfomenu_sc.res"
+	#base	"../../extd/resource/ui/mapinfomenu_sc.res"
+	#base	"../../myedit/resource/ui/mapinfomenu_sc.res"
+	#base	"../../frag/resource/ui/mapinfomenu_sc.res"
 	#base	"../../_jofrenew/resource/ui/mapinfomenu_sc.res"
 	#base	"../../_jofrehud/resource/ui/mapinfomenu_sc.res"
 	#base	"../../_tf2hud/resource/ui/mapinfomenu_sc.res"

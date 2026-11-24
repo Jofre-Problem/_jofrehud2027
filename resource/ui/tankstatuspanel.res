@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/tankstatuspanel.res"
+	#base	"../../myedit67/resource/ui/tankstatuspanel.res"
+	#base	"../../extd/resource/ui/tankstatuspanel.res"
+	#base	"../../myedit/resource/ui/tankstatuspanel.res"
+	#base	"../../frag/resource/ui/tankstatuspanel.res"
 	#base	"../../_jofrenew/resource/ui/tankstatuspanel.res"
 	#base	"../../_jofrehud/resource/ui/tankstatuspanel.res"
 	#base	"../../_tf2hud/resource/ui/tankstatuspanel.res"

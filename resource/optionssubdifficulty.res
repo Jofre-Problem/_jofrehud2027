@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/optionssubdifficulty.res"
+#base "../_jofrehud67/resource/optionssubdifficulty.res"
+#base "../_tf2hud67/resource/resource/optionssubdifficulty.res"
 #base "../_jofrehud/resource/optionssubdifficulty.res"
 #base "../_tf2hud/resource/resource/optionssubdifficulty.res"

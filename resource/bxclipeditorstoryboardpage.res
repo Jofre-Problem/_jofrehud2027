@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/bxclipeditorstoryboardpage.res"
+#base "../_jofrehud67/resource/bxclipeditorstoryboardpage.res"
+#base "../_tf2hud67/resource/resource/bxclipeditorstoryboardpage.res"
 #base "../_jofrehud/resource/bxclipeditorstoryboardpage.res"
 #base "../_tf2hud/resource/resource/bxclipeditorstoryboardpage.res"

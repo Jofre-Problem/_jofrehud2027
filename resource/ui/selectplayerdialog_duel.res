@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/selectplayerdialog_duel.res"
+	#base	"../../myedit67/resource/ui/selectplayerdialog_duel.res"
+	#base	"../../extd/resource/ui/selectplayerdialog_duel.res"
+	#base	"../../myedit/resource/ui/selectplayerdialog_duel.res"
+	#base	"../../frag/resource/ui/selectplayerdialog_duel.res"
 	#base	"../../_jofrenew/resource/ui/selectplayerdialog_duel.res"
 	#base	"../../_jofrehud/resource/ui/selectplayerdialog_duel.res"
 	#base	"../../_jofrehud/_tf2fix/resource/ui/selectplayerdialog_duel.res"

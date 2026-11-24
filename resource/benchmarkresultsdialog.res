@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/benchmarkresultsdialog.res"
+#base "../_jofrehud67/resource/benchmarkresultsdialog.res"
+#base "../_tf2hud67/resource/resource/benchmarkresultsdialog.res"
 #base "../_jofrehud/resource/benchmarkresultsdialog.res"
 #base "../_tf2hud/resource/resource/benchmarkresultsdialog.res"

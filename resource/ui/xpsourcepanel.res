@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/xpsourcepanel.res"
+	#base	"../../myedit67/resource/ui/xpsourcepanel.res"
+	#base	"../../extd/resource/ui/xpsourcepanel.res"
+	#base	"../../myedit/resource/ui/xpsourcepanel.res"
+	#base	"../../frag/resource/ui/xpsourcepanel.res"
 	#base	"../../_jofrenew/resource/ui/xpsourcepanel.res"
 	#base	"../../_jofrehud/resource/ui/xpsourcepanel.res"
 	#base	"../../_tf2hud/resource/ui/xpsourcepanel.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/supportnotificationdialog.res"
+	#base	"../../myedit67/resource/ui/supportnotificationdialog.res"
+	#base	"../../extd/resource/ui/supportnotificationdialog.res"
+	#base	"../../myedit/resource/ui/supportnotificationdialog.res"
+	#base	"../../frag/resource/ui/supportnotificationdialog.res"
 	#base	"../../_jofrenew/resource/ui/supportnotificationdialog.res"
 	#base	"../../_jofrehud/resource/ui/supportnotificationdialog.res"
 	#base	"../../_jofrehud/_tf2fix/resource/ui/supportnotificationdialog.res"

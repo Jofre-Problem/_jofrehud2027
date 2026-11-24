@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudarenateammenu.res"
+	#base	"../../myedit67/resource/ui/hudarenateammenu.res"
+	#base	"../../extd/resource/ui/hudarenateammenu.res"
+	#base	"../../myedit/resource/ui/hudarenateammenu.res"
+	#base	"../../frag/resource/ui/hudarenateammenu.res"
 	#base	"../../_jofrenew/resource/ui/hudarenateammenu.res"
 	#base	"../../_jofrehud/resource/ui/hudarenateammenu.res"
 	#base	"../../_tf2hud/resource/ui/hudarenateammenu.res"

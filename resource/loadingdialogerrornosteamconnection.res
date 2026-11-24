@@ -1,3 +1,6 @@
+#base "../extd/resource/loadingdialogerrornosteamconnection.res"
+#base "../myedit/resource/loadingdialogerrornosteamconnection.res"
+#base "../frag/resource/loadingdialogerrornosteamconnection.res"
 #base "../_jofrenew/resource/loadingdialogerrornosteamconnection.res"
 #base "../_jofrehud/resource/loadingdialogerrornosteamconnection.res"
 #base "../_tf2hud/resource/resource/loadingdialogerrornosteamconnection.res"

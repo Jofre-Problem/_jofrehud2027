@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/root/resource/mdlpickerrender.res"
+#base "../_jofrehud67/resource/mdlpickerrender.res"
+#base "../_tf2hud67/root/resource/mdlpickerrender.res"
 #base "../_jofrehud/resource/mdlpickerrender.res"
 #base "../_tf2hud/root/resource/mdlpickerrender.res"

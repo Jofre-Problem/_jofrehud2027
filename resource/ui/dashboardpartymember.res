@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/dashboardpartymember.res"
+	#base	"../../myedit67/resource/ui/dashboardpartymember.res"
+	#base	"../../extd/resource/ui/dashboardpartymember.res"
+	#base	"../../myedit/resource/ui/dashboardpartymember.res"
+	#base	"../../frag/resource/ui/dashboardpartymember.res"
 	#base	"../../_jofrenew/resource/ui/dashboardpartymember.res"
 	#base	"../../_jofrehud/resource/ui/dashboardpartymember.res"
 	#base	"../../_tf2hud/resource/ui/dashboardpartymember.res"

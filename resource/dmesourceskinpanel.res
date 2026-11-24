@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/root/resource/dmesourceskinpanel.res"
+#base "../_jofrehud67/resource/dmesourceskinpanel.res"
+#base "../_tf2hud67/root/resource/dmesourceskinpanel.res"
 #base "../_jofrehud/resource/dmesourceskinpanel.res"
 #base "../_tf2hud/root/resource/dmesourceskinpanel.res"

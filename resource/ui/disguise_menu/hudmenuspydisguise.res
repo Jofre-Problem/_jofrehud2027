@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/disguise_menu/hudmenuspydisguise.res"
+	#base	"../../../myedit67/resource/ui/disguise_menu/hudmenuspydisguise.res"
+	#base	"../../../extd/resource/ui/disguise_menu/hudmenuspydisguise.res"
+	#base	"../../../myedit/resource/ui/disguise_menu/hudmenuspydisguise.res"
+	#base	"../../../frag/resource/ui/disguise_menu/hudmenuspydisguise.res"
 	#base	"../../../_jofrenew/resource/ui/disguise_menu/hudmenuspydisguise.res"
 	#base	"../../../_jofrehud/resource/ui/disguise_menu/hudmenuspydisguise.res"
 	#base	"../../../_jofrehud/_tf2fix/resource/ui/disguise_menu/hudmenuspydisguise.res"

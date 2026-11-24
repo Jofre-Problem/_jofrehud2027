@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/baseactioncdtrackstartdialog.res"
+#base "../_jofrehud67/resource/baseactioncdtrackstartdialog.res"
+#base "../_tf2hud67/resource/resource/baseactioncdtrackstartdialog.res"
 #base "../_jofrehud/resource/baseactioncdtrackstartdialog.res"
 #base "../_tf2hud/resource/resource/baseactioncdtrackstartdialog.res"

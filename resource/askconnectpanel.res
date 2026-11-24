@@ -1,2 +1,5 @@
+#base "../extd/_tf2fix/resource/askconnectpanel.res"
+#base "../_jofrehud67/resource/askconnectpanel.res"
+#base "../frag/_tf2fix/resource/askconnectpanel.res"
 #base "../_jofrehud/resource/askconnectpanel.res"
 #base "../_jofrehud/_tf2fix/resource/askconnectpanel.res"

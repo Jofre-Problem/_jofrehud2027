@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/toolsavedocumentquery.res"
+#base "../_jofrehud67/resource/toolsavedocumentquery.res"
+#base "../_tf2hud67/resource/resource/toolsavedocumentquery.res"
 #base "../_jofrehud/resource/toolsavedocumentquery.res"
 #base "../_tf2hud/resource/resource/toolsavedocumentquery.res"

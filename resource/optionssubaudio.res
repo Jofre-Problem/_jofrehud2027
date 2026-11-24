@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/optionssubaudio.res"
+#base "../_jofrehud67/resource/optionssubaudio.res"
+#base "../_tf2hud67/resource/resource/optionssubaudio.res"
 #base "../_jofrehud/resource/optionssubaudio.res"
 #base "../_tf2hud/resource/resource/optionssubaudio.res"

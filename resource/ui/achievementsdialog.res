@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/achievementsdialog.res"
+	#base	"../../myedit67/resource/ui/achievementsdialog.res"
+	#base	"../../extd/resource/ui/achievementsdialog.res"
+	#base	"../../myedit/resource/ui/achievementsdialog.res"
+	#base	"../../frag/resource/ui/achievementsdialog.res"
 	#base	"../../_jofrenew/resource/ui/achievementsdialog.res"
 	#base	"../../_jofrehud/resource/ui/achievementsdialog.res"
 	#base	"../../_tf2hud/resource/ui/achievementsdialog.res"

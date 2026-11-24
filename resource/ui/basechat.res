@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/basechat.res"
+	#base	"../../myedit67/resource/ui/basechat.res"
+	#base	"../../extd/resource/ui/basechat.res"
+	#base	"../../myedit/resource/ui/basechat.res"
+	#base	"../../frag/resource/ui/basechat.res"
 	#base	"../../_jofrenew/resource/ui/basechat.res"
 	#base	"../../_jofrehud/resource/ui/basechat.res"
 	#base	"../../_tf2hud/resource/resource/ui/basechat.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/videopanel.res"
+	#base	"../../myedit67/resource/ui/videopanel.res"
+	#base	"../../extd/resource/ui/videopanel.res"
+	#base	"../../myedit/resource/ui/videopanel.res"
+	#base	"../../frag/resource/ui/videopanel.res"
 	#base	"../../_jofrenew/resource/ui/videopanel.res"
 	#base	"../../_jofrehud/resource/ui/videopanel.res"
 	#base	"../../_tf2hud/resource/ui/videopanel.res"

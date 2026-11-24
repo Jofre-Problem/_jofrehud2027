@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/root/resource/trackgroupvisibilitypanel.res"
+#base "../_jofrehud67/resource/trackgroupvisibilitypanel.res"
+#base "../_tf2hud67/root/resource/trackgroupvisibilitypanel.res"
 #base "../_jofrehud/resource/trackgroupvisibilitypanel.res"
 #base "../_tf2hud/root/resource/trackgroupvisibilitypanel.res"

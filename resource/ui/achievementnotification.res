@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/achievementnotification.res"
+	#base	"../../myedit67/resource/ui/achievementnotification.res"
+	#base	"../../extd/resource/ui/achievementnotification.res"
+	#base	"../../myedit/resource/ui/achievementnotification.res"
+	#base	"../../frag/resource/ui/achievementnotification.res"
 	#base	"../../_jofrenew/resource/ui/achievementnotification.res"
 	#base	"../../_jofrehud/resource/ui/achievementnotification.res"
 	#base	"../../_tf2hud/resource/resource/ui/achievementnotification.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/scoreboard.res"
+	#base	"../../myedit67/resource/ui/scoreboard.res"
+	#base	"../../extd/resource/ui/scoreboard.res"
+	#base	"../../myedit/resource/ui/scoreboard.res"
+	#base	"../../frag/resource/ui/scoreboard.res"
 	#base	"../../_jofrenew/resource/ui/scoreboard.res"
 	#base	"../../_jofrehud/resource/ui/scoreboard.res"
 	#base	"../../_tf2hud/resource/ui/scoreboard.res"

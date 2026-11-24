@@ -1,3 +1,6 @@
+#base "../../extd/resource/ui/base/meters/huditemeffectmeter.res"
+#base "../../myedit/resource/ui/hudrocketpack.res"
+#base "../../frag/resource/ui/base/meters/huditemeffectmeter.res"
 #base "../../_jofrenew/resource/ui/hudrocketpack.res"
 #base "../../_jofrehud/resource/ui/base/meters/huditemeffectmeter.res"
 #base "../../_jofrehud/resource/ui/base/meters/huditemeffectmeter/main_main.res"

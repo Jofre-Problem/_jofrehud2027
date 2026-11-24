@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/build_menu/hudmenueurekaeffect.res"
+	#base	"../../../myedit67/resource/ui/build_menu/hudmenueurekaeffect.res"
+	#base	"../../../extd/resource/ui/build_menu/hudmenueurekaeffect.res"
+	#base	"../../../myedit/resource/ui/build_menu/hudmenueurekaeffect.res"
+	#base	"../../../frag/resource/ui/build_menu/hudmenueurekaeffect.res"
 	#base	"../../../_jofrenew/resource/ui/build_menu/hudmenueurekaeffect.res"
 	#base	"../../../_jofrehud/resource/ui/build_menu/hudmenueurekaeffect.res"
 	#base	"../../../_tf2hud/resource/ui/build_menu/hudmenueurekaeffect.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/enemycountpanel.res"
+	#base	"../../myedit67/resource/ui/enemycountpanel.res"
+	#base	"../../extd/resource/ui/enemycountpanel.res"
+	#base	"../../myedit/resource/ui/enemycountpanel.res"
+	#base	"../../frag/resource/ui/enemycountpanel.res"
 	#base	"../../_jofrenew/resource/ui/enemycountpanel.res"
 	#base	"../../_jofrehud/resource/ui/enemycountpanel.res"
 	#base	"../../_tf2hud/resource/ui/enemycountpanel.res"

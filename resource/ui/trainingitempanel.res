@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/trainingitempanel.res"
+	#base	"../../myedit67/resource/ui/trainingitempanel.res"
+	#base	"../../extd/resource/ui/trainingitempanel.res"
+	#base	"../../myedit/resource/ui/trainingitempanel.res"
+	#base	"../../frag/resource/ui/trainingitempanel.res"
 	#base	"../../_jofrenew/resource/ui/trainingitempanel.res"
 	#base	"../../_jofrehud/resource/ui/trainingitempanel.res"
 	#base	"../../_tf2hud/resource/ui/trainingitempanel.res"

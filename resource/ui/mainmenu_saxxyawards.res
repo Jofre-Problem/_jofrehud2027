@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/mainmenu_saxxyawards.res"
+	#base	"../../myedit67/resource/ui/mainmenu_saxxyawards.res"
+	#base	"../../extd/resource/ui/mainmenu_saxxyawards.res"
+	#base	"../../myedit/resource/ui/mainmenu_saxxyawards.res"
+	#base	"../../frag/resource/ui/mainmenu_saxxyawards.res"
 	#base	"../../_jofrenew/resource/ui/mainmenu_saxxyawards.res"
 	#base	"../../_jofrehud/resource/ui/mainmenu_saxxyawards.res"
 	#base	"../../_tf2hud/resource/ui/mainmenu_saxxyawards.res"

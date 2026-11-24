@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/pvprankpanel.res"
+	#base	"../../myedit67/resource/ui/pvprankpanel.res"
+	#base	"../../extd/resource/ui/pvprankpanel.res"
+	#base	"../../myedit/resource/ui/pvprankpanel.res"
+	#base	"../../frag/resource/ui/pvprankpanel.res"
 	#base	"../../_jofrenew/resource/ui/pvprankpanel.res"
 //	#base	"../../_jofrehud/resource/ui/pvprankpanel.res"
 	#base	"../../_tf2hud/resource/ui/pvprankpanel.res"

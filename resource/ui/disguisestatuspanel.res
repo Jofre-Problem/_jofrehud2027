@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/disguisestatuspanel.res"
+	#base	"../../myedit67/resource/ui/disguisestatuspanel.res"
+	#base	"../../extd/resource/ui/disguisestatuspanel.res"
+	#base	"../../myedit/resource/ui/disguisestatuspanel.res"
+	#base	"../../frag/resource/ui/disguisestatuspanel.res"
 	#base	"../../_jofrenew/resource/ui/disguisestatuspanel.res"
 	#base	"../../_jofrehud/resource/ui/disguisestatuspanel.res"
 	#base	"../../_tf2hud/resource/ui/disguisestatuspanel.res"

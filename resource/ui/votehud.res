@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/votehud.res"
+	#base	"../../myedit67/resource/ui/votehud.res"
+	#base	"../../extd/resource/ui/votehud.res"
+	#base	"../../myedit/resource/ui/votehud.res"
+	#base	"../../frag/resource/ui/votehud.res"
 	#base	"../../_jofrenew/resource/ui/votehud.res"
 	#base	"../../_jofrehud/resource/ui/votehud.res"
 	#base	"../../_tf2hud/resource/ui/votehud.res"

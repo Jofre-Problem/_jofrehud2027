@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/healthiconpanel.res"
+	#base	"../../myedit67/resource/ui/healthiconpanel.res"
+	#base	"../../extd/resource/ui/healthiconpanel.res"
+	#base	"../../myedit/resource/ui/healthiconpanel.res"
+	#base	"../../frag/resource/ui/healthiconpanel.res"
 	#base	"../../_jofrenew/resource/ui/healthiconpanel.res"
 	#base	"../../_jofrehud/resource/ui/healthiconpanel.res"
 	#base	"../../_tf2hud/resource/ui/healthiconpanel.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/flagstatus.res"
+	#base	"../../myedit67/resource/ui/flagstatus.res"
+	#base	"../../extd/resource/ui/flagstatus.res"
+	#base	"../../myedit/resource/ui/flagstatus.res"
+	#base	"../../frag/resource/ui/flagstatus.res"
 	#base	"../../_jofrenew/resource/ui/flagstatus.res"
 	#base	"../../_jofrehud/resource/ui/flagstatus.res"
 	#base	"../../_tf2hud/resource/ui/flagstatus.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/pluginhud.res"
+	#base	"../../_stream6767/resource/ui/pluginhud.res"
+	#base	"../../extd/resource/ui/pluginhud.res"
+	#base	"../../_stream67/resource/ui/pluginhud.res"
+	#base	"../../frag/resource/ui/pluginhud.res"
 	#base	"../../_stream/resource/ui/pluginhud.res"
 	#base	"../../_jofrehud/resource/ui/pluginhud.res"
 	#base	"../../_tf2hud/resource/resource/ui/pluginhud.res"

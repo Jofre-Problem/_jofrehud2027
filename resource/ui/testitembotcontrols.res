@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/testitembotcontrols.res"
+	#base	"../../myedit67/resource/ui/testitembotcontrols.res"
+	#base	"../../extd/resource/ui/testitembotcontrols.res"
+	#base	"../../myedit/resource/ui/testitembotcontrols.res"
+	#base	"../../frag/resource/ui/testitembotcontrols.res"
 	#base	"../../_jofrenew/resource/ui/testitembotcontrols.res"
 	#base	"../../_jofrehud/resource/ui/testitembotcontrols.res"
 	#base	"../../_tf2hud/resource/ui/testitembotcontrols.res"

@@ -1,3 +1,6 @@
+	#base	"../../_stream6767/resource/ui/textwindow_sc.res"
+	#base	"../../#users67/custom/resource/ui/textwindow_sc.res"
+	#base	"../../_stream67/resource/ui/textwindow_sc.res"
 	#base	"../../#users/custom/resource/ui/textwindow_sc.res"
 	#base	"../../_stream/resource/ui/textwindow_sc.res"
 	#base	"../../_jofrehud/resource/ui/textwindow_sc.res"

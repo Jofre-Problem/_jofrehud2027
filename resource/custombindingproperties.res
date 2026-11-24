@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/custombindingproperties.res"
+#base "../_jofrehud67/resource/custombindingproperties.res"
+#base "../_tf2hud67/resource/resource/custombindingproperties.res"
 #base "../_jofrehud/resource/custombindingproperties.res"
 #base "../_tf2hud/resource/resource/custombindingproperties.res"

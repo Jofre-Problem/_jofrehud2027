@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/itemquickswitch.res"
+	#base	"../../myedit67/resource/ui/itemquickswitch.res"
+	#base	"../../extd/resource/ui/itemquickswitch.res"
+	#base	"../../myedit/resource/ui/itemquickswitch.res"
+	#base	"../../frag/resource/ui/itemquickswitch.res"
 	#base	"../../_jofrenew/resource/ui/itemquickswitch.res"
 	#base	"../../_jofrehud/resource/ui/itemquickswitch.res"
 	#base	"../../_tf2hud/resource/ui/itemquickswitch.res"

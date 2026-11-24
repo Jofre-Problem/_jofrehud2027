@@ -1,3 +1,6 @@
+#base "../extd/resource/loadingdialognobanner.res"
+#base "../myedit/resource/loadingdialognobanner.res"
+#base "../frag/resource/loadingdialognobanner.res"
 #base "../_jofrenew/resource/loadingdialognobanner.res"
 #base "../_jofrehud/resource/loadingdialognobanner.res"
 #base "../_tf2hud/resource/loadingdialognobanner.res"

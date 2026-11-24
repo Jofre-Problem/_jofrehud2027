@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/textwindowcustomserver.res"
+	#base	"../../myedit67/resource/ui/textwindowcustomserver.res"
+	#base	"../../extd/resource/ui/textwindowcustomserver.res"
+	#base	"../../myedit/resource/ui/textwindowcustomserver.res"
+	#base	"../../frag/resource/ui/textwindowcustomserver.res"
 	#base	"../../_jofrenew/resource/ui/textwindowcustomserver.res"
 	#base	"../../_jofrehud/resource/ui/textwindowcustomserver.res"
 	#base	"../../_tf2hud/resource/ui/textwindowcustomserver.res"

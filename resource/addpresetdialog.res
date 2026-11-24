@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/root/resource/addpresetdialog.res"
+#base "../_jofrehud67/resource/addpresetdialog.res"
+#base "../_tf2hud67/root/resource/addpresetdialog.res"
 #base "../_jofrehud/resource/addpresetdialog.res"
 #base "../_tf2hud/root/resource/addpresetdialog.res"

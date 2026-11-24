@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/baseactionzoomdialog.res"
+#base "../_jofrehud67/resource/baseactionzoomdialog.res"
+#base "../_tf2hud67/resource/resource/baseactionzoomdialog.res"
 #base "../_jofrehud/resource/baseactionzoomdialog.res"
 #base "../_tf2hud/resource/resource/baseactionzoomdialog.res"

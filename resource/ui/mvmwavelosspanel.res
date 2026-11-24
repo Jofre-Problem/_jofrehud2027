@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/mvmwavelosspanel.res"
+	#base	"../../myedit67/resource/ui/mvmwavelosspanel.res"
+	#base	"../../extd/resource/ui/mvmwavelosspanel.res"
+	#base	"../../myedit/resource/ui/mvmwavelosspanel.res"
+	#base	"../../frag/resource/ui/mvmwavelosspanel.res"
 	#base	"../../_jofrenew/resource/ui/mvmwavelosspanel.res"
 	#base	"../../_jofrehud/resource/ui/mvmwavelosspanel.res"
 	#base	"../../_tf2hud/resource/ui/mvmwavelosspanel.res"

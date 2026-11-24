@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudplayerclass.res"
+	#base	"../../myedit67/resource/ui/hudplayerclass.res"
+	#base	"../../extd/resource/ui/hudplayerclass.res"
+	#base	"../../myedit/resource/ui/hudplayerclass.res"
+	#base	"../../frag/resource/ui/hudplayerclass.res"
 	#base	"../../_jofrenew/resource/ui/hudplayerclass.res"
 	#base	"../../_jofrehud/resource/ui/hudplayerclass.res"
 	#base	"../../_tf2hud/resource/ui/hudplayerclass.res"

@@ -1,2 +1,5 @@
+#base "../extd/_tf2exp/publishdialogscheme.res"
+#base "../_jofrehud67/resource/publishdialogscheme.res"
+#base "../frag/_tf2exp/publishdialogscheme.res"
 #base "../_jofrehud/resource/publishdialogscheme.res"
 #base "../_jofrehud/_tf2exp/publishdialogscheme.res"

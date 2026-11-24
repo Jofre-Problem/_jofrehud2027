@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hud_obj_sapper.res"
+	#base	"../../myedit67/resource/ui/hud_obj_sapper.res"
+	#base	"../../extd/resource/ui/hud_obj_sapper.res"
+	#base	"../../myedit/resource/ui/hud_obj_sapper.res"
+	#base	"../../frag/resource/ui/hud_obj_sapper.res"
 	#base	"../../_jofrenew/resource/ui/hud_obj_sapper.res"
 	#base	"../../_jofrehud/resource/ui/hud_obj_sapper.res"
 	#base	"../../_tf2hud/resource/ui/hud_obj_sapper.res"

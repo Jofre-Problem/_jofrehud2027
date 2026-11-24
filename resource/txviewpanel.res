@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/txviewpanel.res"
+#base "../_jofrehud67/resource/txviewpanel.res"
+#base "../_tf2hud67/resource/resource/txviewpanel.res"
 #base "../_jofrehud/resource/txviewpanel.res"
 #base "../_tf2hud/resource/resource/txviewpanel.res"

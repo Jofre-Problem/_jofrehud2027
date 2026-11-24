@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/newrecipefounddialog.res"
+	#base	"../../myedit67/resource/ui/newrecipefounddialog.res"
+	#base	"../../extd/resource/ui/newrecipefounddialog.res"
+	#base	"../../myedit/resource/ui/newrecipefounddialog.res"
+	#base	"../../frag/resource/ui/newrecipefounddialog.res"
 	#base	"../../_jofrenew/resource/ui/newrecipefounddialog.res"
 	#base	"../../_jofrehud/resource/ui/newrecipefounddialog.res"
 	#base	"../../_tf2hud/resource/ui/newrecipefounddialog.res"

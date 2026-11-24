@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/controlpointicon.res"
+	#base	"../../myedit67/resource/ui/controlpointicon.res"
+	#base	"../../extd/resource/ui/controlpointicon.res"
+	#base	"../../myedit/resource/ui/controlpointicon.res"
+	#base	"../../frag/resource/ui/controlpointicon.res"
 	#base	"../../_jofrenew/resource/ui/controlpointicon.res"
 	#base	"../../_jofrehud/resource/ui/controlpointicon.res"
 	#base	"../../_tf2hud/resource/ui/controlpointicon.res"

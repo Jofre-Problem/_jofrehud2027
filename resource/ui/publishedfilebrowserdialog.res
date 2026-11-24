@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/publishedfilebrowserdialog.res"
+	#base	"../../myedit67/resource/ui/publishedfilebrowserdialog.res"
+	#base	"../../extd/resource/ui/publishedfilebrowserdialog.res"
+	#base	"../../myedit/resource/ui/publishedfilebrowserdialog.res"
+	#base	"../../frag/resource/ui/publishedfilebrowserdialog.res"
 	#base	"../../_jofrenew/resource/ui/publishedfilebrowserdialog.res"
 	#base	"../../_jofrehud/resource/ui/publishedfilebrowserdialog.res"
 	#base	"../../_tf2hud/resource/ui/publishedfilebrowserdialog.res"

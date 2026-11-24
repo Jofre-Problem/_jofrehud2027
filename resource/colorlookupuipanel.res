@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/colorlookupuipanel.res"
+#base "../_jofrehud67/resource/colorlookupuipanel.res"
+#base "../_tf2hud67/resource/resource/colorlookupuipanel.res"
 #base "../_jofrehud/resource/colorlookupuipanel.res"
 #base "../_tf2hud/resource/resource/colorlookupuipanel.res"

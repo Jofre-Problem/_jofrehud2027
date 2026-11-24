@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/selectmosthelpfulfrienddialog.res"
+	#base	"../../myedit67/resource/ui/selectmosthelpfulfrienddialog.res"
+	#base	"../../extd/resource/ui/selectmosthelpfulfrienddialog.res"
+	#base	"../../myedit/resource/ui/selectmosthelpfulfrienddialog.res"
+	#base	"../../frag/resource/ui/selectmosthelpfulfrienddialog.res"
 	#base	"../../_jofrenew/resource/ui/selectmosthelpfulfrienddialog.res"
 	#base	"../../_jofrehud/resource/ui/selectmosthelpfulfrienddialog.res"
 	#base	"../../_tf2hud/resource/ui/selectmosthelpfulfrienddialog.res"

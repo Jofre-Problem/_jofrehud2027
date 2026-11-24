@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/genericnotificationtoast.res"
+	#base	"../../../myedit67/resource/ui/econ/genericnotificationtoast.res"
+	#base	"../../../extd/resource/ui/econ/genericnotificationtoast.res"
+	#base	"../../../myedit/resource/ui/econ/genericnotificationtoast.res"
+	#base	"../../../frag/resource/ui/econ/genericnotificationtoast.res"
 	#base	"../../../_jofrenew/resource/ui/econ/genericnotificationtoast.res"
 	#base	"../../../_jofrehud/resource/ui/econ/genericnotificationtoast.res"
 	#base	"../../../_tf2hud/resource/ui/econ/genericnotificationtoast.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/comprankstooltip.res"
+	#base	"../../myedit67/resource/ui/comprankstooltip.res"
+	#base	"../../extd/resource/ui/comprankstooltip.res"
+	#base	"../../myedit/resource/ui/comprankstooltip.res"
+	#base	"../../frag/resource/ui/comprankstooltip.res"
 	#base	"../../_jofrenew/resource/ui/comprankstooltip.res"
 	#base	"../../_jofrehud/resource/ui/comprankstooltip.res"
 	#base	"../../_tf2hud/resource/ui/comprankstooltip.res"

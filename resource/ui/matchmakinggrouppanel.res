@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/matchmakinggrouppanel.res"
+	#base	"../../myedit67/resource/ui/matchmakinggrouppanel.res"
+	#base	"../../extd/resource/ui/matchmakinggrouppanel.res"
+	#base	"../../myedit/resource/ui/matchmakinggrouppanel.res"
+	#base	"../../frag/resource/ui/matchmakinggrouppanel.res"
 	#base	"../../_jofrenew/resource/ui/matchmakinggrouppanel.res"
 	#base	"../../_jofrehud/resource/ui/matchmakinggrouppanel.res"
 	#base	"../../_tf2hud/resource/ui/matchmakinggrouppanel.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudmatchstatus.res"
+	#base	"../../myedit67/resource/ui/hudmatchstatus.res"
+	#base	"../../extd/resource/ui/hudmatchstatus.res"
+	#base	"../../myedit/resource/ui/hudmatchstatus.res"
+	#base	"../../frag/resource/ui/hudmatchstatus.res"
 	#base	"../../_jofrenew/resource/ui/hudmatchstatus.res"
 	#base	"../../_jofrehud/resource/ui/hudmatchstatus.res"
 	#base	"../../_tf2hud/resource/ui/hudmatchstatus.res"

@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/optionssubvideothirdpartydlg.res"
+#base "../_jofrehud67/resource/optionssubvideothirdpartydlg.res"
+#base "../_tf2hud67/resource/resource/optionssubvideothirdpartydlg.res"
 #base "../_jofrehud/resource/optionssubvideothirdpartydlg.res"
 #base "../_tf2hud/resource/resource/optionssubvideothirdpartydlg.res"

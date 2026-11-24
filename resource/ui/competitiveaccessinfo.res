@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/competitiveaccessinfo.res"
+	#base	"../../myedit67/resource/ui/competitiveaccessinfo.res"
+	#base	"../../extd/resource/ui/competitiveaccessinfo.res"
+	#base	"../../myedit/resource/ui/competitiveaccessinfo.res"
+	#base	"../../frag/resource/ui/competitiveaccessinfo.res"
 	#base	"../../_jofrenew/resource/ui/competitiveaccessinfo.res"
 	#base	"../../_jofrehud/resource/ui/competitiveaccessinfo.res"
 	#base	"../../_tf2hud/resource/ui/competitiveaccessinfo.res"

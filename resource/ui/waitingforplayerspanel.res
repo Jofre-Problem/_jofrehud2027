@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/waitingforplayerspanel.res"
+	#base	"../../myedit67/resource/ui/waitingforplayerspanel.res"
+	#base	"../../extd/resource/ui/waitingforplayerspanel.res"
+	#base	"../../myedit/resource/ui/waitingforplayerspanel.res"
+	#base	"../../frag/resource/ui/waitingforplayerspanel.res"
 	#base	"../../_jofrenew/resource/ui/waitingforplayerspanel.res"
 	#base	"../../_jofrehud/resource/ui/waitingforplayerspanel.res"
 	#base	"../../_tf2hud/resource/ui/waitingforplayerspanel.res"

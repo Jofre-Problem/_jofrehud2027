@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/spectatortournament.res"
+	#base	"../../myedit67/resource/ui/spectatortournament.res"
+	#base	"../../extd/resource/ui/spectatortournament.res"
+	#base	"../../myedit/resource/ui/spectatortournament.res"
+	#base	"../../frag/resource/ui/spectatortournament.res"
 	#base	"../../_jofrenew/resource/ui/spectatortournament.res"
 	#base	"../../_jofrehud/resource/ui/spectatortournament.res"
 	#base	"../../_tf2hud/resource/ui/spectatortournament.res"

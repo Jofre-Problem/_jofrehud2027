@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/root/resource/dmesourcedccfilepanel.res"
+#base "../_jofrehud67/resource/dmesourcedccfilepanel.res"
+#base "../_tf2hud67/root/resource/dmesourcedccfilepanel.res"
 #base "../_jofrehud/resource/dmesourcedccfilepanel.res"
 #base "../_tf2hud/root/resource/dmesourcedccfilepanel.res"

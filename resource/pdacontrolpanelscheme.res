@@ -1,2 +1,5 @@
+#base "../extd/_tf2exp/pdacontrolpanelscheme.res"
+#base "../_jofrehud67/resource/pdacontrolpanelscheme.res"
+#base "../frag/_tf2exp/pdacontrolpanelscheme.res"
 #base "../_jofrehud/resource/pdacontrolpanelscheme.res"
 #base "../_jofrehud/_tf2exp/pdacontrolpanelscheme.res"

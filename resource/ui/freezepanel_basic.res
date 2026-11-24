@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/freezepanel_basic.res"
+	#base	"../../myedit67/resource/ui/freezepanel_basic.res"
+	#base	"../../extd/resource/ui/freezepanel_basic.res"
+	#base	"../../myedit/resource/ui/freezepanel_basic.res"
+	#base	"../../frag/resource/ui/freezepanel_basic.res"
 	#base	"../../_jofrenew/resource/ui/freezepanel_basic.res"
 	#base	"../../_jofrehud/resource/ui/freezepanel_basic.res"
 	#base	"../../_tf2hud/resource/ui/freezepanel_basic.res"

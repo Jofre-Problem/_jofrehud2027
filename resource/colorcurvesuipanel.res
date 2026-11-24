@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/colorcurvesuipanel.res"
+#base "../_jofrehud67/resource/colorcurvesuipanel.res"
+#base "../_tf2hud67/resource/resource/colorcurvesuipanel.res"
 #base "../_jofrehud/resource/colorcurvesuipanel.res"
 #base "../_tf2hud/resource/resource/colorcurvesuipanel.res"

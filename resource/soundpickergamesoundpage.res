@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/root/resource/soundpickergamesoundpage.res"
+#base "../_jofrehud67/resource/soundpickergamesoundpage.res"
+#base "../_tf2hud67/root/resource/soundpickergamesoundpage.res"
 #base "../_jofrehud/resource/soundpickergamesoundpage.res"
 #base "../_tf2hud/root/resource/soundpickergamesoundpage.res"

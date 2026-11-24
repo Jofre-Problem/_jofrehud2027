@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/confirmcustomizetexturedialog.res"
+	#base	"../../../myedit67/resource/ui/econ/confirmcustomizetexturedialog.res"
+	#base	"../../../extd/resource/ui/econ/confirmcustomizetexturedialog.res"
+	#base	"../../../myedit/resource/ui/econ/confirmcustomizetexturedialog.res"
+	#base	"../../../frag/resource/ui/econ/confirmcustomizetexturedialog.res"
 	#base	"../../../_jofrenew/resource/ui/econ/confirmcustomizetexturedialog.res"
 	#base	"../../../_jofrehud/resource/ui/econ/confirmcustomizetexturedialog.res"
 	#base	"../../../_tf2hud/resource/ui/econ/confirmcustomizetexturedialog.res"

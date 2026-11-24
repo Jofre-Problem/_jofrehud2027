@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/root/resource/vmtpickerframe.res"
+#base "../_jofrehud67/resource/vmtpickerframe.res"
+#base "../_tf2hud67/root/resource/vmtpickerframe.res"
 #base "../_jofrehud/resource/vmtpickerframe.res"
 #base "../_tf2hud/root/resource/vmtpickerframe.res"

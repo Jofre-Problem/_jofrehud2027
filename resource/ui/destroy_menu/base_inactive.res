@@ -1,2 +1,5 @@
+#base "../../../_tf2hud6767/resource/ui/destroy_menu/base_inactive.res"
+#base "../../../_jofrehud67/resource/ui/destroy_menu/base_inactive.res"
+#base "../../../_tf2hud67/resource/ui/destroy_menu/base_inactive.res"
 #base "../../../_jofrehud/resource/ui/destroy_menu/base_inactive.res"
 #base "../../../_tf2hud/resource/ui/destroy_menu/base_inactive.res"

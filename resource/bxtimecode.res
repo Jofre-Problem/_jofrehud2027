@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/bxtimecode.res"
+#base "../_jofrehud67/resource/bxtimecode.res"
+#base "../_tf2hud67/resource/resource/bxtimecode.res"
 #base "../_jofrehud/resource/bxtimecode.res"
 #base "../_tf2hud/resource/resource/bxtimecode.res"

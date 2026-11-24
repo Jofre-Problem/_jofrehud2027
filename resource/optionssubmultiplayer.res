@@ -1,3 +1,6 @@
+#base "../extd/resource/optionssubmultiplayer.res"
+#base "../myedit/resource/optionssubmultiplayer.res"
+#base "../frag/resource/optionssubmultiplayer.res"
 #base "../_jofrenew/resource/optionssubmultiplayer.res"
 #base "../_jofrehud/resource/optionssubmultiplayer.res"
 #base "../_tf2hud/resource/optionssubmultiplayer.res"

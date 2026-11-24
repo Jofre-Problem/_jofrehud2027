@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/baseactionskipaheaddialog.res"
+#base "../_jofrehud67/resource/baseactionskipaheaddialog.res"
+#base "../_tf2hud67/resource/resource/baseactionskipaheaddialog.res"
 #base "../_jofrehud/resource/baseactionskipaheaddialog.res"
 #base "../_tf2hud/resource/resource/baseactionskipaheaddialog.res"

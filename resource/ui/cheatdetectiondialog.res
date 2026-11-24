@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/cheatdetectiondialog.res"
+	#base	"../../myedit67/resource/ui/cheatdetectiondialog.res"
+	#base	"../../extd/resource/ui/cheatdetectiondialog.res"
+	#base	"../../myedit/resource/ui/cheatdetectiondialog.res"
+	#base	"../../frag/resource/ui/cheatdetectiondialog.res"
 	#base	"../../_jofrenew/resource/ui/cheatdetectiondialog.res"
 	#base	"../../_jofrehud/resource/ui/cheatdetectiondialog.res"
 	#base	"../../_tf2hud/resource/ui/cheatdetectiondialog.res"

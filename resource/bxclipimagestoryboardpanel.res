@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/bxclipimagestoryboardpanel.res"
+#base "../_jofrehud67/resource/bxclipimagestoryboardpanel.res"
+#base "../_tf2hud67/resource/resource/bxclipimagestoryboardpanel.res"
 #base "../_jofrehud/resource/bxclipimagestoryboardpanel.res"
 #base "../_tf2hud/resource/resource/bxclipimagestoryboardpanel.res"

@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/setclipnamedialog.res"
+#base "../_jofrehud67/resource/setclipnamedialog.res"
+#base "../_tf2hud67/resource/resource/setclipnamedialog.res"
 #base "../_jofrehud/resource/setclipnamedialog.res"
 #base "../_tf2hud/resource/resource/setclipnamedialog.res"

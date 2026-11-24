@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudarenavspanel.res"
+	#base	"../../myedit67/resource/ui/hudarenavspanel.res"
+	#base	"../../extd/resource/ui/hudarenavspanel.res"
+	#base	"../../myedit/resource/ui/hudarenavspanel.res"
+	#base	"../../frag/resource/ui/hudarenavspanel.res"
 	#base	"../../_jofrenew/resource/ui/hudarenavspanel.res"
 	#base	"../../_jofrehud/resource/ui/hudarenavspanel.res"
 	#base	"../../_tf2hud/resource/ui/hudarenavspanel.res"

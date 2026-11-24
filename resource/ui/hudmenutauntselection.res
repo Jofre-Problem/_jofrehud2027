@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudmenutauntselection.res"
+	#base	"../../myedit67/resource/ui/hudmenutauntselection.res"
+	#base	"../../extd/resource/ui/hudmenutauntselection.res"
+	#base	"../../myedit/resource/ui/hudmenutauntselection.res"
+	#base	"../../frag/resource/ui/hudmenutauntselection.res"
 	#base	"../../_jofrenew/resource/ui/hudmenutauntselection.res"
 	#base	"../../_jofrehud/resource/ui/hudmenutauntselection.res"
 	#base	"../../_tf2hud/resource/ui/hudmenutauntselection.res"

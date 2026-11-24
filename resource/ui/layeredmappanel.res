@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/layeredmappanel.res"
+	#base	"../../myedit67/resource/ui/layeredmappanel.res"
+	#base	"../../extd/resource/ui/layeredmappanel.res"
+	#base	"../../myedit/resource/ui/layeredmappanel.res"
+	#base	"../../frag/resource/ui/layeredmappanel.res"
 	#base	"../../_jofrenew/resource/ui/layeredmappanel.res"
 	#base	"../../_jofrehud/resource/ui/layeredmappanel.res"
 	#base	"../../_tf2hud/resource/ui/layeredmappanel.res"

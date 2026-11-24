@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/savebeforequitdialog.res"
+#base "../_jofrehud67/resource/savebeforequitdialog.res"
+#base "../_tf2hud67/resource/resource/savebeforequitdialog.res"
 #base "../_jofrehud/resource/savebeforequitdialog.res"
 #base "../_tf2hud/resource/resource/savebeforequitdialog.res"

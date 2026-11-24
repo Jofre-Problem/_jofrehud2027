@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/optionssubkeyboardadvanceddlg.res"
+#base "../_jofrehud67/resource/optionssubkeyboardadvanceddlg.res"
+#base "../_tf2hud67/resource/resource/optionssubkeyboardadvanceddlg.res"
 #base "../_jofrehud/resource/optionssubkeyboardadvanceddlg.res"
 #base "../_tf2hud/resource/resource/optionssubkeyboardadvanceddlg.res"

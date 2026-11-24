@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/lookupviewwindow.res"
+#base "../_jofrehud67/resource/lookupviewwindow.res"
+#base "../_tf2hud67/resource/resource/lookupviewwindow.res"
 #base "../_jofrehud/resource/lookupviewwindow.res"
 #base "../_tf2hud/resource/resource/lookupviewwindow.res"

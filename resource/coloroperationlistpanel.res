@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/coloroperationlistpanel.res"
+#base "../_jofrehud67/resource/coloroperationlistpanel.res"
+#base "../_tf2hud67/resource/resource/coloroperationlistpanel.res"
 #base "../_jofrehud/resource/coloroperationlistpanel.res"
 #base "../_tf2hud/resource/resource/coloroperationlistpanel.res"

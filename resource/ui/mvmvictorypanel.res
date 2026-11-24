@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/mvmvictorypanel.res"
+	#base	"../../myedit67/resource/ui/mvmvictorypanel.res"
+	#base	"../../extd/resource/ui/mvmvictorypanel.res"
+	#base	"../../myedit/resource/ui/mvmvictorypanel.res"
+	#base	"../../frag/resource/ui/mvmvictorypanel.res"
 	#base	"../../_jofrenew/resource/ui/mvmvictorypanel.res"
 	#base	"../../_jofrehud/resource/ui/mvmvictorypanel.res"
 	#base	"../../_tf2hud/resource/ui/mvmvictorypanel.res"

@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/importfiletexteditdialog.res"
+	#base	"../../myedit67/resource/ui/importfiletexteditdialog.res"
+	#base	"../../extd/resource/ui/importfiletexteditdialog.res"
+	#base	"../../myedit/resource/ui/importfiletexteditdialog.res"
+	#base	"../../frag/resource/ui/importfiletexteditdialog.res"
 	#base	"../../_jofrenew/resource/ui/importfiletexteditdialog.res"
 	#base	"../../_jofrehud/resource/ui/importfiletexteditdialog.res"
 	#base	"../../_tf2hud/resource/ui/importfiletexteditdialog.res"

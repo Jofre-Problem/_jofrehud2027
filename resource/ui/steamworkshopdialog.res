@@ -1,3 +1,6 @@
+	#base "../../extd/resource/ui/steamworkshopdialog.res"
+	#base "../../myedit/resource/ui/steamworkshopdialog.res"
+	#base "../../frag/resource/ui/steamworkshopdialog.res"
 	#base "../../_jofrenew/resource/ui/steamworkshopdialog.res"
 	#base "../../_jofrehud/resource/ui/steamworkshopdialog.res"
 	#base "../../_tf2hud/resource/ui/steamworkshopdialog.res"

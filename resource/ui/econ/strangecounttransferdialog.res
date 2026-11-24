@@ -1,4 +1,7 @@
-	#base	"../../../_custom/resource/ui/econ/strangecounttransferdialog.res"
+	#base	"../../../myedit67/resource/ui/econ/strangecounttransferdialog.res"
+	#base	"../../../extd/resource/ui/econ/strangecounttransferdialog.res"
+	#base	"../../../myedit/resource/ui/econ/strangecounttransferdialog.res"
+	#base	"../../../frag/resource/ui/econ/strangecounttransferdialog.res"
 	#base	"../../../_jofrenew/resource/ui/econ/strangecounttransferdialog.res"
 	#base	"../../../_jofrehud/resource/ui/econ/strangecounttransferdialog.res"
 	#base	"../../../_tf2hud/resource/ui/econ/strangecounttransferdialog.res"

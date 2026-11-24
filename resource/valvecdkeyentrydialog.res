@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/valvecdkeyentrydialog.res"
+#base "../_jofrehud67/resource/valvecdkeyentrydialog.res"
+#base "../_tf2hud67/resource/resource/valvecdkeyentrydialog.res"
 #base "../_jofrehud/resource/valvecdkeyentrydialog.res"
 #base "../_tf2hud/resource/resource/valvecdkeyentrydialog.res"

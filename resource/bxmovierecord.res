@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/bxmovierecord.res"
+#base "../_jofrehud67/resource/bxmovierecord.res"
+#base "../_tf2hud67/resource/resource/bxmovierecord.res"
 #base "../_jofrehud/resource/bxmovierecord.res"
 #base "../_tf2hud/resource/resource/bxmovierecord.res"

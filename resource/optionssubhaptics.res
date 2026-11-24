@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/optionssubhaptics.res"
+#base "../_jofrehud67/resource/optionssubhaptics.res"
+#base "../_tf2hud67/resource/resource/optionssubhaptics.res"
 #base "../_jofrehud/resource/optionssubhaptics.res"
 #base "../_tf2hud/resource/resource/optionssubhaptics.res"

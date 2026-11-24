@@ -1,2 +1,5 @@
+#base "../extd/_tf2fix/platform/resource/soundrecordpanel.res"
+#base "../_jofrehud67/resource/soundrecordpanel.res"
+#base "../frag/_tf2fix/platform/resource/soundrecordpanel.res"
 #base "../_jofrehud/resource/soundrecordpanel.res"
 #base "../_jofrehud/_tf2fix/platform/resource/soundrecordpanel.res"

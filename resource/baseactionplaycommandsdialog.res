@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/baseactionplaycommandsdialog.res"
+#base "../_jofrehud67/resource/baseactionplaycommandsdialog.res"
+#base "../_tf2hud67/resource/resource/baseactionplaycommandsdialog.res"
 #base "../_jofrehud/resource/baseactionplaycommandsdialog.res"
 #base "../_tf2hud/resource/resource/baseactionplaycommandsdialog.res"

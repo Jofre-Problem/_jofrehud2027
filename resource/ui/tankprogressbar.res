@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/tankprogressbar.res"
+	#base	"../../myedit67/resource/ui/tankprogressbar.res"
+	#base	"../../extd/resource/ui/tankprogressbar.res"
+	#base	"../../myedit/resource/ui/tankprogressbar.res"
+	#base	"../../frag/resource/ui/tankprogressbar.res"
 	#base	"../../_jofrenew/resource/ui/tankprogressbar.res"
 	#base	"../../_jofrehud/resource/ui/tankprogressbar.res"
 	#base	"../../_tf2hud/resource/ui/tankprogressbar.res"

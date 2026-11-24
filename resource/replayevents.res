@@ -1,2 +1,5 @@
+#base "../extd/_tf2exp/null.res"
+#base "+experimental/replayevents.res"
+#base "../frag/_tf2exp/null.res"
 #base "+experimental/replayevents.res"
 #base "../_jofrehud/_tf2exp/null.res"

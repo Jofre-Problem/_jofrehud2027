@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/hudhealthaccount.res"
+	#base	"../../myedit67/resource/ui/hudhealthaccount.res"
+	#base	"../../extd/resource/ui/hudhealthaccount.res"
+	#base	"../../myedit/resource/ui/hudhealthaccount.res"
+	#base	"../../frag/resource/ui/hudhealthaccount.res"
 	#base	"../../_jofrenew/resource/ui/hudhealthaccount.res"
 	#base	"../../_jofrehud/resource/ui/hudhealthaccount.res"
 	#base	"../../_tf2hud/resource/ui/hudhealthaccount.res"

@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/mp3player.res"
+#base "../_jofrehud67/resource/mp3player.res"
+#base "../_tf2hud67/resource/resource/mp3player.res"
 #base "../_jofrehud/resource/mp3player.res"
 #base "../_tf2hud/resource/resource/mp3player.res"

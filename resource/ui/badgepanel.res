@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/badgepanel.res"
+	#base	"../../myedit67/resource/ui/badgepanel.res"
+	#base	"../../extd/resource/ui/badgepanel.res"
+	#base	"../../myedit/resource/ui/badgepanel.res"
+	#base	"../../frag/resource/ui/badgepanel.res"
 	#base	"../../_jofrenew/resource/ui/badgepanel.res"
 	#base	"../../_jofrehud/resource/ui/badgepanel.res"
 	#base	"../../_tf2hud/resource/ui/badgepanel.res"

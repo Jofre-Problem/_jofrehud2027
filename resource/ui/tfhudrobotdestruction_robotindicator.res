@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/tfhudrobotdestruction_robotindicator.res"
+	#base	"../../myedit67/resource/ui/tfhudrobotdestruction_robotindicator.res"
+	#base	"../../extd/resource/ui/tfhudrobotdestruction_robotindicator.res"
+	#base	"../../myedit/resource/ui/tfhudrobotdestruction_robotindicator.res"
+	#base	"../../frag/resource/ui/tfhudrobotdestruction_robotindicator.res"
 	#base	"../../_jofrenew/resource/ui/tfhudrobotdestruction_robotindicator.res"
 	#base	"../../_jofrehud/resource/ui/tfhudrobotdestruction_robotindicator.res"
 	#base	"../../_tf2hud/resource/ui/tfhudrobotdestruction_robotindicator.res"

@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/infotargetbrowserpanel.res"
+#base "../_jofrehud67/resource/infotargetbrowserpanel.res"
+#base "../_tf2hud67/resource/resource/infotargetbrowserpanel.res"
 #base "../_jofrehud/resource/infotargetbrowserpanel.res"
 #base "../_tf2hud/resource/resource/infotargetbrowserpanel.res"

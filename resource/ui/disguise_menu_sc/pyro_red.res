@@ -1,3 +1,6 @@
+	#base	"..\..\..\_stream\resource\ui\disguise_menu_sc\pyro_red.res"
+	#base	"..\..\..\#users\custom\resource\ui\disguise_menu_sc\pyro_red.res"
+	#base	"..\..\..\_stream\resource\ui\disguise_menu_sc\pyro_red.res"
 	#base	"..\..\..\#users\custom\resource\ui\disguise_menu_sc\pyro_red.res"
 	#base	"..\..\..\_stream\resource\ui\disguise_menu_sc\pyro_red.res"
 	#base	"..\..\..\_jofrehud\resource\ui\disguise_menu_sc\pyro_red.res"

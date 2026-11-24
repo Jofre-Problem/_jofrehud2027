@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/explanationpopup.res"
+	#base	"../../myedit67/resource/ui/explanationpopup.res"
+	#base	"../../extd/resource/ui/explanationpopup.res"
+	#base	"../../myedit/resource/ui/explanationpopup.res"
+	#base	"../../frag/resource/ui/explanationpopup.res"
 	#base	"../../_jofrenew/resource/ui/explanationpopup.res"
 	#base	"../../_jofrehud/resource/ui/explanationpopup.res"
 	#base	"../../_tf2hud/resource/ui/explanationpopup.res"

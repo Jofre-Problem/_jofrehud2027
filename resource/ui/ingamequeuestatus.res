@@ -1,4 +1,7 @@
-	#base	"../../_custom/resource/ui/ingamequeuestatus.res"
+	#base	"../../myedit67/resource/ui/ingamequeuestatus.res"
+	#base	"../../extd/resource/ui/ingamequeuestatus.res"
+	#base	"../../myedit/resource/ui/ingamequeuestatus.res"
+	#base	"../../frag/resource/ui/ingamequeuestatus.res"
 	#base	"../../_jofrenew/resource/ui/ingamequeuestatus.res"
 	#base	"../../_jofrehud/resource/ui/ingamequeuestatus.res"
 	#base	"../../_tf2hud/resource/ui/ingamequeuestatus.res"

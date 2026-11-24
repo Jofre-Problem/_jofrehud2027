@@ -1,2 +1,5 @@
+#base "../_tf2hud6767/resource/resource/baseactionstopplaybackdialog.res"
+#base "../_jofrehud67/resource/baseactionstopplaybackdialog.res"
+#base "../_tf2hud67/resource/resource/baseactionstopplaybackdialog.res"
 #base "../_jofrehud/resource/baseactionstopplaybackdialog.res"
 #base "../_tf2hud/resource/resource/baseactionstopplaybackdialog.res"
