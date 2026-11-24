@@ -145,7 +145,7 @@
     {
         "30"
         {
-            "font"      "resource/fonts/Icons.ttf"
+            "font"      "frag/fonts/Icons.ttf"
             "name"      "Icons"
         }
     }

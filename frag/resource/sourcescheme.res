@@ -172,7 +172,7 @@
     {
         "4"
         {
-            "font"      "resource/fonts/Infortress-Medium.ttf"
+            "font"      "frag/fonts/Infortress-Medium.ttf"
             "name"      "Infortress-Medium"
 
             "korean"
@@ -313,7 +313,7 @@
 
         "21"
         {
-            "font"      "resource/fonts/Infortress-Bold.ttf"
+            "font"      "frag/fonts/Infortress-Bold.ttf"
             "name"      "Infortress-Bold"
 
             "korean"

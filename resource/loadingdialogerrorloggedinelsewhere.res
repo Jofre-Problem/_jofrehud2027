@@ -1,6 +1,21 @@
-#base "../extd/resource/loadingdialogerrorloggedinelsewhere.res"
-#base "../myedit/resource/loadingdialogerrorloggedinelsewhere.res"
-#base "../frag/resource/loadingdialogerrorloggedinelsewhere.res"
-#base "../_jofrenew/resource/loadingdialogerrorloggedinelsewhere.res"
-#base "../_jofrehud/resource/loadingdialogerrorloggedinelsewhere.res"
-#base "../_tf2hud/resource/resource/loadingdialogerrorloggedinelsewhere.res"
+#base "loadingdialogerror.res"
+"Resource/LoadingDialogErrorLoggedInElsewhere.res"
+{
+	"LoadingDialog"
+	{
+		"title"		"#VAC_LoggedInElsewhere_Title"
+	}
+	"progress"
+	{
+	}
+	"Progress2"
+	{
+	}
+	"TimeRemainingLabel"
+	{
+	}
+	"InfoLabel"
+	{
+		"labelText"		"#VAC_LoggedInElsewhereReason"
+	}
+}

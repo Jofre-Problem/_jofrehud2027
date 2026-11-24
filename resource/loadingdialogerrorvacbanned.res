@@ -1,6 +1,1 @@
-#base "../extd/resource/loadingdialogerrorvacbanned.res"
-#base "../myedit/resource/loadingdialogerrorvacbanned.res"
-#base "../frag/resource/loadingdialogerrorvacbanned.res"
-#base "../_jofrenew/resource/loadingdialogerrorvacbanned.res"
-#base "../_jofrehud/resource/loadingdialogerrorvacbanned.res"
-#base "../_tf2hud/resource/resource/loadingdialogerrorvacbanned.res"
+#base "loadingdialog.res"
