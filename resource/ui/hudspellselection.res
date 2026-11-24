@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudspellselection.res"
+	#base	"../../user/resource/ui/hudspellselection.res"
 	#base	"../../extd/resource/ui/hudspellselection.res"
 	#base	"../../myedit/resource/ui/hudspellselection.res"
 	#base	"../../frag/resource/ui/hudspellselection.res"

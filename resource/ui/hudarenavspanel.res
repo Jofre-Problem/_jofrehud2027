@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudarenavspanel.res"
+	#base	"../../user/resource/ui/hudarenavspanel.res"
 	#base	"../../extd/resource/ui/hudarenavspanel.res"
 	#base	"../../myedit/resource/ui/hudarenavspanel.res"
 	#base	"../../frag/resource/ui/hudarenavspanel.res"

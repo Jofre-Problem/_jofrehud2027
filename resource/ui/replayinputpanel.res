@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/replayinputpanel.res"
+	#base	"../../user/resource/ui/replayinputpanel.res"
 	#base	"../../extd/resource/ui/replayinputpanel.res"
 	#base	"../../myedit/resource/ui/replayinputpanel.res"
 	#base	"../../frag/resource/ui/replayinputpanel.res"

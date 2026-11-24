@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/controlpointicon.res"
+	#base	"../../user/resource/ui/controlpointicon.res"
 	#base	"../../extd/resource/ui/controlpointicon.res"
 	#base	"../../myedit/resource/ui/controlpointicon.res"
 	#base	"../../frag/resource/ui/controlpointicon.res"

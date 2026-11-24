@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudaccountpanel.res"
+	#base	"../../user/resource/ui/hudaccountpanel.res"
 	#base	"../../extd/resource/ui/hudaccountpanel.res"
 	#base	"../../myedit/resource/ui/hudaccountpanel.res"
 	#base	"../../frag/resource/ui/hudaccountpanel.res"

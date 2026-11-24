@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/explanationpopup.res"
+	#base	"../../user/resource/ui/explanationpopup.res"
 	#base	"../../extd/resource/ui/explanationpopup.res"
 	#base	"../../myedit/resource/ui/explanationpopup.res"
 	#base	"../../frag/resource/ui/explanationpopup.res"

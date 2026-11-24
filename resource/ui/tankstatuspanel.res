@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/tankstatuspanel.res"
+	#base	"../../user/resource/ui/tankstatuspanel.res"
 	#base	"../../extd/resource/ui/tankstatuspanel.res"
 	#base	"../../myedit/resource/ui/tankstatuspanel.res"
 	#base	"../../frag/resource/ui/tankstatuspanel.res"

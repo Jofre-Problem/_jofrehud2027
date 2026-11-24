@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/importpreviewitempanel.res"
+	#base	"../../user/resource/ui/importpreviewitempanel.res"
 	#base	"../../extd/resource/ui/importpreviewitempanel.res"
 	#base	"../../myedit/resource/ui/importpreviewitempanel.res"
 	#base	"../../frag/resource/ui/importpreviewitempanel.res"

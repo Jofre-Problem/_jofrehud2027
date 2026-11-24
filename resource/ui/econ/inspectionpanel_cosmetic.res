@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/inspectionpanel_cosmetic.res"
+	#base	"../../../user/resource/ui/econ/inspectionpanel_cosmetic.res"
 	#base	"../../../extd/resource/ui/econ/inspectionpanel_cosmetic.res"
 	#base	"../../../myedit/resource/ui/econ/inspectionpanel_cosmetic.res"
 	#base	"../../../frag/resource/ui/econ/inspectionpanel_cosmetic.res"

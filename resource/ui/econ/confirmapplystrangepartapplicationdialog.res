@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/confirmapplystrangepartapplicationdialog.res"
+	#base	"../../../user/resource/ui/econ/confirmapplystrangepartapplicationdialog.res"
 	#base	"../../../extd/resource/ui/econ/confirmapplystrangepartapplicationdialog.res"
 	#base	"../../../myedit/resource/ui/econ/confirmapplystrangepartapplicationdialog.res"
 	#base	"../../../frag/resource/ui/econ/confirmapplystrangepartapplicationdialog.res"

@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/steamfriendpanel.res"
+	#base	"../../user/resource/ui/steamfriendpanel.res"
 	#base	"../../extd/resource/ui/steamfriendpanel.res"
 	#base	"../../myedit/resource/ui/steamfriendpanel.res"
 	#base	"../../frag/resource/ui/steamfriendpanel.res"

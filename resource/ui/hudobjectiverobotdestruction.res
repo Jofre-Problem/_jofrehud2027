@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudobjectiverobotdestruction.res"
+	#base	"../../user/resource/ui/hudobjectiverobotdestruction.res"
 	#base	"../../extd/resource/ui/hudobjectiverobotdestruction.res"
 	#base	"../../myedit/resource/ui/hudobjectiverobotdestruction.res"
 	#base	"../../frag/resource/ui/hudobjectiverobotdestruction.res"

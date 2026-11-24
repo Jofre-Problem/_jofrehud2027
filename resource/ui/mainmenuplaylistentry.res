@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/mainmenuplaylistentry.res"
+	#base	"../../user/resource/ui/mainmenuplaylistentry.res"
 	#base	"../../extd/resource/ui/mainmenuplaylistentry.res"
 	#base	"../../myedit/resource/ui/mainmenuplaylistentry.res"
 	#base	"../../frag/resource/ui/mainmenuplaylistentry.res"

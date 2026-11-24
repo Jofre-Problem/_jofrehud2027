@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/invitenotification.res"
+	#base	"../../user/resource/ui/invitenotification.res"
 	#base	"../../extd/resource/ui/invitenotification.res"
 	#base	"../../myedit/resource/ui/invitenotification.res"
 	#base	"../../frag/resource/ui/invitenotification.res"

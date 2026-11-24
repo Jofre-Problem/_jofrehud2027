@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/loadoutpresetpanel.res"
+	#base	"../../user/resource/ui/loadoutpresetpanel.res"
 	#base	"../../extd/resource/ui/loadoutpresetpanel.res"
 	#base	"../../myedit/resource/ui/loadoutpresetpanel.res"
 	#base	"../../frag/resource/ui/loadoutpresetpanel.res"

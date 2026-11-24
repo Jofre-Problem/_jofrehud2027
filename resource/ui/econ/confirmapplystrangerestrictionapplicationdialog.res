@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/confirmapplystrangerestrictionapplicationdialog.res"
+	#base	"../../../user/resource/ui/econ/confirmapplystrangerestrictionapplicationdialog.res"
 	#base	"../../../extd/resource/ui/econ/confirmapplystrangerestrictionapplicationdialog.res"
 	#base	"../../../myedit/resource/ui/econ/confirmapplystrangerestrictionapplicationdialog.res"
 	#base	"../../../frag/resource/ui/econ/confirmapplystrangerestrictionapplicationdialog.res"

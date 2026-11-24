@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/mvmbombcarrierprogresspanel.res"
+	#base	"../../user/resource/ui/mvmbombcarrierprogresspanel.res"
 	#base	"../../extd/resource/ui/mvmbombcarrierprogresspanel.res"
 	#base	"../../myedit/resource/ui/mvmbombcarrierprogresspanel.res"
 	#base	"../../frag/resource/ui/mvmbombcarrierprogresspanel.res"

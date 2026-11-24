@@ -1,4 +1,4 @@
-	#base	"../../../../../myedit67/resource/ui/econ/store/v1/storepage_drgrordbort.res"
+	#base	"../../../../../user/resource/ui/econ/store/v1/storepage_drgrordbort.res"
 	#base	"../../../../../extd/resource/ui/econ/store/v1/storepage_drgrordbort.res"
 	#base	"../../../../../myedit/resource/ui/econ/store/v1/storepage_drgrordbort.res"
 	#base	"../../../../../frag/resource/ui/econ/store/v1/storepage_drgrordbort.res"

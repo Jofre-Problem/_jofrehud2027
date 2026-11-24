@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/huditemeffectmeter_organs.res"
+	#base	"../../user/resource/ui/huditemeffectmeter_organs.res"
 	#base	"../../extd/resource/ui/huditemeffectmeter_organs.res"
 	#base	"../../myedit/resource/ui/huditemeffectmeter_organs.res"
 	#base	"../../frag/resource/ui/huditemeffectmeter_organs.res"

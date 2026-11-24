@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudmatchsummary.res"
+	#base	"../../user/resource/ui/hudmatchsummary.res"
 	#base	"../../extd/resource/ui/hudmatchsummary.res"
 	#base	"../../myedit/resource/ui/hudmatchsummary.res"
 	#base	"../../frag/resource/ui/hudmatchsummary.res"

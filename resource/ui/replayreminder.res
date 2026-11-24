@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/resource/ui/replayreminder.res"
+	#base	"../../user/resource/resource/ui/replayreminder.res"
 	#base	"../../extd/resource/ui/replayreminder.res"
 	#base	"../../myedit/resource/resource/ui/replayreminder.res"
 	#base	"../../frag/resource/ui/replayreminder.res"

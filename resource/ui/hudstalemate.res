@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudstalemate.res"
+	#base	"../../user/resource/ui/hudstalemate.res"
 	#base	"../../extd/resource/ui/hudstalemate.res"
 	#base	"../../myedit/resource/ui/hudstalemate.res"
 	#base	"../../frag/resource/ui/hudstalemate.res"

@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/dashboardpartymember.res"
+	#base	"../../user/resource/ui/dashboardpartymember.res"
 	#base	"../../extd/resource/ui/dashboardpartymember.res"
 	#base	"../../myedit/resource/ui/dashboardpartymember.res"
 	#base	"../../frag/resource/ui/dashboardpartymember.res"

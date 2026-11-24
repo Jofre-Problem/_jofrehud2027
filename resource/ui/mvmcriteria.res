@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/mvmcriteria.res"
+	#base	"../../user/resource/ui/mvmcriteria.res"
 	#base	"../../extd/resource/ui/mvmcriteria.res"
 	#base	"../../myedit/resource/ui/mvmcriteria.res"
 	#base	"../../frag/resource/ui/mvmcriteria.res"

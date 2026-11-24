@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/achievementsdialog.res"
+	#base	"../../user/resource/ui/achievementsdialog.res"
 	#base	"../../extd/resource/ui/achievementsdialog.res"
 	#base	"../../myedit/resource/ui/achievementsdialog.res"
 	#base	"../../frag/resource/ui/achievementsdialog.res"

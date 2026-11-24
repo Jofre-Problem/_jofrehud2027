@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/testitemroot.res"
+	#base	"../../user/resource/ui/testitemroot.res"
 	#base	"../../extd/resource/ui/testitemroot.res"
 	#base	"../../myedit/resource/ui/testitemroot.res"
 	#base	"../../frag/resource/ui/testitemroot.res"

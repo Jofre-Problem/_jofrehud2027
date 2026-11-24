@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/notificationtoastcontainer.res"
+	#base	"../../../user/resource/ui/econ/notificationtoastcontainer.res"
 	#base	"../../../extd/resource/ui/econ/notificationtoastcontainer.res"
 	#base	"../../../myedit/resource/ui/econ/notificationtoastcontainer.res"
 	#base	"../../../frag/resource/ui/econ/notificationtoastcontainer.res"

@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/spectatortournamentguihealth.res"
+	#base	"../../user/resource/ui/spectatortournamentguihealth.res"
 	#base	"../../extd/resource/ui/spectatortournamentguihealth.res"
 	#base	"../../myedit/resource/ui/spectatortournamentguihealth.res"
 	#base	"../../frag/resource/ui/spectatortournamentguihealth.res"

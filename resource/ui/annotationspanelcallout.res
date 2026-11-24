@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/annotationspanelcallout.res"
+	#base	"../../user/resource/ui/annotationspanelcallout.res"
 	#base	"../../extd/resource/ui/annotationspanelcallout.res"
 	#base	"../../myedit/resource/ui/annotationspanelcallout.res"
 	#base	"../../frag/resource/ui/annotationspanelcallout.res"

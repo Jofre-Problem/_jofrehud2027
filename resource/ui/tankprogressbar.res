@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/tankprogressbar.res"
+	#base	"../../user/resource/ui/tankprogressbar.res"
 	#base	"../../extd/resource/ui/tankprogressbar.res"
 	#base	"../../myedit/resource/ui/tankprogressbar.res"
 	#base	"../../frag/resource/ui/tankprogressbar.res"

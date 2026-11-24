@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/huditemeffectmeter_spyknife.res"
+	#base	"../../user/resource/ui/huditemeffectmeter_spyknife.res"
 	#base	"../../extd/resource/ui/huditemeffectmeter_spyknife.res"
 	#base	"../../myedit/resource/ui/huditemeffectmeter_spyknife.res"
 	#base	"../../frag/resource/ui/huditemeffectmeter_spyknife.res"

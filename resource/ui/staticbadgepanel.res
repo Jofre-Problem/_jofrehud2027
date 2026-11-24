@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/staticbadgepanel.res"
+	#base	"../../user/resource/ui/staticbadgepanel.res"
 	#base	"../../extd/resource/ui/staticbadgepanel.res"
 	#base	"../../myedit/resource/ui/staticbadgepanel.res"
 	#base	"../../frag/resource/ui/staticbadgepanel.res"

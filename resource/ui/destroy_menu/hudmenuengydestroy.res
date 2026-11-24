@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/destroy_menu/hudmenuengydestroy.res"
+	#base	"../../../user/resource/ui/destroy_menu/hudmenuengydestroy.res"
 	#base	"../../../extd/resource/ui/destroy_menu/hudmenuengydestroy.res"
 	#base	"../../../myedit/resource/ui/destroy_menu/hudmenuengydestroy.res"
 	#base	"../../../frag/resource/ui/destroy_menu/hudmenuengydestroy.res"

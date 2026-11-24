@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/wavecompletesummarypanel.res"
+	#base	"../../user/resource/ui/wavecompletesummarypanel.res"
 	#base	"../../extd/resource/ui/wavecompletesummarypanel.res"
 	#base	"../../myedit/resource/ui/wavecompletesummarypanel.res"
 	#base	"../../frag/resource/ui/wavecompletesummarypanel.res"

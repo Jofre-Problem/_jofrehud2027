@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/replayrenderoverlay.res"
+	#base	"../../user/resource/ui/replayrenderoverlay.res"
 	#base	"../../extd/resource/ui/replayrenderoverlay.res"
 	#base	"../../myedit/resource/ui/replayrenderoverlay.res"
 	#base	"../../frag/resource/ui/replayrenderoverlay.res"

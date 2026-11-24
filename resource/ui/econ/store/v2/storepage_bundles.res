@@ -1,4 +1,4 @@
-	#base	"../../../../../myedit67/resource/ui/econ/store/v2/storepage_bundles.res"
+	#base	"../../../../../user/resource/ui/econ/store/v2/storepage_bundles.res"
 	#base	"../../../../../extd/resource/ui/econ/store/v2/storepage_bundles.res"
 	#base	"../../../../../myedit/resource/ui/econ/store/v2/storepage_bundles.res"
 	#base	"../../../../../frag/resource/ui/econ/store/v2/storepage_bundles.res"

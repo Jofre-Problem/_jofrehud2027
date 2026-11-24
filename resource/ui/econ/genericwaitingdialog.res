@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/genericwaitingdialog.res"
+	#base	"../../../user/resource/ui/econ/genericwaitingdialog.res"
 	#base	"../../../extd/resource/ui/econ/genericwaitingdialog.res"
 	#base	"../../../myedit/resource/ui/econ/genericwaitingdialog.res"
 	#base	"../../../frag/resource/ui/econ/genericwaitingdialog.res"

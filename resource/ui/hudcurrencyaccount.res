@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudcurrencyaccount.res"
+	#base	"../../user/resource/ui/hudcurrencyaccount.res"
 	#base	"../../extd/resource/ui/hudcurrencyaccount.res"
 	#base	"../../myedit/resource/ui/hudcurrencyaccount.res"
 	#base	"../../frag/resource/ui/hudcurrencyaccount.res"

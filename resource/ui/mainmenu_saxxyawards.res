@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/mainmenu_saxxyawards.res"
+	#base	"../../user/resource/ui/mainmenu_saxxyawards.res"
 	#base	"../../extd/resource/ui/mainmenu_saxxyawards.res"
 	#base	"../../myedit/resource/ui/mainmenu_saxxyawards.res"
 	#base	"../../frag/resource/ui/mainmenu_saxxyawards.res"

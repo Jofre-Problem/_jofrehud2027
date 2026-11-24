@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudpasstimepassnotify.res"
+	#base	"../../user/resource/ui/hudpasstimepassnotify.res"
 	#base	"../../extd/resource/ui/hudpasstimepassnotify.res"
 	#base	"../../myedit/resource/ui/hudpasstimepassnotify.res"
 	#base	"../../frag/resource/ui/hudpasstimepassnotify.res"

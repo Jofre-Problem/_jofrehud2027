@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/lobbyleaderboard.res"
+	#base	"../../../user/resource/ui/econ/lobbyleaderboard.res"
 	#base	"../../../extd/resource/ui/econ/lobbyleaderboard.res"
 	#base	"../../../myedit/resource/ui/econ/lobbyleaderboard.res"
 	#base	"../../../frag/resource/ui/econ/lobbyleaderboard.res"

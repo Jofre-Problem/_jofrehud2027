@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudtrainingmsg.res"
+	#base	"../../user/resource/ui/hudtrainingmsg.res"
 	#base	"../../extd/resource/ui/hudtrainingmsg.res"
 	#base	"../../myedit/resource/ui/hudtrainingmsg.res"
 	#base	"../../frag/resource/ui/hudtrainingmsg.res"

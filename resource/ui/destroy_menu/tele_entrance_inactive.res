@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/destroy_menu/tele_entrance_inactive.res"
+	#base	"../../../user/resource/ui/destroy_menu/tele_entrance_inactive.res"
 	#base	"../../../extd/custom/resource/ui/destroy_menu/tele_entrance_inactive.res"
 	#base	"../../../myedit/resource/ui/destroy_menu/tele_entrance_inactive.res"
 	#base	"../../../frag/custom/resource/ui/destroy_menu/tele_entrance_inactive.res"

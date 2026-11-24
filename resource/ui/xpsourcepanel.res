@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/xpsourcepanel.res"
+	#base	"../../user/resource/ui/xpsourcepanel.res"
 	#base	"../../extd/resource/ui/xpsourcepanel.res"
 	#base	"../../myedit/resource/ui/xpsourcepanel.res"
 	#base	"../../frag/resource/ui/xpsourcepanel.res"

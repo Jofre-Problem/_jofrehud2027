@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/build_menu/base_active_teleport_target.res"
+	#base	"../../../user/resource/ui/build_menu/base_active_teleport_target.res"
 	#base	"../../../extd/resource/ui/build_menu/base_active_teleport_target.res"
 	#base	"../../../myedit/resource/ui/build_menu/base_active_teleport_target.res"
 	#base	"../../../frag/resource/ui/build_menu/base_active_teleport_target.res"

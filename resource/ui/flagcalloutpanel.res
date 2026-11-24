@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/flagcalloutpanel.res"
+	#base	"../../user/resource/ui/flagcalloutpanel.res"
 	#base	"../../extd/resource/ui/flagcalloutpanel.res"
 	#base	"../../myedit/resource/ui/flagcalloutpanel.res"
 	#base	"../../frag/resource/ui/flagcalloutpanel.res"

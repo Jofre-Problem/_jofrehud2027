@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/steamworkshopitem.res"
+	#base	"../../user/resource/ui/steamworkshopitem.res"
 	#base	"../../extd/resource/ui/steamworkshopitem.res"
 	#base	"../../myedit/resource/ui/steamworkshopitem.res"
 	#base	"../../frag/resource/ui/steamworkshopitem.res"

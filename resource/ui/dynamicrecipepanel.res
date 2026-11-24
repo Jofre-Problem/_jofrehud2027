@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/dynamicrecipepanel.res"
+	#base	"../../user/resource/ui/dynamicrecipepanel.res"
 	#base	"../../extd/resource/ui/dynamicrecipepanel.res"
 	#base	"../../myedit/resource/ui/dynamicrecipepanel.res"
 	#base	"../../frag/resource/ui/dynamicrecipepanel.res"

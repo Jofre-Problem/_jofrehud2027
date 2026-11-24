@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/servernotconnectedtosteam.res"
+	#base	"../../user/resource/ui/servernotconnectedtosteam.res"
 	#base	"../../extd/resource/ui/servernotconnectedtosteam.res"
 	#base	"../../myedit/resource/ui/servernotconnectedtosteam.res"
 	#base	"../../frag/resource/ui/servernotconnectedtosteam.res"

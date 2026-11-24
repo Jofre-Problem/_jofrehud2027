@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/huddamageaccount.res"
+	#base	"../../user/resource/ui/huddamageaccount.res"
 	#base	"../../extd/resource/ui/huddamageaccount.res"
 	#base	"../../myedit/resource/ui/huddamageaccount.res"
 	#base	"../../frag/resource/ui/huddamageaccount.res"

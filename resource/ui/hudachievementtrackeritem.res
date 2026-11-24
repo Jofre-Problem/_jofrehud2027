@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudachievementtrackeritem.res"
+	#base	"../../user/resource/ui/hudachievementtrackeritem.res"
 	#base	"../../extd/resource/ui/hudachievementtrackeritem.res"
 	#base	"../../myedit/resource/ui/hudachievementtrackeritem.res"
 	#base	"../../frag/resource/ui/hudachievementtrackeritem.res"

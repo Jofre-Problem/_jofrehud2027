@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/confirmdialogabandonpenalty.res"
+	#base	"../../../user/resource/ui/econ/confirmdialogabandonpenalty.res"
 	#base	"../../../extd/resource/ui/econ/confirmdialogabandonpenalty.res"
 	#base	"../../../myedit/resource/ui/econ/confirmdialogabandonpenalty.res"
 	#base	"../../../frag/resource/ui/econ/confirmdialogabandonpenalty.res"

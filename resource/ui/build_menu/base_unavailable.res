@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/build_menu/base_unavailable.res"
+	#base	"../../../user/resource/ui/build_menu/base_unavailable.res"
 	#base	"../../../extd/resource/ui/build_menu/base_unavailable.res"
 	#base	"../../../myedit/resource/ui/build_menu/base_unavailable.res"
 	#base	"../../../frag/resource/ui/build_menu/base_unavailable.res"

@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudplayerclass.res"
+	#base	"../../user/resource/ui/hudplayerclass.res"
 	#base	"../../extd/resource/ui/hudplayerclass.res"
 	#base	"../../myedit/resource/ui/hudplayerclass.res"
 	#base	"../../frag/resource/ui/hudplayerclass.res"

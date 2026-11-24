@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/testitemdialog.res"
+	#base	"../../user/resource/ui/testitemdialog.res"
 	#base	"../../extd/resource/ui/testitemdialog.res"
 	#base	"../../myedit/resource/ui/testitemdialog.res"
 	#base	"../../frag/resource/ui/testitemdialog.res"

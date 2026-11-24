@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/itemrenameinvaliddialog.res"
+	#base	"../../user/resource/ui/itemrenameinvaliddialog.res"
 	#base	"../../extd/resource/ui/itemrenameinvaliddialog.res"
 	#base	"../../myedit/resource/ui/itemrenameinvaliddialog.res"
 	#base	"../../frag/resource/ui/itemrenameinvaliddialog.res"

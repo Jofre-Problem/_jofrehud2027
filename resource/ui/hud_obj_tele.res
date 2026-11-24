@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hud_obj_tele.res"
+	#base	"../../user/resource/ui/hud_obj_tele.res"
 	#base	"../../extd/resource/ui/hud_obj_tele.res"
 	#base	"../../myedit/resource/ui/hud_obj_tele.res"
 	#base	"../../frag/resource/ui/hud_obj_tele.res"

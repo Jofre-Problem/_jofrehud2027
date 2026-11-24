@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudarenateammenu_sc.res"
+	#base	"../../user/resource/ui/hudarenateammenu_sc.res"
 	#base	"../../extd/resource/ui/hudarenateammenu_sc.res"
 	#base	"../../myedit/resource/ui/hudarenateammenu_sc.res"
 	#base	"../../frag/resource/ui/hudarenateammenu_sc.res"

@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudhealthaccount.res"
+	#base	"../../user/resource/ui/hudhealthaccount.res"
 	#base	"../../extd/resource/ui/hudhealthaccount.res"
 	#base	"../../myedit/resource/ui/hudhealthaccount.res"
 	#base	"../../frag/resource/ui/hudhealthaccount.res"

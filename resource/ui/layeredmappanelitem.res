@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/layeredmappanelitem.res"
+	#base	"../../user/resource/ui/layeredmappanelitem.res"
 	#base	"../../extd/resource/ui/layeredmappanelitem.res"
 	#base	"../../myedit/resource/ui/layeredmappanelitem.res"
 	#base	"../../frag/resource/ui/layeredmappanelitem.res"

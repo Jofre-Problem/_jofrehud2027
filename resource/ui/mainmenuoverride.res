@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/mainmenuoverride.res"
+	#base	"../../user/resource/ui/mainmenuoverride.res"
 	#base	"../../extd/resource/ui/mainmenuoverride.res"
 	#base	"../../myedit/resource/ui/mainmenuoverride.res"
 	#base	"../../frag/resource/ui/mainmenuoverride.res"

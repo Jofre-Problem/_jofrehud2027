@@ -1,4 +1,4 @@
-	#base	"../../../../../myedit67/resource/ui/econ/store/v1/storeprice_jumbo.res"
+	#base	"../../../../../user/resource/ui/econ/store/v1/storeprice_jumbo.res"
 	#base	"../../../../../extd/resource/ui/econ/store/v1/storeprice_jumbo.res"
 	#base	"../../../../../myedit/resource/ui/econ/store/v1/storeprice_jumbo.res"
 	#base	"../../../../../frag/resource/ui/econ/store/v1/storeprice_jumbo.res"

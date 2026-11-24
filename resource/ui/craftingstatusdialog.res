@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/craftingstatusdialog.res"
+	#base	"../../user/resource/ui/craftingstatusdialog.res"
 	#base	"../../extd/resource/ui/craftingstatusdialog.res"
 	#base	"../../myedit/resource/ui/craftingstatusdialog.res"
 	#base	"../../frag/resource/ui/craftingstatusdialog.res"

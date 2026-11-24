@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/leaderboardentryscore.res"
+	#base	"../../user/resource/ui/leaderboardentryscore.res"
 	#base	"../../extd/resource/ui/leaderboardentryscore.res"
 	#base	"../../myedit/resource/ui/leaderboardentryscore.res"
 	#base	"../../frag/resource/ui/leaderboardentryscore.res"

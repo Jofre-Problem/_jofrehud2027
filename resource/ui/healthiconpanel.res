@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/healthiconpanel.res"
+	#base	"../../user/resource/ui/healthiconpanel.res"
 	#base	"../../extd/resource/ui/healthiconpanel.res"
 	#base	"../../myedit/resource/ui/healthiconpanel.res"
 	#base	"../../frag/resource/ui/healthiconpanel.res"

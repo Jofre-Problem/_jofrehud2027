@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/surveypanel_randomcrit.res"
+	#base	"../../user/resource/ui/surveypanel_randomcrit.res"
 #base "SurveyPanel_Base.res"
 	#base	"../../myedit/resource/ui/surveypanel_randomcrit.res"
 #base "SurveyPanel_Base.res"

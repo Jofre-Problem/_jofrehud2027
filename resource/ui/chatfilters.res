@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/chatfilters.res"
+	#base	"../../user/resource/ui/chatfilters.res"
 	#base	"../../extd/resource/ui/chatfilters.res"
 	#base	"../../myedit/resource/ui/chatfilters.res"
 	#base	"../../frag/resource/ui/chatfilters.res"

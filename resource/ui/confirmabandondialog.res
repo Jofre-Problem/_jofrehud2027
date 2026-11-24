@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/confirmabandondialog.res"
+	#base	"../../user/resource/ui/confirmabandondialog.res"
 	#base	"../../extd/resource/ui/confirmabandondialog.res"
 	#base	"../../myedit/resource/ui/confirmabandondialog.res"
 	#base	"../../frag/resource/ui/confirmabandondialog.res"

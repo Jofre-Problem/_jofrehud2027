@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/importmaterialeditdialog.res"
+	#base	"../../user/resource/ui/importmaterialeditdialog.res"
 	#base	"../../extd/resource/ui/importmaterialeditdialog.res"
 	#base	"../../myedit/resource/ui/importmaterialeditdialog.res"
 	#base	"../../frag/resource/ui/importmaterialeditdialog.res"

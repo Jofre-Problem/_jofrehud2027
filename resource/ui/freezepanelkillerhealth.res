@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/freezepanelkillerhealth.res"
+	#base	"../../user/resource/ui/freezepanelkillerhealth.res"
 	#base	"../../extd/resource/ui/freezepanelkillerhealth.res"
 	#base	"../../myedit/resource/ui/freezepanelkillerhealth.res"
 	#base	"../../frag/resource/ui/freezepanelkillerhealth.res"

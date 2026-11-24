@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/notificationtoastcontrol.res"
+	#base	"../../../user/resource/ui/econ/notificationtoastcontrol.res"
 	#base	"../../../extd/resource/ui/econ/notificationtoastcontrol.res"
 	#base	"../../../myedit/resource/ui/econ/notificationtoastcontrol.res"
 	#base	"../../../frag/resource/ui/econ/notificationtoastcontrol.res"

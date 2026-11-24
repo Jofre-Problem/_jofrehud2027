@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/confirmapplycardupgradeapplicationdialog.res"
+	#base	"../../../user/resource/ui/econ/confirmapplycardupgradeapplicationdialog.res"
 	#base	"../../../extd/resource/ui/econ/confirmapplycardupgradeapplicationdialog.res"
 	#base	"../../../myedit/resource/ui/econ/confirmapplycardupgradeapplicationdialog.res"
 	#base	"../../../frag/resource/ui/econ/confirmapplycardupgradeapplicationdialog.res"

@@ -1,4 +1,4 @@
-	#base	"../../../../../myedit67/resource/ui/econ/store/v2/storemapstampsinfodialog.res"
+	#base	"../../../../../user/resource/ui/econ/store/v2/storemapstampsinfodialog.res"
 	#base	"../../../../../extd/resource/ui/econ/store/v2/storemapstampsinfodialog.res"
 	#base	"../../../../../myedit/resource/ui/econ/store/v2/storemapstampsinfodialog.res"
 	#base	"../../../../../frag/resource/ui/econ/store/v2/storemapstampsinfodialog.res"

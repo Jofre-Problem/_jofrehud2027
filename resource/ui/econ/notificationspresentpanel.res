@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/notificationspresentpanel.res"
+	#base	"../../../user/resource/ui/econ/notificationspresentpanel.res"
 	#base	"../../../extd/resource/ui/econ/notificationspresentpanel.res"
 	#base	"../../../myedit/resource/ui/econ/notificationspresentpanel.res"
 	#base	"../../../frag/resource/ui/econ/notificationspresentpanel.res"

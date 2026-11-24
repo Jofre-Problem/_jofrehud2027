@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/globalexplanations.res"
+	#base	"../../user/resource/ui/globalexplanations.res"
 	#base	"../../extd/resource/ui/globalexplanations.res"
 	#base	"../../myedit/resource/ui/globalexplanations.res"
 	#base	"../../frag/resource/ui/globalexplanations.res"

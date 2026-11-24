@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/ingamequeuestatus.res"
+	#base	"../../user/resource/ui/ingamequeuestatus.res"
 	#base	"../../extd/resource/ui/ingamequeuestatus.res"
 	#base	"../../myedit/resource/ui/ingamequeuestatus.res"
 	#base	"../../frag/resource/ui/ingamequeuestatus.res"

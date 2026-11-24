@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/selectmosthelpfulfrienddialog.res"
+	#base	"../../user/resource/ui/selectmosthelpfulfrienddialog.res"
 	#base	"../../extd/resource/ui/selectmosthelpfulfrienddialog.res"
 	#base	"../../myedit/resource/ui/selectmosthelpfulfrienddialog.res"
 	#base	"../../frag/resource/ui/selectmosthelpfulfrienddialog.res"

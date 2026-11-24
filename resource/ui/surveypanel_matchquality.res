@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/surveypanel_matchquality.res"
+	#base	"../../user/resource/ui/surveypanel_matchquality.res"
 	#base	"../../extd/resource/ui/surveypanel_matchquality.res"
 	#base	"../../myedit/resource/ui/surveypanel_matchquality.res"
 	#base	"../../frag/resource/ui/surveypanel_matchquality.res"

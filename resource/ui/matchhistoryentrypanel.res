@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/matchhistoryentrypanel.res"
+	#base	"../../user/resource/ui/matchhistoryentrypanel.res"
 	#base	"../../extd/resource/ui/matchhistoryentrypanel.res"
 	#base	"../../myedit/resource/ui/matchhistoryentrypanel.res"
 	#base	"../../frag/resource/ui/matchhistoryentrypanel.res"

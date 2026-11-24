@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/confirmtransmogrifyapplicationdialog.res"
+	#base	"../../../user/resource/ui/econ/confirmtransmogrifyapplicationdialog.res"
 	#base	"../../../extd/resource/ui/econ/confirmtransmogrifyapplicationdialog.res"
 	#base	"../../../myedit/resource/ui/econ/confirmtransmogrifyapplicationdialog.res"
 	#base	"../../../frag/resource/ui/econ/confirmtransmogrifyapplicationdialog.res"

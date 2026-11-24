@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/build_menu/hudmenuengybuild.res"
+	#base	"../../../user/resource/ui/build_menu/hudmenuengybuild.res"
 	#base	"../../../extd/resource/ui/build_menu/hudmenuengybuild.res"
 	#base	"../../../myedit/resource/ui/build_menu/hudmenuengybuild.res"
 	#base	"../../../frag/resource/ui/build_menu/hudmenuengybuild.res"

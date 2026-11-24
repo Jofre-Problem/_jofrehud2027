@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudobjectiveflagpanel.res"
+	#base	"../../user/resource/ui/hudobjectiveflagpanel.res"
 	#base	"../../extd/resource/ui/hudobjectiveflagpanel.res"
 	#base	"../../myedit/resource/ui/hudobjectiveflagpanel.res"
 	#base	"../../frag/resource/ui/hudobjectiveflagpanel.res"

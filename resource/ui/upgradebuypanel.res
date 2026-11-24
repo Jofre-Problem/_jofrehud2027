@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/upgradebuypanel.res"
+	#base	"../../user/resource/ui/upgradebuypanel.res"
 	#base	"../../extd/resource/ui/upgradebuypanel.res"
 	#base	"../../myedit/resource/ui/upgradebuypanel.res"
 	#base	"../../frag/resource/ui/upgradebuypanel.res"

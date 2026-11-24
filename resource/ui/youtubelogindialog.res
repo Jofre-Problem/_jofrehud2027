@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/youtubelogindialog.res"
+	#base	"../../user/resource/ui/youtubelogindialog.res"
 	#base	"../../extd/resource/ui/youtubelogindialog.res"
 	#base	"../../myedit/resource/ui/youtubelogindialog.res"
 	#base	"../../frag/resource/ui/youtubelogindialog.res"

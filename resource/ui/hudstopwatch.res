@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudstopwatch.res"
+	#base	"../../user/resource/ui/hudstopwatch.res"
 	#base	"../../extd/resource/ui/hudstopwatch.res"
 	#base	"../../myedit/resource/ui/hudstopwatch.res"
 	#base	"../../frag/resource/ui/hudstopwatch.res"

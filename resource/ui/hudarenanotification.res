@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudarenanotification.res"
+	#base	"../../user/resource/ui/hudarenanotification.res"
 	#base	"../../extd/resource/ui/hudarenanotification.res"
 	#base	"../../myedit/resource/ui/hudarenanotification.res"
 	#base	"../../frag/resource/ui/hudarenanotification.res"

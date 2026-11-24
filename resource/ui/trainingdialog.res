@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/trainingdialog.res"
+	#base	"../../user/resource/ui/trainingdialog.res"
 	#base	"../../extd/resource/ui/trainingdialog.res"
 	#base	"../../myedit/resource/ui/trainingdialog.res"
 	#base	"../../frag/resource/ui/trainingdialog.res"

@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/flagstatus.res"
+	#base	"../../user/resource/ui/flagstatus.res"
 	#base	"../../extd/resource/ui/flagstatus.res"
 	#base	"../../myedit/resource/ui/flagstatus.res"
 	#base	"../../frag/resource/ui/flagstatus.res"

@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/spectator.res"
+	#base	"../../user/resource/ui/spectator.res"
 	#base	"../../extd/resource/ui/spectator.res"
 	#base	"../../myedit/resource/ui/spectator.res"
 	#base	"../../frag/resource/ui/spectator.res"

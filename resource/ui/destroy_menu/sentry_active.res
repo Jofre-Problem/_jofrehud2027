@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/destroy_menu/sentry_active.res"
+	#base	"../../../user/resource/ui/destroy_menu/sentry_active.res"
 	#base	"../../../extd/resource/ui/destroy_menu/sentry_active.res"
 	#base	"../../../myedit/resource/ui/destroy_menu/sentry_active.res"
 	#base	"../../../frag/resource/ui/destroy_menu/sentry_active.res"

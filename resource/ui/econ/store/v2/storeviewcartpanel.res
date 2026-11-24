@@ -1,4 +1,4 @@
-	#base	"../../../../../myedit67/resource/ui/econ/store/v2/storeviewcartpanel.res"
+	#base	"../../../../../user/resource/ui/econ/store/v2/storeviewcartpanel.res"
 	#base	"../../../../../extd/resource/ui/econ/store/v2/storeviewcartpanel.res"
 	#base	"../../../../../myedit/resource/ui/econ/store/v2/storeviewcartpanel.res"
 	#base	"../../../../../frag/resource/ui/econ/store/v2/storeviewcartpanel.res"

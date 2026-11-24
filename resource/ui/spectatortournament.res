@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/spectatortournament.res"
+	#base	"../../user/resource/ui/spectatortournament.res"
 	#base	"../../extd/resource/ui/spectatortournament.res"
 	#base	"../../myedit/resource/ui/spectatortournament.res"
 	#base	"../../frag/resource/ui/spectatortournament.res"

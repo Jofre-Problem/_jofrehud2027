@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/classtipsitem.res"
+	#base	"../../user/resource/ui/classtipsitem.res"
 	#base	"../../extd/resource/ui/classtipsitem.res"
 	#base	"../../myedit/resource/ui/classtipsitem.res"
 	#base	"../../frag/resource/ui/classtipsitem.res"

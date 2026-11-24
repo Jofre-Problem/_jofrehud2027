@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/stampdonationadd.res"
+	#base	"../../user/resource/ui/stampdonationadd.res"
 	#base	"../../extd/resource/ui/stampdonationadd.res"
 	#base	"../../myedit/resource/ui/stampdonationadd.res"
 	#base	"../../frag/resource/ui/stampdonationadd.res"

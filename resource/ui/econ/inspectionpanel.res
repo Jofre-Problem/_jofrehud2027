@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/inspectionpanel.res"
+	#base	"../../../user/resource/ui/econ/inspectionpanel.res"
 	#base	"../../../extd/resource/ui/econ/inspectionpanel.res"
 	#base	"../../../myedit/resource/ui/econ/inspectionpanel.res"
 	#base	"../../../frag/resource/ui/econ/inspectionpanel.res"

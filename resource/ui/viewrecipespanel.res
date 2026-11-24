@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/viewrecipespanel.res"
+	#base	"../../user/resource/ui/viewrecipespanel.res"
 	#base	"../../extd/resource/ui/viewrecipespanel.res"
 	#base	"../../myedit/resource/ui/viewrecipespanel.res"
 	#base	"../../frag/resource/ui/viewrecipespanel.res"

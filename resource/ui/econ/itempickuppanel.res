@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/itempickuppanel.res"
+	#base	"../../../user/resource/ui/econ/itempickuppanel.res"
 	#base	"../../../extd/resource/ui/econ/itempickuppanel.res"
 	#base	"../../../myedit/resource/ui/econ/itempickuppanel.res"
 	#base	"../../../frag/resource/ui/econ/itempickuppanel.res"

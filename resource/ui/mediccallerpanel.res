@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/mediccallerpanel.res"
+	#base	"../../user/resource/ui/mediccallerpanel.res"
 	#base	"../../extd/resource/ui/mediccallerpanel.res"
 	#base	"../../myedit/resource/ui/mediccallerpanel.res"
 	#base	"../../frag/resource/ui/mediccallerpanel.res"

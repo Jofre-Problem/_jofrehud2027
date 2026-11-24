@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/mvmscoreboardenemyinfo.res"
+	#base	"../../user/resource/ui/mvmscoreboardenemyinfo.res"
 	#base	"../../extd/resource/ui/mvmscoreboardenemyinfo.res"
 	#base	"../../myedit/resource/ui/mvmscoreboardenemyinfo.res"
 	#base	"../../frag/resource/ui/mvmscoreboardenemyinfo.res"

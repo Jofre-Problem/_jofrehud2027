@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/itemoptionspanel.res"
+	#base	"../../user/resource/ui/itemoptionspanel.res"
 	#base	"../../extd/resource/ui/itemoptionspanel.res"
 	#base	"../../myedit/resource/ui/itemoptionspanel.res"
 	#base	"../../frag/resource/ui/itemoptionspanel.res"

@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/replaymessagedlg.res"
+	#base	"../../user/resource/ui/replaymessagedlg.res"
 	#base	"../../extd/resource/ui/replaymessagedlg.res"
 	#base	"../../myedit/resource/ui/replaymessagedlg.res"
 	#base	"../../frag/resource/ui/replaymessagedlg.res"

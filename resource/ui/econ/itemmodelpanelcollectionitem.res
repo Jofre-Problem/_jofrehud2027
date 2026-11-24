@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/itemmodelpanelcollectionitem.res"
+	#base	"../../../user/resource/ui/econ/itemmodelpanelcollectionitem.res"
 	#base	"../../../extd/resource/ui/econ/itemmodelpanelcollectionitem.res"
 	#base	"../../../myedit/resource/ui/econ/itemmodelpanelcollectionitem.res"
 	#base	"../../../frag/resource/ui/econ/itemmodelpanelcollectionitem.res"

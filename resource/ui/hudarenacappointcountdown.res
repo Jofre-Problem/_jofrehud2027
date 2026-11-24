@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudarenacappointcountdown.res"
+	#base	"../../user/resource/ui/hudarenacappointcountdown.res"
 	#base	"../../extd/resource/ui/hudarenacappointcountdown.res"
 	#base	"../../myedit/resource/ui/hudarenacappointcountdown.res"
 	#base	"../../frag/resource/ui/hudarenacappointcountdown.res"

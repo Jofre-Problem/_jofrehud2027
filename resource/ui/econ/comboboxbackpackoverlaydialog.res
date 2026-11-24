@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/comboboxbackpackoverlaydialog.res"
+	#base	"../../../user/resource/ui/econ/comboboxbackpackoverlaydialog.res"
 	#base	"../../../extd/resource/ui/econ/comboboxbackpackoverlaydialog.res"
 	#base	"../../../myedit/resource/ui/econ/comboboxbackpackoverlaydialog.res"
 	#base	"../../../frag/resource/ui/econ/comboboxbackpackoverlaydialog.res"

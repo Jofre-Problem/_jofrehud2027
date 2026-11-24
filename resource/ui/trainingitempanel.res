@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/trainingitempanel.res"
+	#base	"../../user/resource/ui/trainingitempanel.res"
 	#base	"../../extd/resource/ui/trainingitempanel.res"
 	#base	"../../myedit/resource/ui/trainingitempanel.res"
 	#base	"../../frag/resource/ui/trainingitempanel.res"

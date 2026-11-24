@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/matchmakingcategorypanel.res"
+	#base	"../../user/resource/ui/matchmakingcategorypanel.res"
 	#base	"../../extd/resource/ui/matchmakingcategorypanel.res"
 	#base	"../../myedit/resource/ui/matchmakingcategorypanel.res"
 	#base	"../../frag/resource/ui/matchmakingcategorypanel.res"

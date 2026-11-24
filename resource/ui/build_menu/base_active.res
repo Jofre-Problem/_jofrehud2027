@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/build_menu/base_active.res"
+	#base	"../../../user/resource/ui/build_menu/base_active.res"
 	#base	"../../../extd/resource/ui/build_menu/base_active.res"
 	#base	"../../../myedit/resource/ui/build_menu/base_active.res"
 	#base	"../../../frag/resource/ui/build_menu/base_active.res"

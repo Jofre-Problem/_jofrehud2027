@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/globalchat.res"
+	#base	"../../user/resource/ui/globalchat.res"
 	#base	"../../extd/resource/ui/globalchat.res"
 	#base	"../../myedit/resource/ui/globalchat.res"
 	#base	"../../frag/resource/ui/globalchat.res"

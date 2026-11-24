@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/importfiletexteditdialog.res"
+	#base	"../../user/resource/ui/importfiletexteditdialog.res"
 	#base	"../../extd/resource/ui/importfiletexteditdialog.res"
 	#base	"../../myedit/resource/ui/importfiletexteditdialog.res"
 	#base	"../../frag/resource/ui/importfiletexteditdialog.res"

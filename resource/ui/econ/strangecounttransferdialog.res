@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/strangecounttransferdialog.res"
+	#base	"../../../user/resource/ui/econ/strangecounttransferdialog.res"
 	#base	"../../../extd/resource/ui/econ/strangecounttransferdialog.res"
 	#base	"../../../myedit/resource/ui/econ/strangecounttransferdialog.res"
 	#base	"../../../frag/resource/ui/econ/strangecounttransferdialog.res"

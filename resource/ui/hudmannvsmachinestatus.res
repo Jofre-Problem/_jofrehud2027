@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudmannvsmachinestatus.res"
+	#base	"../../user/resource/ui/hudmannvsmachinestatus.res"
 	#base	"../../extd/resource/ui/hudmannvsmachinestatus.res"
 	#base	"../../myedit/resource/ui/hudmannvsmachinestatus.res"
 	#base	"../../frag/resource/ui/hudmannvsmachinestatus.res"

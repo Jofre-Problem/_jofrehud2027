@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/statsummary_embedded.res"
+	#base	"../../user/resource/ui/statsummary_embedded.res"
 	#base	"../../extd/resource/ui/statsummary_embedded.res"
 	#base	"../../myedit/resource/ui/statsummary_embedded.res"
 	#base	"../../frag/resource/ui/statsummary_embedded.res"

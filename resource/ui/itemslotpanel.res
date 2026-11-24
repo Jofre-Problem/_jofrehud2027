@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/itemslotpanel.res"
+	#base	"../../user/resource/ui/itemslotpanel.res"
 	#base	"../../extd/resource/ui/itemslotpanel.res"
 	#base	"../../myedit/resource/ui/itemslotpanel.res"
 	#base	"../../frag/resource/ui/itemslotpanel.res"

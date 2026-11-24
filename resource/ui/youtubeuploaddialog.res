@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/youtubeuploaddialog.res"
+	#base	"../../user/resource/ui/youtubeuploaddialog.res"
 	#base	"../../extd/resource/ui/youtubeuploaddialog.res"
 	#base	"../../myedit/resource/ui/youtubeuploaddialog.res"
 	#base	"../../frag/resource/ui/youtubeuploaddialog.res"

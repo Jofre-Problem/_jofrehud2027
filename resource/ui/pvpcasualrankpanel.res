@@ -1,4 +1,4 @@
-#base "../../myedit67/resource/ui/pvprankpanel.res"
+#base "../../user/resource/ui/pvprankpanel.res"
 #base "PvPRankPanel.res"
 #base "../../myedit/resource/ui/pvprankpanel.res"
 #base "PvPRankPanel.res"

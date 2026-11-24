@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/abusereportsubmitdialog.res"
+	#base	"../../user/resource/ui/abusereportsubmitdialog.res"
 	#base	"../../extd/resource/ui/abusereportsubmitdialog.res"
 	#base	"../../myedit/resource/ui/abusereportsubmitdialog.res"
 	#base	"../../frag/resource/ui/abusereportsubmitdialog.res"

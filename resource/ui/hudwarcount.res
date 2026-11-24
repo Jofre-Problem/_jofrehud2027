@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudwarcount.res"
+	#base	"../../user/resource/ui/hudwarcount.res"
 	#base	"../../extd/resource/ui/hudwarcount.res"
 	#base	"../../myedit/resource/ui/hudwarcount.res"
 	#base	"../../frag/resource/ui/hudwarcount.res"

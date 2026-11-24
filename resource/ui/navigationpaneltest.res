@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/navigationpaneltest.res"
+	#base	"../../user/resource/ui/navigationpaneltest.res"
 	#base	"../../extd/resource/ui/navigationpaneltest.res"
 	#base	"../../myedit/resource/ui/navigationpaneltest.res"
 	#base	"../../frag/resource/ui/navigationpaneltest.res"

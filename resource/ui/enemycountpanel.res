@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/enemycountpanel.res"
+	#base	"../../user/resource/ui/enemycountpanel.res"
 	#base	"../../extd/resource/ui/enemycountpanel.res"
 	#base	"../../myedit/resource/ui/enemycountpanel.res"
 	#base	"../../frag/resource/ui/enemycountpanel.res"

@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/mapinfomenu_sc.res"
+	#base	"../../user/resource/ui/mapinfomenu_sc.res"
 	#base	"../../extd/resource/ui/mapinfomenu_sc.res"
 	#base	"../../myedit/resource/ui/mapinfomenu_sc.res"
 	#base	"../../frag/resource/ui/mapinfomenu_sc.res"

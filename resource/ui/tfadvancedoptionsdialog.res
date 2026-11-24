@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/tfadvancedoptionsdialog.res"
+	#base	"../../user/resource/ui/tfadvancedoptionsdialog.res"
 	#base	"../../extd/resource/ui/tfadvancedoptionsdialog.res"
 	#base	"../../myedit/resource/ui/tfadvancedoptionsdialog.res"
 	#base	"../../frag/resource/ui/tfadvancedoptionsdialog.res"

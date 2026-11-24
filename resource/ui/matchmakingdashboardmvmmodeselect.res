@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/matchmakingdashboardmvmmodeselect.res"
+	#base	"../../user/resource/ui/matchmakingdashboardmvmmodeselect.res"
 	#base	"../../extd/resource/ui/matchmakingdashboardmvmmodeselect.res"
 	#base	"../../myedit/resource/ui/matchmakingdashboardmvmmodeselect.res"
 	#base	"../../frag/resource/ui/matchmakingdashboardmvmmodeselect.res"

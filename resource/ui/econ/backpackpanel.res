@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/backpackpanel.res"
+	#base	"../../../user/resource/ui/econ/backpackpanel.res"
 	#base	"../../../extd/resource/ui/econ/backpackpanel.res"
 	#base	"../../../myedit/resource/ui/econ/backpackpanel.res"
 	#base	"../../../frag/resource/ui/econ/backpackpanel.res"

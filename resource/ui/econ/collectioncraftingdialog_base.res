@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/collectioncraftingdialog_base.res"
+	#base	"../../../user/resource/ui/econ/collectioncraftingdialog_base.res"
 	#base	"../../../extd/resource/ui/econ/collectioncraftingdialog_base.res"
 	#base	"../../../myedit/resource/ui/econ/collectioncraftingdialog_base.res"
 	#base	"../../../frag/resource/ui/econ/collectioncraftingdialog_base.res"

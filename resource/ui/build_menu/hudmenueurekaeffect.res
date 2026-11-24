@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/build_menu/hudmenueurekaeffect.res"
+	#base	"../../../user/resource/ui/build_menu/hudmenueurekaeffect.res"
 	#base	"../../../extd/resource/ui/build_menu/hudmenueurekaeffect.res"
 	#base	"../../../myedit/resource/ui/build_menu/hudmenueurekaeffect.res"
 	#base	"../../../frag/resource/ui/build_menu/hudmenueurekaeffect.res"

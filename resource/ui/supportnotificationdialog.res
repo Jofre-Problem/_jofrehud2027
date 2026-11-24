@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/supportnotificationdialog.res"
+	#base	"../../user/resource/ui/supportnotificationdialog.res"
 	#base	"../../extd/resource/ui/supportnotificationdialog.res"
 	#base	"../../myedit/resource/ui/supportnotificationdialog.res"
 	#base	"../../frag/resource/ui/supportnotificationdialog.res"

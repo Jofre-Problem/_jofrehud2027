@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudarenaplayercount.res"
+	#base	"../../user/resource/ui/hudarenaplayercount.res"
 	#base	"../../extd/resource/ui/hudarenaplayercount.res"
 	#base	"../../myedit/resource/ui/hudarenaplayercount.res"
 	#base	"../../frag/resource/ui/hudarenaplayercount.res"

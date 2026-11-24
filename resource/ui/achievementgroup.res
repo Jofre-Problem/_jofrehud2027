@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/achievementgroup.res"
+	#base	"../../user/resource/ui/achievementgroup.res"
 	#base	"../../extd/resource/ui/achievementgroup.res"
 	#base	"../../myedit/resource/ui/achievementgroup.res"
 	#base	"../../frag/resource/ui/achievementgroup.res"

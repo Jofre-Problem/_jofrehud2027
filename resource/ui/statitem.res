@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/statitem.res"
+	#base	"../../user/resource/ui/statitem.res"
 	#base	"../../extd/resource/ui/statitem.res"
 	#base	"../../myedit/resource/ui/statitem.res"
 	#base	"../../frag/resource/ui/statitem.res"

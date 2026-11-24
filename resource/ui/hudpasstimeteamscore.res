@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudpasstimeteamscore.res"
+	#base	"../../user/resource/ui/hudpasstimeteamscore.res"
 	#base	"../../extd/resource/ui/hudpasstimeteamscore.res"
 	#base	"../../myedit/resource/ui/hudpasstimeteamscore.res"
 	#base	"../../frag/resource/ui/hudpasstimeteamscore.res"

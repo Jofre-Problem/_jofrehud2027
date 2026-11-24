@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hud_obj_sentrygun_disp.res"
+	#base	"../../user/resource/ui/hud_obj_sentrygun_disp.res"
 	#base	"../../extd/resource/ui/hud_obj_sentrygun_disp.res"
 	#base	"../../myedit/resource/ui/hud_obj_sentrygun_disp.res"
 	#base	"../../frag/resource/ui/hud_obj_sentrygun_disp.res"

@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudteamgoal.res"
+	#base	"../../user/resource/ui/hudteamgoal.res"
 	#base	"../../extd/resource/ui/hudteamgoal.res"
 	#base	"../../myedit/resource/ui/hudteamgoal.res"
 	#base	"../../frag/resource/ui/hudteamgoal.res"

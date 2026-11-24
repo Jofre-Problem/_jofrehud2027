@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudteamswitch.res"
+	#base	"../../user/resource/ui/hudteamswitch.res"
 	#base	"../../extd/resource/ui/hudteamswitch.res"
 	#base	"../../myedit/resource/ui/hudteamswitch.res"
 	#base	"../../frag/resource/ui/hudteamswitch.res"

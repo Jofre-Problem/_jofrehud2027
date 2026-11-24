@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/confirmcustomizetexturedialog.res"
+	#base	"../../../user/resource/ui/econ/confirmcustomizetexturedialog.res"
 	#base	"../../../extd/resource/ui/econ/confirmcustomizetexturedialog.res"
 	#base	"../../../myedit/resource/ui/econ/confirmcustomizetexturedialog.res"
 	#base	"../../../frag/resource/ui/econ/confirmcustomizetexturedialog.res"

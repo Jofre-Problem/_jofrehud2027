@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/motd.res"
+	#base	"../../user/resource/ui/motd.res"
 	#base	"../../extd/resource/ui/motd.res"
 	#base	"../../myedit/resource/ui/motd.res"
 	#base	"../../frag/resource/ui/motd.res"

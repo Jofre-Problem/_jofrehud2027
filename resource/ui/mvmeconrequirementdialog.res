@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/mvmeconrequirementdialog.res"
+	#base	"../../user/resource/ui/mvmeconrequirementdialog.res"
 	#base	"../../extd/resource/ui/mvmeconrequirementdialog.res"
 	#base	"../../myedit/resource/ui/mvmeconrequirementdialog.res"
 	#base	"../../frag/resource/ui/mvmeconrequirementdialog.res"

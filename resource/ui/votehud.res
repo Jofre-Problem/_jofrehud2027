@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/votehud.res"
+	#base	"../../user/resource/ui/votehud.res"
 	#base	"../../extd/resource/ui/votehud.res"
 	#base	"../../myedit/resource/ui/votehud.res"
 	#base	"../../frag/resource/ui/votehud.res"

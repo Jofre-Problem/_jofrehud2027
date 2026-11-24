@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudachievementfloatingnumber.res"
+	#base	"../../user/resource/ui/hudachievementfloatingnumber.res"
 	#base	"../../extd/resource/ui/hudachievementfloatingnumber.res"
 	#base	"../../myedit/resource/ui/hudachievementfloatingnumber.res"
 	#base	"../../frag/resource/ui/hudachievementfloatingnumber.res"

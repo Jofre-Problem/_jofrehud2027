@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/intromenu.res"
+	#base	"../../user/resource/ui/intromenu.res"
 	#base	"../../extd/resource/ui/intromenu.res"
 	#base	"../../myedit/resource/ui/intromenu.res"
 	#base	"../../frag/resource/ui/intromenu.res"

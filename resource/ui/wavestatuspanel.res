@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/wavestatuspanel.res"
+	#base	"../../user/resource/ui/wavestatuspanel.res"
 	#base	"../../extd/resource/ui/wavestatuspanel.res"
 	#base	"../../myedit/resource/ui/wavestatuspanel.res"
 	#base	"../../frag/resource/ui/wavestatuspanel.res"

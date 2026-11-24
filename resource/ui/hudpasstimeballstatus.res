@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudpasstimeballstatus.res"
+	#base	"../../user/resource/ui/hudpasstimeballstatus.res"
 	#base	"../../extd/resource/ui/hudpasstimeballstatus.res"
 	#base	"../../myedit/resource/ui/hudpasstimeballstatus.res"
 	#base	"../../frag/resource/ui/hudpasstimeballstatus.res"

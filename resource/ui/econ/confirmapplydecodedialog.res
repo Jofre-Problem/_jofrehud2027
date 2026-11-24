@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/confirmapplydecodedialog.res"
+	#base	"../../../user/resource/ui/econ/confirmapplydecodedialog.res"
 	#base	"../../../extd/resource/ui/econ/confirmapplydecodedialog.res"
 	#base	"../../../myedit/resource/ui/econ/confirmapplydecodedialog.res"
 	#base	"../../../frag/resource/ui/econ/confirmapplydecodedialog.res"

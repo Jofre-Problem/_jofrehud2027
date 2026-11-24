@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/videopanel.res"
+	#base	"../../user/resource/ui/videopanel.res"
 	#base	"../../extd/resource/ui/videopanel.res"
 	#base	"../../myedit/resource/ui/videopanel.res"
 	#base	"../../frag/resource/ui/videopanel.res"

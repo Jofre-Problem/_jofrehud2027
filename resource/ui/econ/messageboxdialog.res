@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/messageboxdialog.res"
+	#base	"../../../user/resource/ui/econ/messageboxdialog.res"
 	#base	"../../../extd/resource/ui/econ/messageboxdialog.res"
 	#base	"../../../myedit/resource/ui/econ/messageboxdialog.res"
 	#base	"../../../frag/resource/ui/econ/messageboxdialog.res"

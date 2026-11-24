@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/selectplayerdialog.res"
+	#base	"../../user/resource/ui/selectplayerdialog.res"
 	#base	"../../extd/resource/ui/selectplayerdialog.res"
 	#base	"../../myedit/resource/ui/selectplayerdialog.res"
 	#base	"../../frag/resource/ui/selectplayerdialog.res"

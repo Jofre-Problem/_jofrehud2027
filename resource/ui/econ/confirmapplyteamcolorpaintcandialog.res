@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/confirmapplyteamcolorpaintcandialog.res"
+	#base	"../../../user/resource/ui/econ/confirmapplyteamcolorpaintcandialog.res"
 	#base	"../../../extd/resource/ui/econ/confirmapplyteamcolorpaintcandialog.res"
 	#base	"../../../myedit/resource/ui/econ/confirmapplyteamcolorpaintcandialog.res"
 	#base	"../../../frag/resource/ui/econ/confirmapplyteamcolorpaintcandialog.res"

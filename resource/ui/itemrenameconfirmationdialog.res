@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/itemrenameconfirmationdialog.res"
+	#base	"../../user/resource/ui/itemrenameconfirmationdialog.res"
 	#base	"../../extd/resource/ui/itemrenameconfirmationdialog.res"
 	#base	"../../myedit/resource/ui/itemrenameconfirmationdialog.res"
 	#base	"../../frag/resource/ui/itemrenameconfirmationdialog.res"

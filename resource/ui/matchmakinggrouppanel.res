@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/matchmakinggrouppanel.res"
+	#base	"../../user/resource/ui/matchmakinggrouppanel.res"
 	#base	"../../extd/resource/ui/matchmakinggrouppanel.res"
 	#base	"../../myedit/resource/ui/matchmakinggrouppanel.res"
 	#base	"../../frag/resource/ui/matchmakinggrouppanel.res"

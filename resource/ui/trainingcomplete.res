@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/trainingcomplete.res"
+	#base	"../../user/resource/ui/trainingcomplete.res"
 	#base	"../../extd/resource/ui/trainingcomplete.res"
 	#base	"../../myedit/resource/ui/trainingcomplete.res"
 	#base	"../../frag/resource/ui/trainingcomplete.res"

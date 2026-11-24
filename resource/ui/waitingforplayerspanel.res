@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/waitingforplayerspanel.res"
+	#base	"../../user/resource/ui/waitingforplayerspanel.res"
 	#base	"../../extd/resource/ui/waitingforplayerspanel.res"
 	#base	"../../myedit/resource/ui/waitingforplayerspanel.res"
 	#base	"../../frag/resource/ui/waitingforplayerspanel.res"

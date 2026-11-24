@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/huditemeffectmeter.res"
+	#base	"../../user/resource/ui/huditemeffectmeter.res"
 	#base	"../../extd/resource/ui/huditemeffectmeter.res"
 	#base	"../../myedit/resource/ui/huditemeffectmeter.res"
 	#base	"../../frag/resource/ui/huditemeffectmeter.res"

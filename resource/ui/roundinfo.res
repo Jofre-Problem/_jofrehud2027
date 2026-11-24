@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/roundinfo.res"
+	#base	"../../user/resource/ui/roundinfo.res"
 	#base	"../../extd/resource/ui/roundinfo.res"
 	#base	"../../myedit/resource/ui/roundinfo.res"
 	#base	"../../frag/resource/ui/roundinfo.res"

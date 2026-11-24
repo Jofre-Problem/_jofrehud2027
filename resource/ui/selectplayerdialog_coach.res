@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/selectplayerdialog_coach.res"
+	#base	"../../user/resource/ui/selectplayerdialog_coach.res"
 	#base	"../../extd/resource/ui/selectplayerdialog_coach.res"
 	#base	"../../myedit/resource/ui/selectplayerdialog_coach.res"
 	#base	"../../frag/resource/ui/selectplayerdialog_coach.res"

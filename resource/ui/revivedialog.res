@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/revivedialog.res"
+	#base	"../../user/resource/ui/revivedialog.res"
 	#base	"../../extd/resource/ui/revivedialog.res"
 	#base	"../../myedit/resource/ui/revivedialog.res"
 	#base	"../../frag/resource/ui/revivedialog.res"

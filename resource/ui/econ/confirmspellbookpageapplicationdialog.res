@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/confirmspellbookpageapplicationdialog.res"
+	#base	"../../../user/resource/ui/econ/confirmspellbookpageapplicationdialog.res"
 	#base	"../../../extd/resource/ui/econ/confirmspellbookpageapplicationdialog.res"
 	#base	"../../../myedit/resource/ui/econ/confirmspellbookpageapplicationdialog.res"
 	#base	"../../../frag/resource/ui/econ/confirmspellbookpageapplicationdialog.res"

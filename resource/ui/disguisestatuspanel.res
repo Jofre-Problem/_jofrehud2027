@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/disguisestatuspanel.res"
+	#base	"../../user/resource/ui/disguisestatuspanel.res"
 	#base	"../../extd/resource/ui/disguisestatuspanel.res"
 	#base	"../../myedit/resource/ui/disguisestatuspanel.res"
 	#base	"../../frag/resource/ui/disguisestatuspanel.res"

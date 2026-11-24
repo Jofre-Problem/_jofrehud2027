@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/comprankstooltip.res"
+	#base	"../../user/resource/ui/comprankstooltip.res"
 	#base	"../../extd/resource/ui/comprankstooltip.res"
 	#base	"../../myedit/resource/ui/comprankstooltip.res"
 	#base	"../../frag/resource/ui/comprankstooltip.res"

@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/chatpopup.res"
+	#base	"../../user/resource/ui/chatpopup.res"
 	#base	"../../extd/resource/ui/chatpopup.res"
 	#base	"../../myedit/resource/ui/chatpopup.res"
 	#base	"../../frag/resource/ui/chatpopup.res"

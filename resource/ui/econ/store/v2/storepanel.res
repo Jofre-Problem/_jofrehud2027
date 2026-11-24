@@ -1,4 +1,4 @@
-	#base	"../../../../../myedit67/resource/ui/econ/store/v2/storepanel.res"
+	#base	"../../../../../user/resource/ui/econ/store/v2/storepanel.res"
 	#base	"../../../../../extd/resource/ui/econ/store/v2/storepanel.res"
 	#base	"../../../../../myedit/resource/ui/econ/store/v2/storepanel.res"
 	#base	"../../../../../frag/resource/ui/econ/store/v2/storepanel.res"

@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudalert.res"
+	#base	"../../user/resource/ui/hudalert.res"
 	#base	"../../extd/resource/ui/hudalert.res"
 	#base	"../../myedit/resource/ui/hudalert.res"
 	#base	"../../frag/resource/ui/hudalert.res"

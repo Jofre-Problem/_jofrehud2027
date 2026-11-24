@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/playerticketstatus.res"
+	#base	"../../user/resource/ui/playerticketstatus.res"
 	#base	"../../extd/resource/ui/playerticketstatus.res"
 	#base	"../../myedit/resource/ui/playerticketstatus.res"
 	#base	"../../frag/resource/ui/playerticketstatus.res"

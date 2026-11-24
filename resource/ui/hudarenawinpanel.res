@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudarenawinpanel.res"
+	#base	"../../user/resource/ui/hudarenawinpanel.res"
 	#base	"../../extd/resource/ui/hudarenawinpanel.res"
 	#base	"../../myedit/resource/ui/hudarenawinpanel.res"
 	#base	"../../frag/resource/ui/hudarenawinpanel.res"

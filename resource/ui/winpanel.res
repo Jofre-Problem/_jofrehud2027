@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/winpanel.res"
+	#base	"../../user/resource/ui/winpanel.res"
 	#base	"../../extd/resource/ui/winpanel.res"
 	#base	"../../myedit/resource/ui/winpanel.res"
 	#base	"../../frag/resource/ui/winpanel.res"

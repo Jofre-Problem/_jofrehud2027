@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/competitiveaccessinfo.res"
+	#base	"../../user/resource/ui/competitiveaccessinfo.res"
 	#base	"../../extd/resource/ui/competitiveaccessinfo.res"
 	#base	"../../myedit/resource/ui/competitiveaccessinfo.res"
 	#base	"../../frag/resource/ui/competitiveaccessinfo.res"

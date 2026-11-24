@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/newrecipefounddialog.res"
+	#base	"../../user/resource/ui/newrecipefounddialog.res"
 	#base	"../../extd/resource/ui/newrecipefounddialog.res"
 	#base	"../../myedit/resource/ui/newrecipefounddialog.res"
 	#base	"../../frag/resource/ui/newrecipefounddialog.res"

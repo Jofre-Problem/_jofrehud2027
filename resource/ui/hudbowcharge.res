@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudbowcharge.res"
+	#base	"../../user/resource/ui/hudbowcharge.res"
 	#base	"../../extd/resource/ui/hudbowcharge.res"
 	#base	"../../myedit/resource/ui/hudbowcharge.res"
 	#base	"../../frag/resource/ui/hudbowcharge.res"

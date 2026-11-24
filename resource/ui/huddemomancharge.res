@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/huddemomancharge.res"
+	#base	"../../user/resource/ui/huddemomancharge.res"
 	#base	"../../extd/resource/ui/huddemomancharge.res"
 	#base	"../../myedit/resource/ui/huddemomancharge.res"
 	#base	"../../frag/resource/ui/huddemomancharge.res"

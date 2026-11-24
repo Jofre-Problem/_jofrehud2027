@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/objectivestatusmultipleescort.res"
+	#base	"../../user/resource/ui/objectivestatusmultipleescort.res"
 	#base	"../../extd/resource/ui/objectivestatusmultipleescort.res"
 	#base	"../../myedit/resource/ui/objectivestatusmultipleescort.res"
 	#base	"../../frag/resource/ui/objectivestatusmultipleescort.res"

@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/matchmakingtooltip.res"
+	#base	"../../user/resource/ui/matchmakingtooltip.res"
 	#base	"../../extd/resource/ui/matchmakingtooltip.res"
 	#base	"../../myedit/resource/ui/matchmakingtooltip.res"
 	#base	"../../frag/resource/ui/matchmakingtooltip.res"

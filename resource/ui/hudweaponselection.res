@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudweaponselection.res"
+	#base	"../../user/resource/ui/hudweaponselection.res"
 	#base	"../../extd/resource/ui/hudweaponselection.res"
 	#base	"../../myedit/resource/ui/hudweaponselection.res"
 	#base	"../../frag/resource/ui/hudweaponselection.res"

@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/cheatdetectiondialog.res"
+	#base	"../../user/resource/ui/cheatdetectiondialog.res"
 	#base	"../../extd/resource/ui/cheatdetectiondialog.res"
 	#base	"../../myedit/resource/ui/cheatdetectiondialog.res"
 	#base	"../../frag/resource/ui/cheatdetectiondialog.res"

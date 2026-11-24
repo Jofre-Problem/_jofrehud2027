@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/itemrenamedialog.res"
+	#base	"../../user/resource/ui/itemrenamedialog.res"
 	#base	"../../extd/resource/ui/itemrenamedialog.res"
 	#base	"../../myedit/resource/ui/itemrenamedialog.res"
 	#base	"../../frag/resource/ui/itemrenamedialog.res"

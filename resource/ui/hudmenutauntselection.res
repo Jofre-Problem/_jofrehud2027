@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudmenutauntselection.res"
+	#base	"../../user/resource/ui/hudmenutauntselection.res"
 	#base	"../../extd/resource/ui/hudmenutauntselection.res"
 	#base	"../../myedit/resource/ui/hudmenutauntselection.res"
 	#base	"../../frag/resource/ui/hudmenutauntselection.res"

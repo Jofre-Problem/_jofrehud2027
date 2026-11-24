@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/giveawayitempanel.res"
+	#base	"../../user/resource/ui/giveawayitempanel.res"
 	#base	"../../extd/resource/ui/giveawayitempanel.res"
 	#base	"../../myedit/resource/ui/giveawayitempanel.res"
 	#base	"../../frag/resource/ui/giveawayitempanel.res"

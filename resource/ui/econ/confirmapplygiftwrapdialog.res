@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/confirmapplygiftwrapdialog.res"
+	#base	"../../../user/resource/ui/econ/confirmapplygiftwrapdialog.res"
 	#base	"../../../extd/resource/ui/econ/confirmapplygiftwrapdialog.res"
 	#base	"../../../myedit/resource/ui/econ/confirmapplygiftwrapdialog.res"
 	#base	"../../../frag/resource/ui/econ/confirmapplygiftwrapdialog.res"

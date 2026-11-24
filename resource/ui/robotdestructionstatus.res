@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/robotdestructionstatus.res"
+	#base	"../../user/resource/ui/robotdestructionstatus.res"
 	#base	"../../extd/resource/ui/robotdestructionstatus.res"
 	#base	"../../myedit/resource/ui/robotdestructionstatus.res"
 	#base	"../../frag/resource/ui/robotdestructionstatus.res"

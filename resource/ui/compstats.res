@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/compstats.res"
+	#base	"../../user/resource/ui/compstats.res"
 	#base	"../../extd/resource/ui/compstats.res"
 	#base	"../../myedit/resource/ui/compstats.res"
 	#base	"../../frag/resource/ui/compstats.res"

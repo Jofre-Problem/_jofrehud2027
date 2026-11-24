@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/mvmvictorypanel.res"
+	#base	"../../user/resource/ui/mvmvictorypanel.res"
 	#base	"../../extd/resource/ui/mvmvictorypanel.res"
 	#base	"../../myedit/resource/ui/mvmvictorypanel.res"
 	#base	"../../frag/resource/ui/mvmvictorypanel.res"

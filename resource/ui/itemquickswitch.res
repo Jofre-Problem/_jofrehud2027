@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/itemquickswitch.res"
+	#base	"../../user/resource/ui/itemquickswitch.res"
 	#base	"../../extd/resource/ui/itemquickswitch.res"
 	#base	"../../myedit/resource/ui/itemquickswitch.res"
 	#base	"../../frag/resource/ui/itemquickswitch.res"

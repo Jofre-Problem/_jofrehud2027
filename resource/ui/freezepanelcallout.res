@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/freezepanelcallout.res"
+	#base	"../../user/resource/ui/freezepanelcallout.res"
 	#base	"../../extd/resource/ui/freezepanelcallout.res"
 	#base	"../../myedit/resource/ui/freezepanelcallout.res"
 	#base	"../../frag/resource/ui/freezepanelcallout.res"

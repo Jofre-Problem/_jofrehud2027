@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudpvewinpanel.res"
+	#base	"../../user/resource/ui/hudpvewinpanel.res"
 	#base	"../../extd/resource/ui/hudpvewinpanel.res"
 	#base	"../../myedit/resource/ui/hudpvewinpanel.res"
 	#base	"../../frag/resource/ui/hudpvewinpanel.res"

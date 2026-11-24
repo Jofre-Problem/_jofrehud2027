@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/statpanel_base.res"
+	#base	"../../user/resource/ui/statpanel_base.res"
 	#base	"../../extd/resource/ui/statpanel_base.res"
 	#base	"../../myedit/resource/ui/statpanel_base.res"
 	#base	"../../frag/resource/ui/statpanel_base.res"

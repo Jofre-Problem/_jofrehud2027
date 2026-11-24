@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/tradingstartdialog.res"
+	#base	"../../../user/resource/ui/econ/tradingstartdialog.res"
 	#base	"../../../extd/resource/ui/econ/tradingstartdialog.res"
 	#base	"../../../myedit/resource/ui/econ/tradingstartdialog.res"
 	#base	"../../../frag/resource/ui/econ/tradingstartdialog.res"

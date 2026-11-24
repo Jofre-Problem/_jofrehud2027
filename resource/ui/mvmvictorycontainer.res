@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/mvmvictorycontainer.res"
+	#base	"../../user/resource/ui/mvmvictorycontainer.res"
 	#base	"../../extd/resource/ui/mvmvictorycontainer.res"
 	#base	"../../myedit/resource/ui/mvmvictorycontainer.res"
 	#base	"../../frag/resource/ui/mvmvictorycontainer.res"

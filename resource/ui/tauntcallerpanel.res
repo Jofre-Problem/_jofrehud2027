@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/tauntcallerpanel.res"
+	#base	"../../user/resource/ui/tauntcallerpanel.res"
 	#base	"../../extd/resource/ui/tauntcallerpanel.res"
 	#base	"../../myedit/resource/ui/tauntcallerpanel.res"
 	#base	"../../frag/resource/ui/tauntcallerpanel.res"

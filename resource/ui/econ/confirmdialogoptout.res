@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/confirmdialogoptout.res"
+	#base	"../../../user/resource/ui/econ/confirmdialogoptout.res"
 	#base	"../../../extd/resource/ui/econ/confirmdialogoptout.res"
 	#base	"../../../myedit/resource/ui/econ/confirmdialogoptout.res"
 	#base	"../../../frag/resource/ui/econ/confirmdialogoptout.res"

@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudarenaclasslayout.res"
+	#base	"../../user/resource/ui/hudarenaclasslayout.res"
 	#base	"../../extd/resource/ui/hudarenaclasslayout.res"
 	#base	"../../myedit/resource/ui/hudarenaclasslayout.res"
 	#base	"../../frag/resource/ui/hudarenaclasslayout.res"

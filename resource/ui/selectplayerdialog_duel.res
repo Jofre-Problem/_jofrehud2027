@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/selectplayerdialog_duel.res"
+	#base	"../../user/resource/ui/selectplayerdialog_duel.res"
 	#base	"../../extd/resource/ui/selectplayerdialog_duel.res"
 	#base	"../../myedit/resource/ui/selectplayerdialog_duel.res"
 	#base	"../../frag/resource/ui/selectplayerdialog_duel.res"

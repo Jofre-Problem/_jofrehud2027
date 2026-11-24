@@ -1,4 +1,2 @@
-	#base "../_stream/scripts/mod_textures.txt"
-	#base "../_jofrenew/scripts/mod_textures.txt"
-	#base "../_jofrehud/scripts/mod_textures.txt"
-	#base "../_tf2hud/scripts/mod_textures.txt
+#base "mod_textures_fragment.txt"
+#base "mod_textures_default.txt"

@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/mvmcreditsubpanel.res"
+	#base	"../../user/resource/ui/mvmcreditsubpanel.res"
 	#base	"../../extd/resource/ui/mvmcreditsubpanel.res"
 	#base	"../../myedit/resource/ui/mvmcreditsubpanel.res"
 	#base	"../../frag/resource/ui/mvmcreditsubpanel.res"

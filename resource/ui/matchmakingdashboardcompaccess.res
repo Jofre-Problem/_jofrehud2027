@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/matchmakingdashboardcompaccess.res"
+	#base	"../../user/resource/ui/matchmakingdashboardcompaccess.res"
 	#base	"../../extd/resource/ui/matchmakingdashboardcompaccess.res"
 	#base	"../../myedit/resource/ui/matchmakingdashboardcompaccess.res"
 	#base	"../../frag/resource/ui/matchmakingdashboardcompaccess.res"

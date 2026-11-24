@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/econ/confirmapplystrangifierdialog.res"
+	#base	"../../../user/resource/ui/econ/confirmapplystrangifierdialog.res"
 	#base	"../../../extd/resource/ui/econ/confirmapplystrangifierdialog.res"
 	#base	"../../../myedit/resource/ui/econ/confirmapplystrangifierdialog.res"
 	#base	"../../../frag/resource/ui/econ/confirmapplystrangifierdialog.res"

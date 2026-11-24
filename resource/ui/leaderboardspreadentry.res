@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/leaderboardspreadentry.res"
+	#base	"../../user/resource/ui/leaderboardspreadentry.res"
 	#base	"../../extd/resource/ui/leaderboardspreadentry.res"
 	#base	"../../myedit/resource/ui/leaderboardspreadentry.res"
 	#base	"../../frag/resource/ui/leaderboardspreadentry.res"

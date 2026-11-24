@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/upgradeboxdialog.res"
+	#base	"../../user/resource/ui/upgradeboxdialog.res"
 	#base	"../../extd/resource/ui/upgradeboxdialog.res"
 	#base	"../../myedit/resource/ui/upgradeboxdialog.res"
 	#base	"../../frag/resource/ui/upgradeboxdialog.res"

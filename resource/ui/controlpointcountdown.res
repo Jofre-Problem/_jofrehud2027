@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/controlpointcountdown.res"
+	#base	"../../user/resource/ui/controlpointcountdown.res"
 	#base	"../../extd/resource/ui/controlpointcountdown.res"
 	#base	"../../myedit/resource/ui/controlpointcountdown.res"
 	#base	"../../frag/resource/ui/controlpointcountdown.res"

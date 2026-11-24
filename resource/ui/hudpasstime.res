@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudpasstime.res"
+	#base	"../../user/resource/ui/hudpasstime.res"
 	#base	"../../extd/resource/ui/hudpasstime.res"
 	#base	"../../myedit/resource/ui/hudpasstime.res"
 	#base	"../../frag/resource/ui/hudpasstime.res"

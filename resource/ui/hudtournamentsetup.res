@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudtournamentsetup.res"
+	#base	"../../user/resource/ui/hudtournamentsetup.res"
 	#base	"../../extd/resource/ui/hudtournamentsetup.res"
 	#base	"../../myedit/resource/ui/hudtournamentsetup.res"
 	#base	"../../frag/resource/ui/hudtournamentsetup.res"

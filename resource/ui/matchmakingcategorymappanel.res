@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/matchmakingcategorymappanel.res"
+	#base	"../../user/resource/ui/matchmakingcategorymappanel.res"
 	#base	"../../extd/resource/ui/matchmakingcategorymappanel.res"
 	#base	"../../myedit/resource/ui/matchmakingcategorymappanel.res"
 	#base	"../../frag/resource/ui/matchmakingcategorymappanel.res"

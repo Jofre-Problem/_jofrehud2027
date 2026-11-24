@@ -1,4 +1,4 @@
-	#base	"../../../myedit67/resource/ui/disguise_menu/hudmenuspydisguise.res"
+	#base	"../../../user/resource/ui/disguise_menu/hudmenuspydisguise.res"
 	#base	"../../../extd/resource/ui/disguise_menu/hudmenuspydisguise.res"
 	#base	"../../../myedit/resource/ui/disguise_menu/hudmenuspydisguise.res"
 	#base	"../../../frag/resource/ui/disguise_menu/hudmenuspydisguise.res"

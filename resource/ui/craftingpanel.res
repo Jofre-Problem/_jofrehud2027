@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/craftingpanel.res"
+	#base	"../../user/resource/ui/craftingpanel.res"
 	#base	"../../extd/resource/ui/craftingpanel.res"
 	#base	"../../myedit/resource/ui/craftingpanel.res"
 	#base	"../../frag/resource/ui/craftingpanel.res"

@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/publishfiledialog.res"
+	#base	"../../user/resource/ui/publishfiledialog.res"
 	#base	"../../extd/resource/ui/publishfiledialog.res"
 	#base	"../../myedit/resource/ui/publishfiledialog.res"
 	#base	"../../frag/resource/ui/publishfiledialog.res"

@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudobjectivetimepanel.res"
+	#base	"../../user/resource/ui/hudobjectivetimepanel.res"
 	#base	"../../extd/resource/ui/hudobjectivetimepanel.res"
 	#base	"../../myedit/resource/ui/hudobjectivetimepanel.res"
 	#base	"../../frag/resource/ui/hudobjectivetimepanel.res"

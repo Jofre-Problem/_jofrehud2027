@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/youtubeuploadwaitingdialog.res"
+	#base	"../../user/resource/ui/youtubeuploadwaitingdialog.res"
 	#base	"../../extd/resource/ui/youtubeuploadwaitingdialog.res"
 	#base	"../../myedit/resource/ui/youtubeuploadwaitingdialog.res"
 	#base	"../../frag/resource/ui/youtubeuploadwaitingdialog.res"

@@ -1,4 +1,4 @@
-	#base	"../../myedit67/resource/ui/hudmediccharge.res"
+	#base	"../../user/resource/ui/hudmediccharge.res"
 	#base	"../../extd/resource/ui/hudmediccharge.res"
 	#base	"../../myedit/resource/ui/hudmediccharge.res"
 	#base	"../../frag/resource/ui/hudmediccharge.res"
