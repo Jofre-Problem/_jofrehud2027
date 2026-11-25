@@ -1,7 +1,7 @@
-"HudAnimations_Manifest"
+"hudanimations_manifest"
 {
-	"file" "scripts/animations/animations_removed.txt"
-	"file" "scripts/hudanimations_light.txt"	
-	"file" "scripts/hudanimations.txt"
-	"file" "scripts/hudanimations_tf.txt"
+    "file"      "scripts/hudanimations_user.txt"
+    "file"      "scripts/hudanimations_frag.txt"
+    "file"      "scripts/hudanimations.txt"
+    "file"      "scripts/hudanimations_tf.txt"
 }

@@ -54,17 +54,7 @@
 "text_center""1"
 "name_only""1"
 
-"attriblabel"
-{
-"font""ItemFontAttribLarge"
-"visible""0"
-}
 
-"itemmodelpanel"
-{
-"use_item_rendertarget" "0"
-"allow_rot""0"
-}
 }
 
 "itemoptionpanels_kv"
